@@ -1,0 +1,863 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bda9fd5657d42cac5156a79cf279b1f7",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "3fa29dbaf6650d20756e54219bd0ac68",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "23311743bc7b4ba398158aada882d12d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "ddeaf3416156b58a08ac82e31855aeaa",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "58df3a93aa711485da1e5371e7adb23d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4b57a311ea77856ee13a0fe923948313",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "51b8b57c67ead44abc2f97ffbf45530f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1943ff2f-9c0c-558d-8d0c-006603e8106a": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby-plugin-react-helmet",
+      "id": "1943ff2f-9c0c-558d-8d0c-006603e8106a",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "3.0.5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [
+        "onRenderBody"
+      ],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Manage document head data with react-helmet. Provides drop-in server rendering support for Gatsby.",
+        "version": "3.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "favicon",
+          "react-helmet",
+          "seo",
+          "document",
+          "head",
+          "title",
+          "meta",
+          "link",
+          "script",
+          "base",
+          "noscript",
+          "style"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "matthews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.1.4"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2de8ac4a4d39f1cb68d6ac8ecf5139aa",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby-plugin-i18n",
+      "id": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "name": "gatsby-plugin-i18n",
+      "version": "1.0.1",
+      "pluginOptions": {
+        "plugins": [],
+        "langKeyForNull": "any",
+        "langKeyDefault": "zh",
+        "useLangKeyLayout": true,
+        "prefixDefault": false
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby-plugin-i18n",
+      "packageJson": {
+        "name": "gatsby-plugin-i18n",
+        "description": "Multi language feature for Gatsby",
+        "version": "1.0.1",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "i18n"
+        ],
+        "author": {
+          "name": "angeloocana.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "folktale",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "graphql",
+            "version": "^0.11.7"
+          },
+          {
+            "name": "ptz-i18n",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.24.1"
+          },
+          {
+            "name": "babel-eslint",
+            "version": "^8.0.1"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-preset-env",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "codecov",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "eslint",
+            "version": "^4.8.0"
+          },
+          {
+            "name": "eslint-config-standard",
+            "version": "^10.2.1"
+          },
+          {
+            "name": "eslint-config-standard-react",
+            "version": "^5.0.0"
+          },
+          {
+            "name": "eslint-plugin-import",
+            "version": "^2.7.0"
+          },
+          {
+            "name": "eslint-plugin-jest",
+            "version": "^21.2.0"
+          },
+          {
+            "name": "eslint-plugin-node",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "eslint-plugin-promise",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "eslint-plugin-react",
+            "version": "^7.4.0"
+          },
+          {
+            "name": "eslint-plugin-standard",
+            "version": "^3.0.1"
+          },
+          {
+            "name": "jest",
+            "version": "^22.0.4"
+          },
+          {
+            "name": "opn-cli",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "ptz-assert",
+            "version": "^1.6.8"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "2387cee13ea041395a0399021f21d3a0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "74e83e1f19e6c76441401f72e839561b",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc",
+      "packageJson": {
+        "name": "gatsby-starter-default-i18n",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "angeloocana.com",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "bulma",
+            "version": "^0.7.4"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.102"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^2.0.9"
+          },
+          {
+            "name": "gatsby-plugin-i18n",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^3.0.5"
+          },
+          {
+            "name": "intl",
+            "version": "^1.2.5"
+          },
+          {
+            "name": "react",
+            "version": "^16.7.0"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.7.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          },
+          {
+            "name": "react-intl",
+            "version": "^2.8.0"
+          },
+          {
+            "name": "react-router-dom",
+            "version": "^4.3.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "codecov",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "jest",
+            "version": "^24.0.0"
+          },
+          {
+            "name": "prettier",
+            "version": "^1.16.1"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8a5c87ecbd861c1f134b44eb8f149bb7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "19154e48-700f-5127-8ade-f789af5e6641": {
+      "resolve": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby-plugin-page-creator",
+      "id": "19154e48-700f-5127-8ade-f789af5e6641",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.5",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/ryankretch/Documents/Coding Stuff/wc/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.5",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": ">2.0.0-alpha"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "26370281aa39c4e8b7133b21c7329379",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter",
+        "languages": {
+          "langs": [
+            "en",
+            "zh"
+          ],
+          "defaultLangKey": "zh"
+        }
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2019-05-06T16:23:00.828Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "b9da2972451d1b1f9c90b1bf96b8cf0d",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {
+        "slug": "/404/",
+        "langKey": "zh"
+      },
+      "pluginCreator___NODE": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "pluginCreatorId": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "23a3d140056127c9afe216ad1b99929b",
+        "description": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /en/": {
+      "jsonName": "en-310",
+      "internalComponentName": "ComponentEn",
+      "path": "/en/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.en.js",
+      "componentChunkName": "component---src-pages-index-en-js",
+      "context": {
+        "slug": "/en/",
+        "langKey": "en"
+      },
+      "pluginCreator___NODE": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "pluginCreatorId": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.en.js",
+      "id": "SitePage /en/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0a114dac4bf2cbd4927ea2ec43180982",
+        "description": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js",
+      "componentChunkName": "component---src-pages-index-zh-js",
+      "context": {
+        "slug": "/",
+        "langKey": "zh"
+      },
+      "pluginCreator___NODE": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "pluginCreatorId": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "54a546c02b1a493dfb71f3836ecfc5fd",
+        "description": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /en/page-2/": {
+      "jsonName": "en-page-2-065",
+      "internalComponentName": "ComponentEnPage2",
+      "path": "/en/page-2/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/page-2.en.js",
+      "componentChunkName": "component---src-pages-page-2-en-js",
+      "context": {
+        "slug": "/en/page-2/",
+        "langKey": "en"
+      },
+      "pluginCreator___NODE": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "pluginCreatorId": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/page-2.en.js",
+      "id": "SitePage /en/page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "296649890875ed885b31bba52ba6d249",
+        "description": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "jsonName": "page-2-fbc",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/page-2.zh.js",
+      "componentChunkName": "component---src-pages-page-2-zh-js",
+      "context": {
+        "slug": "/page-2/",
+        "langKey": "zh"
+      },
+      "pluginCreator___NODE": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "pluginCreatorId": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/page-2.zh.js",
+      "id": "SitePage /page-2/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bc9901dbeaa78f98b9f19bbef6345278",
+        "description": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {
+        "slug": "/404/",
+        "langKey": "zh"
+      },
+      "pluginCreator___NODE": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "pluginCreatorId": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "395d822bb200ee90f91cd91eeb1ef36c",
+        "description": "720c2aa8-a5bf-5747-b4b7-8347b4c1d1d8",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "1b427cefa930d2c6ac991dc1031dcbfc"
+  },
+  "componentDataDependencies": {
+    "nodes": {
+      "Site": [
+        "sq--src-layouts-index-js"
+      ]
+    },
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "en-310": "427/path---en-310-dec-a7eaqKu3DfGqDpgQlE13zqpX6Q",
+    "404-22d": "665/path---404-22-d-bce-ZNpXRWbCmk1qYofocrzTyxW3Q",
+    "sq--src-layouts-index-js": 2931908878,
+    "index": "180/path---index-6a9-IPLCzxRrcaaCvBYP766WqHJQFs",
+    "en-page-2-065": "59/path---en-page-2-065-ac0-4xRSeOifC7Lu2rz5EVCuhBhW8A",
+    "page-2-fbc": "439/path---page-2-fbc-5a8-Gpjp0PvIfeRtzAXUjU5RFSRxRdY",
+    "404-html-516": "104/path---404-html-516-62a-ZNpXRWbCmk1qYofocrzTyxW3Q"
+  },
+  "components": {
+    "/Users/ryankretch/Documents/Coding Stuff/wc/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/.cache/dev-404-page.js"
+    },
+    "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/404.js": {
+      "query": "",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/404.js"
+    },
+    "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.en.js": {
+      "query": "",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.en.js"
+    },
+    "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js": {
+      "query": "",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js"
+    },
+    "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/page-2.en.js": {
+      "query": "",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/page-2.en.js"
+    },
+    "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/page-2.zh.js": {
+      "query": "",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/page-2.zh.js"
+    }
+  },
+  "staticQueryComponents": {
+    "sq--src-layouts-index-js": {
+      "name": "LayoutQuery",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/layouts/index.js",
+      "id": "sq--src-layouts-index-js",
+      "jsonName": "sq--src-layouts-index-js",
+      "query": "query LayoutQuery {\n  site {\n    siteMetadata {\n      languages {\n        defaultLangKey\n        langs\n      }\n    }\n  }\n}\n",
+      "hash": 2931908878
+    }
+  }
+}
