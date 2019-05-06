@@ -1,10 +1,12 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Layout from "../layouts/zh"
+import Banner from "../components/Banner"
 
 const IndexPage = (props) => (
   <Layout location={props.location}>
     <div>
+      <Banner/>
       <h1>Oi povo</h1>
       <p>Bem vindo ao seu novo multi-idioma Gatsby site.</p>
       <p>Agora va construir alguma coisa grandiosa.</p>

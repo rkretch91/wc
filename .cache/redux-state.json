@@ -653,12 +653,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-06T16:23:00.828Z",
+      "buildTime": "2019-05-06T17:41:59.477Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b9da2972451d1b1f9c90b1bf96b8cf0d",
+        "contentDigest": "ce94c90a23342bc60d81c7cb6b242192",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -818,7 +818,7 @@
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "en-310": "427/path---en-310-dec-a7eaqKu3DfGqDpgQlE13zqpX6Q",
     "404-22d": "665/path---404-22-d-bce-ZNpXRWbCmk1qYofocrzTyxW3Q",
-    "sq--src-layouts-index-js": 2931908878,
+    "sq--src-layouts-index-js": 2825539598,
     "index": "180/path---index-6a9-IPLCzxRrcaaCvBYP766WqHJQFs",
     "en-page-2-065": "59/path---en-page-2-065-ac0-4xRSeOifC7Lu2rz5EVCuhBhW8A",
     "page-2-fbc": "439/path---page-2-fbc-5a8-Gpjp0PvIfeRtzAXUjU5RFSRxRdY",
@@ -857,7 +857,7 @@
       "id": "sq--src-layouts-index-js",
       "jsonName": "sq--src-layouts-index-js",
       "query": "query LayoutQuery {\n  site {\n    siteMetadata {\n      languages {\n        defaultLangKey\n        langs\n      }\n    }\n  }\n}\n",
-      "hash": 2931908878
+      "hash": 2825539598
     }
   }
 }

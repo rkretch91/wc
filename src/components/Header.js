@@ -79,11 +79,12 @@ class Header extends React.Component {
     return(
       <div
         style={{
-          background: 'gray',
           position: 'relative',
           height: '125px',
           display: 'flex',
           justifyContent: 'space-between',
+          position: 'fixed',
+          width: '100%',
         }}
       >
         <div style={{flex: '500px'}}>
