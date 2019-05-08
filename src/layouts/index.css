@@ -209,6 +209,7 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+  background-color: #f4f4f4;
 }
 img {
   max-width: 100%;
@@ -705,6 +706,7 @@ pre tt:after {
   align-items: center;
   justify-content: center;
   max-width: 100%;
+  box-shadow: .5px .5px 6px 0px rgba(0,0,0,0.44) !important;
 }
 
 .slogan {
@@ -717,4 +719,34 @@ pre tt:after {
   padding: 7px 15px 0px 15px;
   border-radius: 5px 5px 0px 0px;
   font-size: 17px;
+}
+
+.icons-homepage img {
+  height: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.icons-homepage {
+  padding: 4rem 0;
+  width: 90%;
+  margin: 0 auto !important;
+}
+
+.icons-homepage p {
+  font-size: 13px;
+  color: #526C78;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.icons-homepage h5 {
+  color: #526C78;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+.has-image-centered {
+  margin: 0 auto;
 }
