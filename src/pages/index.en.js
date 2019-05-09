@@ -2,6 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Layout from "../layouts/en"
 import Banner from "../components/Banner"
+import Mapbox from "../components/Map"
 
 import Who from '../images/who-icon.png'
 import What from '../images/what-icon.png'
@@ -34,6 +35,12 @@ const IndexPage = (props) => (
           <span><p>We believe that everyone deserves a clean space to refresh and relax. We are changing the status quo.</p></span>
         </div>
       </div>
+    </div>
+    <Mapbox language="Learn more about our locations"/>
+    <div class="partners-home has-text-centered">
+      <h1>Our Partners</h1>
+      <p>We have an ever expanding list of partners to help make our restrooms a reality. We would love to work with you too.</p>
+      <button class="button">Become a Partner</button>
     </div>
   </Layout>
 )
