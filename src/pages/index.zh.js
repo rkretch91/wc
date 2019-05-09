@@ -36,7 +36,7 @@ const IndexPage = (props) => (
         </div>
       </div>
     </div>
-    <Mapbox/>
+    <Mapbox language="我们的卫生间" />
   </Layout>
 )
 

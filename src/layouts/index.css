@@ -729,7 +729,7 @@ pre tt:after {
 }
 
 .icons-homepage {
-  padding: 4rem 0;
+  padding: 6rem 0;
   width: 90%;
   margin: 0 auto !important;
 }
@@ -767,4 +767,27 @@ pre tt:after {
   right: 100px;
   font-weight: normal;
   z-index: 1;
+}
+
+#map {
+  box-shadow: .1px .1px 4px 0px rgba(0,0,0,0.2) !important;
+}
+
+.partners-home {
+  padding: 6rem 0;
+}
+
+.partners-home h1 {
+  color: #526C78;
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.partners-home p {
+  color: #526C78;
+  padding-bottom: 10px;
+  font-size: 13px;
+  width: 350px;
+  margin: 0 auto;
 }

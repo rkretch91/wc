@@ -13,6 +13,7 @@ class Mapbox extends React.Component {
       style: 'mapbox://styles/rkretch91/cjbrc6uk7041x2sqprzaabu5s',
       zoom: 10,
     })
+    map.scrollZoom.disable()
 
     map.on('load', () => {
       map.loadImage('/pin.png', (error, image) => {
@@ -119,6 +120,25 @@ class Mapbox extends React.Component {
             chineseaddress: '虹桥路2550号'
 
           }
+        },
+        {
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [121.551695, 31.225520]
+          },
+          properties: {
+            title: 'Lilacs International Commercial Center',
+            description: 'Shopping Mall in Shanghai',
+            type: 'Shopping Mall',
+            tags: ['Unisex Room', 'Family Room', 'Powder Room', 'Accessible Room'],
+            address: '858 Dingxiang Road, Pudong',
+            chinesetitle: '丁香国际商业中心',
+            chinesetype: '商场',
+            chinesetags: ['Unisex Room', 'Family Room', 'Powder Room', 'Accessible Room'],
+            chineseaddress: '上海市浦东新区丁香路858弄'
+
+          }
         }]
       };
       // add markers to map
@@ -147,7 +167,7 @@ class Mapbox extends React.Component {
     return (
       <React.Fragment>
         <div id={'map'} style={{width: '100%', height: 400, position: 'relative !important'}}>
-          <button className="button" id="map-button">Learn more about our locations</button>
+          <button className="button" id="map-button">{this.props.language}</button>
         </div>
       </React.Fragment>
     )
