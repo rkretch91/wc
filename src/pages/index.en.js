@@ -11,7 +11,7 @@ import Why from '../images/why-icon.png'
 const IndexPage = (props) => (
   <Layout location={props.location}>
     <div>
-      <Banner/>
+      <Banner slogan="REDEFINING PUBLIC RESTROOMS"/>
       <div className="columns icons-homepage is-centered">
         <div className="column has-text-centered">
           <img src={Who}/>
