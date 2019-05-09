@@ -750,3 +750,21 @@ pre tt:after {
 .has-image-centered {
   margin: 0 auto;
 }
+
+.marker {
+  background-image: url('../images/where-icon-red.png');
+  background-size: cover;
+  width: 40px;
+  height: 50px;
+  cursor: pointer;
+}
+
+#map-button {
+  background-color: #677e8a !important;
+  font-size: 13px !important;
+  position: absolute !important;
+  bottom: 40px;
+  right: 100px;
+  font-weight: normal;
+  z-index: 1;
+}

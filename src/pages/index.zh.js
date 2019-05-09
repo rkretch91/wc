@@ -2,6 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 import Layout from "../layouts/zh"
 import Banner from "../components/Banner"
+import Mapbox from "../components/Map"
 
 import Who from '../images/who-icon.png'
 import What from '../images/what-icon.png'
@@ -35,6 +36,7 @@ const IndexPage = (props) => (
         </div>
       </div>
     </div>
+    <Mapbox/>
   </Layout>
 )
 
