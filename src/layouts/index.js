@@ -18,7 +18,7 @@ const Layout = ({ children, location, i18nMessages }) => {
               languages {
                 defaultLangKey
                 langs
-              }      
+              }
             }
           }
         }
