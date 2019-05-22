@@ -775,6 +775,7 @@ pre tt:after {
 
 .partners-home {
   padding: 6rem 0;
+  background: white;
 }
 
 .partners-home h1 {
@@ -790,4 +791,68 @@ pre tt:after {
   font-size: 13px;
   width: 350px;
   margin: 0 auto;
+}
+
+.partners-logos {
+  width: 70% !important;
+  margin: 0 auto !important;
+}
+
+.partners-logos img {
+  width: 200px;
+  transition: filter .5s ease-in-out;
+  filter: grayscale(0%);
+  opacity: 1;
+}
+
+.partners-logos img:hover {
+  filter: grayscale(100%);
+  opacity: .7 !important;
+}
+
+@media only screen and (max-width: 768px) {
+  .partners-logos img {
+    width: 100px;
+  }
+}
+
+.blog img {
+  width:250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 3px;
+}
+
+.blog {
+  padding: 6rem 0;
+  width: 90%;
+  margin: 0 auto !important;
+}
+
+.blog p {
+  font-size: 13px;
+  color: #526C78;
+  width: 250px;
+  margin: 0 auto;
+  color: #526C78;
+}
+
+.blog h5 {
+  width: 250px;
+  margin: 0 auto;
+  font-weight: bolder;
+  color: #526C78;
+  padding-bottom: 20px;
+}
+
+.blog h1 {
+  color: #526C78;
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+
+.spacing {
+  margin-bottom: 20px;
 }

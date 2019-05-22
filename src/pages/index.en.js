@@ -8,6 +8,16 @@ import Who from '../images/who-icon.png'
 import What from '../images/what-icon.png'
 import Where from '../images/where-icon.png'
 import Why from '../images/why-icon.png'
+import Test from '../images/test.jpg'
+
+import Ellai from '../images/logos/ellai.png'
+import Blueair from '../images/logos/blueair.png'
+import Dupont from '../images/logos/dupont.png'
+import Dyson from '../images/logos/dyson.png'
+import Kohler from '../images/logos/kohler.png'
+import Marazzi from '../images/logos/marazzi.png'
+import Philips from '../images/logos/philips.png'
+import VB from '../images/logos/v&b.png'
 
 const IndexPage = (props) => (
   <Layout location={props.location}>
@@ -37,10 +47,44 @@ const IndexPage = (props) => (
       </div>
     </div>
     <Mapbox language="Learn more about our locations"/>
-    <div class="partners-home has-text-centered">
+    <div className="partners-home has-text-centered">
       <h1>Our Partners</h1>
       <p>We have an ever expanding list of partners to help make our restrooms a reality. We would love to work with you too.</p>
-      <button class="button">Become a Partner</button>
+      <div className="partners-logos columns">
+        <div className="column">
+          <a href="http://www.ellai.cn/" target="_blank"><img src={Ellai}/></a>
+          <a href="https://www.dyson.com/en.html" target="_blank"><img src={Dyson}/></a>
+          <a href="http://www.dupont.com/" target="_blank"><img src={Dupont}/></a>
+          <a href="https://www.philips.com/global" target="_blank"><img src={Philips}/></a>
+          <a href="https://www.us.kohler.com/us/" target="_blank"><img src={Kohler}/></a>
+          <a href="https://www.villeroy-boch.eu/en/" target="_blank"><img src={VB}/></a>
+          <a href="https://www.blueair.com/" target="_blank"><img src={Blueair}/></a>
+          <a href="https://www.marazzigroup.com/" target="_blank"><img src={Marazzi}/></a>
+        </div>
+      </div>
+      <button className="button">Become a Partner</button>
+    </div>
+    <div className="blog-wrapper">
+      <div className="blog has-text-centered">
+        <h1>新闻</h1>
+        <div className="columns is-centered">
+          <div className="column has-text-left spacing">
+            <img src={Test}/>
+            <span><h5>The Queen of Public Restrooms</h5></span>
+            <span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam erat justo, porta a arcu.</p></span>
+          </div>
+          <div className="column has-text-left spacing">
+            <img src={Test}/>
+            <span><h5>WeCare WC Goes Portable!</h5></span>
+            <span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam erat justo, porta a arcu.</p></span>
+          </div>
+          <div className="column has-text-left spacing">
+            <img src={Test}/>
+            <span><h5>WeCare WC Takes Off in Pudong Airport</h5></span>
+            <span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam erat justo, porta a arcu.</p></span>
+          </div>
+        </div>
+      </div>
     </div>
   </Layout>
 )

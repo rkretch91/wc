@@ -489,6 +489,10 @@
             "version": "^1.2.5"
           },
           {
+            "name": "mapbox-gl",
+            "version": "^0.54.0"
+          },
+          {
             "name": "react",
             "version": "^16.7.0"
           },
@@ -653,12 +657,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-09T08:40:25.284Z",
+      "buildTime": "2019-05-22T08:18:32.268Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "5122833d475e984afb3dbe1485c7a7dd",
+        "contentDigest": "b34a8eedac0ae9c0c38c72aa65156686",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -804,7 +808,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "1b427cefa930d2c6ac991dc1031dcbfc"
+    "PLUGINS_HASH": "07b5152a2968e929323568c5ca2b734a"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -818,7 +822,7 @@
     "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
     "en-310": "427/path---en-310-dec-a7eaqKu3DfGqDpgQlE13zqpX6Q",
     "404-22d": "665/path---404-22-d-bce-ZNpXRWbCmk1qYofocrzTyxW3Q",
-    "sq--src-layouts-index-js": 2931908878,
+    "sq--src-layouts-index-js": 2825539598,
     "index": "180/path---index-6a9-IPLCzxRrcaaCvBYP766WqHJQFs",
     "en-page-2-065": "59/path---en-page-2-065-ac0-4xRSeOifC7Lu2rz5EVCuhBhW8A",
     "page-2-fbc": "439/path---page-2-fbc-5a8-Gpjp0PvIfeRtzAXUjU5RFSRxRdY",
