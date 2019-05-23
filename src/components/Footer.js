@@ -9,20 +9,20 @@ class Footer extends React.Component {
   render() {
     return(
       <React.Fragment>
-        <div className="footer columns is-mobile">
-            <div className="mailer-footer column is-two-fifths-tablet is-half-mobile">
+        <div className="footer columns is-mobile is-multiline">
+            <div className="mailer-footer column is-two-fifths-desktop is-half-mobile">
               <h1>Mailing List</h1>
               <div className="field">
                 <label className="label">Email</label>
-                <div className="control">
-                  <input className="input" type="email" placeholder="e.g. alexsmith@gmail.com" />
+                <div className="control" style={{paddingBottom: '10px'}} >
+                  <input className="input" type="email" placeholder="e.g. ilovetoilets@gmail.com" />
                 </div>
                 <div className="control">
                   <button className="button" id="grey">Submit</button>
                 </div>
               </div>
             </div>
-            <div className="nav-menu-footer column is-one-fifths-tablet is-half-mobile">
+            <div className="nav-menu-footer column is-one-fifth-desktop is-half-mobile">
               <div className="center-that-text">
                 <h1>Menu</h1>
                 <a href="#"><p>About Us</p></a>
@@ -33,12 +33,12 @@ class Footer extends React.Component {
                 <a href="#"><p>Careers</p></a>
               </div>
             </div>
-            <div className="wechat-icon-footer column is-one-fifth-tablet is-half-mobile">
+            <div className="wechat-icon-footer column is-one-fifth-desktop is-half-mobile">
               <h1>Get In Touch</h1>
               <h2>WeChat</h2>
               <img src={QR} alt="WeCare WC Qr Code"/>
             </div>
-            <div className="address-phone-footer column is-one-fifths-tablet is-half-mobile">
+            <div className="address-phone-footer column is-one-fifth-desktop is-half-mobile">
               <h2>Address</h2>
               <p>Wework Nanjing West Road<br/>819 Nanjing West Road<br/>(near Taixing Road)<br/>3rd Floor<br/>200040 Shanghai P.R. China</p>
               <br/>
@@ -51,7 +51,7 @@ class Footer extends React.Component {
             </div>
         </div>
         <div className="copyright has-text-centered">
-          <p>{(new Date().getFullYear())} WeCare WC. All rights Reserved.</p>
+          <p>{(new Date().getFullYear())} WeCare WC. All Rights Reserved.</p>
         </div>
       </React.Fragment>
       )
