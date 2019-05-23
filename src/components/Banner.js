@@ -1,7 +1,8 @@
 import React from 'react'
+import Pudong from '../images/pudong-family-room.jpg'
 
 const Banner = props => (
-  <div className="banner" style={{backgroundImage: 'url(\'https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg\')'}}>
+  <div className="banner">
     <span className="slogan">{props.slogan}</span>
   </div>
 )

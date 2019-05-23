@@ -682,6 +682,10 @@ pre tt:after {
   color: white;
 }
 
+.nav-menu a:hover {
+  color: #EDEBEB
+}
+
 .hamburger {
     top: 55px;
     right: 20px;
@@ -708,11 +712,16 @@ pre tt:after {
   box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.44) !important;
 }
 
+.button:hover {
+  color: #EDEBEB !important;
+}
+
 /*banner*/
 
 .banner {
+  background-image: url('../images/pudong-family-room.jpg');
   height: 100vh;
-  background-size: cover !important;
+  background-size: cover;
   text-align: center;
   display: flex;
   align-items: center;
@@ -896,8 +905,18 @@ pre tt:after {
   font-size: 13px;
 }
 
+.footer a:hover {
+  font-weight: bolder;
+}
+
 .wechat-icon-footer img {
-  max-width: 120px;
+  width: 120px;
+  transition: .3s;
+  transform: scale(1);
+}
+
+.wechat-icon-footer img:hover {
+  transform: scale(1.025);
 }
 
 .mailer-footer {
