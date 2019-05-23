@@ -630,6 +630,18 @@ pre tt:after {
 
 /*Header*/
 
+.big-header {
+  transition: top .6s;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+}
+
+.big-header--hidden {
+  top: -110px;
+}
+
 .header-logo img {
   width: 175px;
   margin-top: 20px;

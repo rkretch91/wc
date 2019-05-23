@@ -2,11 +2,14 @@ import React from 'react'
 import Link from 'gatsby-link'
 import SelectLanguage from './SelectLanguage'
 import WecareLogo from '../images/wecarewc-logo-white.png'
+import classnames from "classnames";
 
 class Header extends React.Component {
   state = {
       //This sets the state of Bulma elements
-      navbarIsActive: "navbar-item dropdown is-hidden-desktop"
+      navbarIsActive: "navbar-item dropdown is-hidden-desktop",
+      prevScrollpos: window.pageYOffset,
+      visible: true
   }
 
     //This opens the navbar dropdown
@@ -49,6 +52,26 @@ class Header extends React.Component {
       }
     }
 
+    componentDidMount() {
+        window.addEventListener("scroll", this.handleScroll);
+      }
+
+      componentWillUnmount() {
+        window.removeEventListener("scroll", this.handleScroll);
+      }
+
+    handleScroll = () => {
+      const { prevScrollpos } = this.state;
+
+      const currentScrollPos = window.pageYOffset;
+      const visible = prevScrollpos > currentScrollPos;
+
+      this.setState({
+        prevScrollpos: currentScrollPos,
+        visible
+      });
+    };
+
     languageCheckMobile = () => {
       if (this.props.langs[0].selected) {
         return(
@@ -85,8 +108,9 @@ class Header extends React.Component {
           justifyContent: 'space-between',
           position: 'fixed',
           width: '100%',
-        }}
-      >
+        }} className={classnames("big-header", {
+          "big-header--hidden": !this.state.visible
+        })}>
         <div style={{flex: '500px'}}>
           <div className="header-logo">
             <img src={WecareLogo}/>
