@@ -657,12 +657,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-22T08:18:32.268Z",
+      "buildTime": "2019-05-23T11:44:50.742Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b34a8eedac0ae9c0c38c72aa65156686",
+        "contentDigest": "5cc3fceebb164299d4c063834a4ff189",
         "type": "Site",
         "owner": "internal-data-bridge"
       }

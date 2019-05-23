@@ -856,3 +856,78 @@ pre tt:after {
 .spacing {
   margin-bottom: 20px;
 }
+
+
+
+/*footer*/
+
+.footer {
+  background-color: #EDEBEB !important;
+}
+
+.footer h1 {
+  color: #526C78;
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.footer h2 {
+  color: #526C78;
+  font-weight: bold;
+  font-size: 15px;
+  padding-bottom: 5px;
+}
+
+.footer p {
+  color: #526C78;
+  font-size: 13px;
+}
+
+.wechat-icon-footer img {
+  max-width: 120px;
+}
+
+.mailer-footer {
+  padding-left: 100px !important;
+}
+
+@media only screen and (max-width: 972px) {
+.mailer-footer {
+  padding-left: 10px !important;
+}
+}
+
+.center-that-text {
+  border-right: 1px rgba(82, 108, 120, .2) solid;
+  width: 50%;
+  margin: 0 auto;
+}
+
+@media only screen and (max-width: 768px) {
+.center-that-text {
+  border-right: none;
+  width: 100%;
+}
+}
+
+.address-phone-footer {
+  padding-top: 45px !important;
+}
+
+#bold {
+  font-weight: bold;
+}
+
+#grey {
+  background: #526C78 !important;
+}
+
+.label {
+  color: #526C78 !important;
+}
+
+.copyright p {
+  color: #526C78;
+  font-size: 13px;
+}
