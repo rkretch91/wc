@@ -47,7 +47,7 @@ class Footer extends React.Component {
               <p><span id="bold">Email:</span> curious@wecarewc.com</p>
               <br/>
               <h2>Other Inquires</h2>
-              <button className="button is-primary">Pop us a message!</button>
+              <button className="button is-primary">Get In Touch</button>
             </div>
         </div>
         <div className="copyright has-text-centered">
