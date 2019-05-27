@@ -31,6 +31,7 @@ const IndexPage = (props) => (
               title
               date
               photo
+              language
             }
             excerpt
             timeToRead
@@ -90,13 +91,17 @@ const IndexPage = (props) => (
       <div className="blog has-text-centered">
         <h1>新闻</h1>
         <div className="columns is-centered">
-        {data.allMarkdownRemark.edges.slice(0, 3).map(({ node }) => (
+        {data.allMarkdownRemark.edges.slice(0, 6).map(({ node }) => {
+          console.log(node.frontmatter.title)
+          if (node.frontmatter.language == "CN") {
+          return(
           <div className="column has-text-left spacing" key={node.id}>
             <img src={node.frontmatter.photo}/>
             <span><h5>{node.frontmatter.title}{" "}</h5></span>
             <span><p>{node.excerpt}</p></span>
           </div>
-        ))}
+          )
+        }})}
         </div>
       </div>
     </div>

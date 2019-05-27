@@ -2,6 +2,7 @@
 title: "Old"
 date: "2014-05-10"
 photo: https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg
+language: "EN"
 ---
 
 Pandas are really sweet.

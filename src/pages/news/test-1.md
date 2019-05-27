@@ -2,6 +2,7 @@
 title: "WeCare WC Takes Off in Pudong Airport"
 date: "2017-08-10"
 photo: https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg
+language: "EN"
 ---
 
 Pandas are really sweet.

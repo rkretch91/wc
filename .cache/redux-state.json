@@ -943,12 +943,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-27T16:04:20.453Z",
+      "buildTime": "2019-05-27T16:29:33.620Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "f0aed93428c7aa39e3e6401f904faa40",
+        "contentDigest": "419003a34ae44f5da921f810b25f0a31",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -958,7 +958,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "56f68a3889b0c9e5ef3321245d1f1d74",
+        "contentDigest": "d13c37177659ca1ffe69f77e5ae7187b",
         "type": "Directory",
         "description": "Directory \"src\"",
         "owner": "gatsby-source-filesystem"
@@ -970,7 +970,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-05-23T13:49:43.000Z",
-      "accessTime": "2019-05-27T16:04:27.026Z",
+      "accessTime": "2019-05-27T16:29:39.766Z",
       "changeTime": "2019-05-23T13:49:44.914Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -988,11 +988,11 @@
       "blksize": 4096,
       "ino": 3516193,
       "blocks": 0,
-      "atimeMs": 1558973067025.8625,
+      "atimeMs": 1558974579766.431,
       "mtimeMs": 1558619383000,
       "ctimeMs": 1558619384913.5557,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-27T16:04:27.026Z",
+      "atime": "2019-05-27T16:29:39.766Z",
       "mtime": "2019-05-23T13:49:43.000Z",
       "ctime": "2019-05-23T13:49:44.914Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1002,7 +1002,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "47237c6978bac5f91bb153c595097b9d",
+        "contentDigest": "183fe9615f40f5b8759bd3a3166a0bc6",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
@@ -1014,7 +1014,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-05-23T13:21:42.000Z",
-      "accessTime": "2019-05-27T16:04:27.031Z",
+      "accessTime": "2019-05-27T16:29:39.770Z",
       "changeTime": "2019-05-23T13:21:44.340Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1032,11 +1032,11 @@
       "blksize": 4096,
       "ino": 3516231,
       "blocks": 0,
-      "atimeMs": 1558973067031.3906,
+      "atimeMs": 1558974579769.8936,
       "mtimeMs": 1558617702000,
       "ctimeMs": 1558617704339.9653,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-27T16:04:27.031Z",
+      "atime": "2019-05-27T16:29:39.770Z",
       "mtime": "2019-05-23T13:21:42.000Z",
       "ctime": "2019-05-23T13:21:44.340Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1046,7 +1046,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "249336abc4603badb52563fb76757fdf",
+        "contentDigest": "ae57d068d1a6d17e5b686f2eb4070711",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1058,7 +1058,7 @@
       "size": 416,
       "prettySize": "416 B",
       "modifiedTime": "2019-05-23T13:18:27.000Z",
-      "accessTime": "2019-05-27T16:04:27.031Z",
+      "accessTime": "2019-05-27T16:29:39.770Z",
       "changeTime": "2019-05-23T13:19:14.603Z",
       "birthTime": "2019-05-04T09:11:20.000Z",
       "root": "/",
@@ -1076,11 +1076,11 @@
       "blksize": 4096,
       "ino": 3516228,
       "blocks": 0,
-      "atimeMs": 1558973067031.459,
+      "atimeMs": 1558974579770.054,
       "mtimeMs": 1558617507000,
       "ctimeMs": 1558617554602.8284,
       "birthtimeMs": 1556961080000,
-      "atime": "2019-05-27T16:04:27.031Z",
+      "atime": "2019-05-27T16:29:39.770Z",
       "mtime": "2019-05-23T13:18:27.000Z",
       "ctime": "2019-05-23T13:19:14.603Z",
       "birthtime": "2019-05-04T09:11:20.000Z"
@@ -1090,7 +1090,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "45cbbf30184a6d2d7175c86a77e899b4",
+        "contentDigest": "d1be69b4603e466eec1d018199767d7f",
         "type": "Directory",
         "description": "Directory \"src/data\"",
         "owner": "gatsby-source-filesystem"
@@ -1102,7 +1102,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-05-06T16:21:21.000Z",
-      "accessTime": "2019-05-27T16:04:27.032Z",
+      "accessTime": "2019-05-27T16:29:39.770Z",
       "changeTime": "2019-05-06T16:21:23.858Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1120,11 +1120,11 @@
       "blksize": 4096,
       "ino": 3516240,
       "blocks": 0,
-      "atimeMs": 1558973067031.538,
+      "atimeMs": 1558974579769.9163,
       "mtimeMs": 1557159681000,
       "ctimeMs": 1557159683858.4402,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-27T16:04:27.032Z",
+      "atime": "2019-05-27T16:29:39.770Z",
       "mtime": "2019-05-06T16:21:21.000Z",
       "ctime": "2019-05-06T16:21:23.858Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1134,7 +1134,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4c0ce1217233fe39e536f3b4586c0632",
+        "contentDigest": "d3d4c4646989d9661af7bbbd34626efa",
         "type": "Directory",
         "description": "Directory \"src/layouts\"",
         "owner": "gatsby-source-filesystem"
@@ -1146,7 +1146,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-05-23T13:49:43.000Z",
-      "accessTime": "2019-05-27T16:04:27.032Z",
+      "accessTime": "2019-05-27T16:29:39.770Z",
       "changeTime": "2019-05-23T13:49:44.930Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1164,11 +1164,11 @@
       "blksize": 4096,
       "ino": 3516234,
       "blocks": 0,
-      "atimeMs": 1558973067031.6167,
+      "atimeMs": 1558974579770.0005,
       "mtimeMs": 1558619383000,
       "ctimeMs": 1558619384929.92,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-27T16:04:27.032Z",
+      "atime": "2019-05-27T16:29:39.770Z",
       "mtime": "2019-05-23T13:49:43.000Z",
       "ctime": "2019-05-23T13:49:44.930Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1178,7 +1178,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "e50d540f783dad9bca97a4061c210589",
+        "contentDigest": "69d2acbf89f9deb336ab565ecc6b8a5f",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1187,11 +1187,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
       "relativePath": "pages",
       "extension": "",
-      "size": 288,
-      "prettySize": "288 B",
-      "modifiedTime": "2019-05-27T14:58:13.961Z",
-      "accessTime": "2019-05-27T16:04:27.032Z",
-      "changeTime": "2019-05-27T14:58:13.961Z",
+      "size": 320,
+      "prettySize": "320 B",
+      "modifiedTime": "2019-05-27T16:26:58.244Z",
+      "accessTime": "2019-05-27T16:29:39.770Z",
+      "changeTime": "2019-05-27T16:26:58.244Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src",
@@ -1201,20 +1201,20 @@
       "relativeDirectory": "",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 9,
+      "nlink": 10,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 3516245,
       "blocks": 0,
-      "atimeMs": 1558973067031.6387,
-      "mtimeMs": 1558969093960.6208,
-      "ctimeMs": 1558969093960.6208,
+      "atimeMs": 1558974579770.1072,
+      "mtimeMs": 1558974418244.4426,
+      "ctimeMs": 1558974418244.4426,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-27T16:04:27.032Z",
-      "mtime": "2019-05-27T14:58:13.961Z",
-      "ctime": "2019-05-27T14:58:13.961Z",
+      "atime": "2019-05-27T16:29:39.770Z",
+      "mtime": "2019-05-27T16:26:58.244Z",
+      "ctime": "2019-05-27T16:26:58.244Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
     },
     "aebed10c-5e78-532c-a7d8-ba0ac91ae93f": {
@@ -1222,7 +1222,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "fc425f1832e2c5e474b00d6ec414b0a5",
+        "contentDigest": "937797510f64de95fa0ddcac65b15346",
         "type": "Directory",
         "description": "Directory \"src/data/messages\"",
         "owner": "gatsby-source-filesystem"
@@ -1234,7 +1234,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-05-06T16:21:23.000Z",
-      "accessTime": "2019-05-27T16:04:27.034Z",
+      "accessTime": "2019-05-27T16:29:39.773Z",
       "changeTime": "2019-05-06T16:21:23.610Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1252,11 +1252,11 @@
       "blksize": 4096,
       "ino": 3516241,
       "blocks": 0,
-      "atimeMs": 1558973067034.1829,
+      "atimeMs": 1558974579773.02,
       "mtimeMs": 1557159683000,
       "ctimeMs": 1557159683610.4958,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-27T16:04:27.034Z",
+      "atime": "2019-05-27T16:29:39.773Z",
       "mtime": "2019-05-06T16:21:23.000Z",
       "ctime": "2019-05-06T16:21:23.610Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1266,7 +1266,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "62b4c0c4ef7e37a15f31c52bf62381be",
+        "contentDigest": "f6c6731f8f0e38b7fb912f9ecdd269a7",
         "type": "Directory",
         "description": "Directory \"src/images/logos\"",
         "owner": "gatsby-source-filesystem"
@@ -1278,7 +1278,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2019-05-22T08:41:52.000Z",
-      "accessTime": "2019-05-27T16:04:27.034Z",
+      "accessTime": "2019-05-27T16:29:39.773Z",
       "changeTime": "2019-05-22T08:41:53.642Z",
       "birthTime": "2019-05-22T08:41:42.000Z",
       "root": "/",
@@ -1296,11 +1296,11 @@
       "blksize": 4096,
       "ino": 4457360,
       "blocks": 0,
-      "atimeMs": 1558973067034.1516,
+      "atimeMs": 1558974579773.036,
       "mtimeMs": 1558514512000,
       "ctimeMs": 1558514513642.1753,
       "birthtimeMs": 1558514502000,
-      "atime": "2019-05-27T16:04:27.034Z",
+      "atime": "2019-05-27T16:29:39.773Z",
       "mtime": "2019-05-22T08:41:52.000Z",
       "ctime": "2019-05-22T08:41:53.642Z",
       "birthtime": "2019-05-22T08:41:42.000Z"
@@ -1310,7 +1310,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c717f9ab16ba26c6096749b1c6cfd699",
+        "contentDigest": "86def4acbd1a4953fa34a7ed2b2e3116",
         "type": "Directory",
         "description": "Directory \"src/pages/news\"",
         "owner": "gatsby-source-filesystem"
@@ -1319,12 +1319,12 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
       "relativePath": "pages/news",
       "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2019-05-27T14:58:23.233Z",
-      "accessTime": "2019-05-27T16:04:27.034Z",
-      "changeTime": "2019-05-27T14:58:23.233Z",
-      "birthTime": "2019-05-27T14:58:13.961Z",
+      "size": 320,
+      "prettySize": "320 B",
+      "modifiedTime": "2019-05-27T16:27:04.670Z",
+      "accessTime": "2019-05-27T16:29:39.773Z",
+      "changeTime": "2019-05-27T16:27:04.670Z",
+      "birthTime": "2019-05-27T14:58:13.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
       "base": "news",
@@ -1333,21 +1333,21 @@
       "relativeDirectory": "pages",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 3,
+      "nlink": 10,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 4868523,
       "blocks": 0,
-      "atimeMs": 1558973067034.1938,
-      "mtimeMs": 1558969103233.2004,
-      "ctimeMs": 1558969103233.2004,
-      "birthtimeMs": 1558969093960.6072,
-      "atime": "2019-05-27T16:04:27.034Z",
-      "mtime": "2019-05-27T14:58:23.233Z",
-      "ctime": "2019-05-27T14:58:23.233Z",
-      "birthtime": "2019-05-27T14:58:13.961Z"
+      "atimeMs": 1558974579773.0574,
+      "mtimeMs": 1558974424669.583,
+      "ctimeMs": 1558974424669.583,
+      "birthtimeMs": 1558969093000,
+      "atime": "2019-05-27T16:29:39.773Z",
+      "mtime": "2019-05-27T16:27:04.670Z",
+      "ctime": "2019-05-27T16:27:04.670Z",
+      "birthtime": "2019-05-27T14:58:13.000Z"
     },
     "42706b72-5b09-525f-b674-f16e6b9db98a": {
       "id": "42706b72-5b09-525f-b674-f16e6b9db98a",
@@ -2272,7 +2272,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "e3eb9f1e84b59d7415726f3b31d60da0",
+        "contentDigest": "1558c0b645c2254482e0c10be84c0d7b",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.en.js\"",
@@ -2285,11 +2285,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.en.js",
       "relativePath": "pages/index.en.js",
       "extension": "js",
-      "size": 4171,
-      "prettySize": "4.17 kB",
-      "modifiedTime": "2019-05-27T16:20:37.976Z",
-      "accessTime": "2019-05-27T16:20:35.735Z",
-      "changeTime": "2019-05-27T16:20:37.976Z",
+      "size": 4322,
+      "prettySize": "4.32 kB",
+      "modifiedTime": "2019-05-27T16:40:08.378Z",
+      "accessTime": "2019-05-27T16:40:04.691Z",
+      "changeTime": "2019-05-27T16:40:08.378Z",
       "birthTime": "2019-05-09T12:08:46.801Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
@@ -2306,13 +2306,13 @@
       "blksize": 4096,
       "ino": 3778214,
       "blocks": 16,
-      "atimeMs": 1558974035735.1655,
-      "mtimeMs": 1558974037975.925,
-      "ctimeMs": 1558974037975.925,
+      "atimeMs": 1558975204690.5742,
+      "mtimeMs": 1558975208378.0063,
+      "ctimeMs": 1558975208378.0063,
       "birthtimeMs": 1557403726800.7417,
-      "atime": "2019-05-27T16:20:35.735Z",
-      "mtime": "2019-05-27T16:20:37.976Z",
-      "ctime": "2019-05-27T16:20:37.976Z",
+      "atime": "2019-05-27T16:40:04.691Z",
+      "mtime": "2019-05-27T16:40:08.378Z",
+      "ctime": "2019-05-27T16:40:08.378Z",
       "birthtime": "2019-05-09T12:08:46.801Z",
       "fields": {
         "slug": "/en/"
@@ -2323,7 +2323,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "b55ea55c549b2bd316a386447c5c14b9",
+        "contentDigest": "29c3632b1109ce4089777e6d0e86d979",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.zh.js\"",
@@ -2336,11 +2336,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js",
       "relativePath": "pages/index.zh.js",
       "extension": "js",
-      "size": 4169,
-      "prettySize": "4.17 kB",
-      "modifiedTime": "2019-05-27T16:23:44.113Z",
-      "accessTime": "2019-05-27T16:23:35.359Z",
-      "changeTime": "2019-05-27T16:23:44.113Z",
+      "size": 4320,
+      "prettySize": "4.32 kB",
+      "modifiedTime": "2019-05-27T16:39:21.183Z",
+      "accessTime": "2019-05-27T16:39:14.629Z",
+      "changeTime": "2019-05-27T16:39:21.183Z",
       "birthTime": "2019-05-09T12:08:46.801Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
@@ -2357,13 +2357,13 @@
       "blksize": 4096,
       "ino": 3778215,
       "blocks": 16,
-      "atimeMs": 1558974215359.044,
-      "mtimeMs": 1558974224113.0476,
-      "ctimeMs": 1558974224113.0476,
+      "atimeMs": 1558975154628.5771,
+      "mtimeMs": 1558975161182.9724,
+      "ctimeMs": 1558975161182.9724,
       "birthtimeMs": 1557403726801.2715,
-      "atime": "2019-05-27T16:23:35.359Z",
-      "mtime": "2019-05-27T16:23:44.113Z",
-      "ctime": "2019-05-27T16:23:44.113Z",
+      "atime": "2019-05-27T16:39:14.629Z",
+      "mtime": "2019-05-27T16:39:21.183Z",
+      "ctime": "2019-05-27T16:39:21.183Z",
       "birthtime": "2019-05-09T12:08:46.801Z",
       "fields": {
         "slug": "/"
@@ -2832,7 +2832,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "31a5f34754d347a78376e3737ef7e607",
+        "contentDigest": "59d8890bc74c7d3a9bf579dc99adfcc4",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-1.md\"",
@@ -2845,11 +2845,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1.md",
       "relativePath": "pages/news/test-1.md",
       "extension": "md",
-      "size": 354,
-      "prettySize": "354 B",
-      "modifiedTime": "2019-05-27T16:17:15.411Z",
-      "accessTime": "2019-05-27T16:17:15.589Z",
-      "changeTime": "2019-05-27T16:17:15.411Z",
+      "size": 369,
+      "prettySize": "369 B",
+      "modifiedTime": "2019-05-27T16:27:57.564Z",
+      "accessTime": "2019-05-27T16:27:04.603Z",
+      "changeTime": "2019-05-27T16:27:57.564Z",
       "birthTime": "2019-05-27T14:58:23.233Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -2866,13 +2866,13 @@
       "blksize": 4096,
       "ino": 4868602,
       "blocks": 8,
-      "atimeMs": 1558973835589.446,
-      "mtimeMs": 1558973835410.7664,
-      "ctimeMs": 1558973835410.7664,
+      "atimeMs": 1558974424603.4019,
+      "mtimeMs": 1558974477564.3682,
+      "ctimeMs": 1558974477564.3682,
       "birthtimeMs": 1558969103233.1875,
-      "atime": "2019-05-27T16:17:15.589Z",
-      "mtime": "2019-05-27T16:17:15.411Z",
-      "ctime": "2019-05-27T16:17:15.411Z",
+      "atime": "2019-05-27T16:27:04.603Z",
+      "mtime": "2019-05-27T16:27:57.564Z",
+      "ctime": "2019-05-27T16:27:57.564Z",
       "birthtime": "2019-05-27T14:58:23.233Z",
       "fields": {
         "slug": "/news/test-1/"
@@ -3058,6 +3058,517 @@
       "ctime": "2019-05-23T17:57:10.745Z",
       "birthtime": "2018-11-04T13:21:15.000Z"
     },
+    "4e020b6b-c04c-5715-9b9a-93f529f580b8": {
+      "id": "4e020b6b-c04c-5715-9b9a-93f529f580b8",
+      "children": [
+        "efefd164-679d-5c46-80d4-43c802c0c737"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "c56d13fc9646f7fdae20f514db9a5c1a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/text-2.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/text-2.md",
+      "relativePath": "pages/news/text-2.md",
+      "extension": "md",
+      "size": 356,
+      "prettySize": "356 B",
+      "modifiedTime": "2019-05-27T16:26:05.955Z",
+      "accessTime": "2019-05-27T16:26:06.058Z",
+      "changeTime": "2019-05-27T16:26:05.955Z",
+      "birthTime": "2019-05-27T16:07:19.797Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "text-2.md",
+      "ext": ".md",
+      "name": "text-2",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4881714,
+      "blocks": 8,
+      "atimeMs": 1558974366058.13,
+      "mtimeMs": 1558974365954.5623,
+      "ctimeMs": 1558974365954.5623,
+      "birthtimeMs": 1558973239797.1602,
+      "atime": "2019-05-27T16:26:06.058Z",
+      "mtime": "2019-05-27T16:26:05.955Z",
+      "ctime": "2019-05-27T16:26:05.955Z",
+      "birthtime": "2019-05-27T16:07:19.797Z",
+      "fields": {
+        "slug": "/news/text-2/"
+      }
+    },
+    "03165107-a345-5558-a3ee-2c28f07ab862": {
+      "id": "03165107-a345-5558-a3ee-2c28f07ab862",
+      "children": [
+        "23f3c6e5-3806-5cc3-a486-bd5bca932593"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "2598e2e5ce08d234c5d22f841fb2d842",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/test-3.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.md",
+      "relativePath": "pages/news/test-3.md",
+      "extension": "md",
+      "size": 361,
+      "prettySize": "361 B",
+      "modifiedTime": "2019-05-27T16:28:05.084Z",
+      "accessTime": "2019-05-27T16:27:05.030Z",
+      "changeTime": "2019-05-27T16:28:05.084Z",
+      "birthTime": "2019-05-27T16:08:39.042Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "test-3.md",
+      "ext": ".md",
+      "name": "test-3",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4881913,
+      "blocks": 8,
+      "atimeMs": 1558974425030.382,
+      "mtimeMs": 1558974485084.0117,
+      "ctimeMs": 1558974485084.0117,
+      "birthtimeMs": 1558973319042.4294,
+      "atime": "2019-05-27T16:27:05.030Z",
+      "mtime": "2019-05-27T16:28:05.084Z",
+      "ctime": "2019-05-27T16:28:05.084Z",
+      "birthtime": "2019-05-27T16:08:39.042Z",
+      "fields": {
+        "slug": "/news/test-3/"
+      }
+    },
+    "be27c86b-53c1-50e6-8075-34870d48f3f2": {
+      "id": "be27c86b-53c1-50e6-8075-34870d48f3f2",
+      "children": [
+        "7282aad4-4922-589c-aace-7d186af78606"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "1f6ef6346326de71dc0c2b5b9f7093f4",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/test-4.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4.md",
+      "relativePath": "pages/news/test-4.md",
+      "extension": "md",
+      "size": 335,
+      "prettySize": "335 B",
+      "modifiedTime": "2019-05-27T16:26:12.535Z",
+      "accessTime": "2019-05-27T16:22:01.563Z",
+      "changeTime": "2019-05-27T16:26:12.535Z",
+      "birthTime": "2019-05-27T16:18:19.768Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "test-4.md",
+      "ext": ".md",
+      "name": "test-4",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4883670,
+      "blocks": 8,
+      "atimeMs": 1558974121562.5981,
+      "mtimeMs": 1558974372535.06,
+      "ctimeMs": 1558974372535.06,
+      "birthtimeMs": 1558973899768.3394,
+      "atime": "2019-05-27T16:22:01.563Z",
+      "mtime": "2019-05-27T16:26:12.535Z",
+      "ctime": "2019-05-27T16:26:12.535Z",
+      "birthtime": "2019-05-27T16:18:19.768Z",
+      "fields": {
+        "slug": "/news/test-4/"
+      }
+    },
+    "efefd164-679d-5c46-80d4-43c802c0c737": {
+      "id": "efefd164-679d-5c46-80d4-43c802c0c737",
+      "children": [],
+      "parent": "4e020b6b-c04c-5715-9b9a-93f529f580b8",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "5641f449ce2e47e96bb0fecd03546489",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "WeCare WC Goes Portable!",
+        "date": "2019-02-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/text-2.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/text-2/"
+      }
+    },
+    "7282aad4-4922-589c-aace-7d186af78606": {
+      "id": "7282aad4-4922-589c-aace-7d186af78606",
+      "children": [],
+      "parent": "be27c86b-53c1-50e6-8075-34870d48f3f2",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "33f8961e2eb578aef045c3379959add3",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "Old",
+        "date": "2014-05-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-4/"
+      }
+    },
+    "715b53a9-aa1b-512b-8fd1-b068f45b5caa": {
+      "id": "715b53a9-aa1b-512b-8fd1-b068f45b5caa",
+      "children": [
+        "54fa8a48-a262-5480-8a8d-759355be14c1"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f230e4b30dbc376ec9ddbb6862404708",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/test-1 copy.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1 copy.md",
+      "relativePath": "pages/news/test-1 copy.md",
+      "extension": "md",
+      "size": 341,
+      "prettySize": "341 B",
+      "modifiedTime": "2019-05-27T16:36:19.200Z",
+      "accessTime": "2019-05-27T16:35:42.855Z",
+      "changeTime": "2019-05-27T16:36:19.200Z",
+      "birthTime": "2019-05-27T14:58:23.233Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "test-1 copy.md",
+      "ext": ".md",
+      "name": "test-1 copy",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4886240,
+      "blocks": 8,
+      "atimeMs": 1558974942855.1619,
+      "mtimeMs": 1558974979200.068,
+      "ctimeMs": 1558974979200.068,
+      "birthtimeMs": 1558969103233.1875,
+      "atime": "2019-05-27T16:35:42.855Z",
+      "mtime": "2019-05-27T16:36:19.200Z",
+      "ctime": "2019-05-27T16:36:19.200Z",
+      "birthtime": "2019-05-27T14:58:23.233Z",
+      "fields": {
+        "slug": "/news/test-1 copy/"
+      }
+    },
+    "33dba826-085b-5c51-bacb-8219e5fda272": {
+      "id": "33dba826-085b-5c51-bacb-8219e5fda272",
+      "children": [
+        "9decfea7-37cb-5480-9ad5-3884fb776397"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bcf32891c15a9f500edcc89314d3f74d",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/test-3 copy.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3 copy.md",
+      "relativePath": "pages/news/test-3 copy.md",
+      "extension": "md",
+      "size": 338,
+      "prettySize": "338 B",
+      "modifiedTime": "2019-05-27T16:28:27.429Z",
+      "accessTime": "2019-05-27T16:28:20.384Z",
+      "changeTime": "2019-05-27T16:28:27.429Z",
+      "birthTime": "2019-05-27T16:08:39.042Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "test-3 copy.md",
+      "ext": ".md",
+      "name": "test-3 copy",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4886241,
+      "blocks": 8,
+      "atimeMs": 1558974500384.0513,
+      "mtimeMs": 1558974507429.4243,
+      "ctimeMs": 1558974507429.4243,
+      "birthtimeMs": 1558973319042.4294,
+      "atime": "2019-05-27T16:28:20.384Z",
+      "mtime": "2019-05-27T16:28:27.429Z",
+      "ctime": "2019-05-27T16:28:27.429Z",
+      "birthtime": "2019-05-27T16:08:39.042Z",
+      "fields": {
+        "slug": "/news/test-3 copy/"
+      }
+    },
+    "0d6950d9-1912-5cb7-9685-0dceef7dbb08": {
+      "id": "0d6950d9-1912-5cb7-9685-0dceef7dbb08",
+      "children": [
+        "c97cd497-3329-585b-8eaf-d610c07c5eb5"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "ccab30e6455c50fe2a91f2b4c2b1db3a",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/test-4 copy.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4 copy.md",
+      "relativePath": "pages/news/test-4 copy.md",
+      "extension": "md",
+      "size": 341,
+      "prettySize": "341 B",
+      "modifiedTime": "2019-05-27T16:36:17.559Z",
+      "accessTime": "2019-05-27T16:35:55.819Z",
+      "changeTime": "2019-05-27T16:36:17.559Z",
+      "birthTime": "2019-05-27T16:18:19.768Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "test-4 copy.md",
+      "ext": ".md",
+      "name": "test-4 copy",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4886242,
+      "blocks": 8,
+      "atimeMs": 1558974955818.5618,
+      "mtimeMs": 1558974977559.4246,
+      "ctimeMs": 1558974977559.4246,
+      "birthtimeMs": 1558973899768.3394,
+      "atime": "2019-05-27T16:35:55.819Z",
+      "mtime": "2019-05-27T16:36:17.559Z",
+      "ctime": "2019-05-27T16:36:17.559Z",
+      "birthtime": "2019-05-27T16:18:19.768Z",
+      "fields": {
+        "slug": "/news/test-4 copy/"
+      }
+    },
+    "16c8c3e2-7289-58fe-9eaf-a4cd2003b943": {
+      "id": "16c8c3e2-7289-58fe-9eaf-a4cd2003b943",
+      "children": [
+        "54326043-a1cd-5e00-9f9b-14a4c000a2d7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "1c7f64f42394a01766be79a69a776770",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/text-2 copy.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/text-2 copy.md",
+      "relativePath": "pages/news/text-2 copy.md",
+      "extension": "md",
+      "size": 341,
+      "prettySize": "341 B",
+      "modifiedTime": "2019-05-27T16:36:00.818Z",
+      "accessTime": "2019-05-27T16:35:58.098Z",
+      "changeTime": "2019-05-27T16:36:00.818Z",
+      "birthTime": "2019-05-27T16:07:19.797Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "text-2 copy.md",
+      "ext": ".md",
+      "name": "text-2 copy",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 4886243,
+      "blocks": 8,
+      "atimeMs": 1558974958097.839,
+      "mtimeMs": 1558974960817.904,
+      "ctimeMs": 1558974960817.904,
+      "birthtimeMs": 1558973239797.1602,
+      "atime": "2019-05-27T16:35:58.098Z",
+      "mtime": "2019-05-27T16:36:00.818Z",
+      "ctime": "2019-05-27T16:36:00.818Z",
+      "birthtime": "2019-05-27T16:07:19.797Z",
+      "fields": {
+        "slug": "/news/text-2 copy/"
+      }
+    },
+    "9182df9e-7cdb-5a4d-b249-fdc528df369d": {
+      "id": "9182df9e-7cdb-5a4d-b249-fdc528df369d",
+      "children": [],
+      "parent": "a77bc412-a303-5fbd-bcb6-9a5e2fba02e0",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1b0ccf4553de7b1218bc9e51e88740c5",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "WeCare WC Takes Off in Pudong Airport",
+        "date": "2017-08-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-1/"
+      }
+    },
+    "23f3c6e5-3806-5cc3-a486-bd5bca932593": {
+      "id": "23f3c6e5-3806-5cc3-a486-bd5bca932593",
+      "children": [],
+      "parent": "03165107-a345-5558-a3ee-2c28f07ab862",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "afa984a5006b3b4993cf8fde9a2b4658",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "The Queen of Public Restrooms",
+        "date": "2019-05-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-3/"
+      }
+    },
+    "9decfea7-37cb-5480-9ad5-3884fb776397": {
+      "id": "9decfea7-37cb-5480-9ad5-3884fb776397",
+      "children": [],
+      "parent": "33dba826-085b-5c51-bacb-8219e5fda272",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "1f3efe95a4d2a9575c2b2818e375dffb",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "中文",
+        "date": "2019-05-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "language": "CN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3 copy.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-3 copy/"
+      }
+    },
     "SitePage /404/": {
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
@@ -3219,120 +3730,14 @@
         "owner": "internal-data-bridge"
       }
     },
-    "4e020b6b-c04c-5715-9b9a-93f529f580b8": {
-      "id": "4e020b6b-c04c-5715-9b9a-93f529f580b8",
-      "children": [
-        "efefd164-679d-5c46-80d4-43c802c0c737"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "1b56290d5b2a18980535837a5c7cfa1e",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/text-2.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/text-2.md",
-      "relativePath": "pages/news/text-2.md",
-      "extension": "md",
-      "size": 341,
-      "prettySize": "341 B",
-      "modifiedTime": "2019-05-27T16:17:36.517Z",
-      "accessTime": "2019-05-27T16:09:06.925Z",
-      "changeTime": "2019-05-27T16:17:36.517Z",
-      "birthTime": "2019-05-27T16:07:19.797Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "text-2.md",
-      "ext": ".md",
-      "name": "text-2",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4881714,
-      "blocks": 8,
-      "atimeMs": 1558973346925.4792,
-      "mtimeMs": 1558973856516.6313,
-      "ctimeMs": 1558973856516.6313,
-      "birthtimeMs": 1558973239797.1602,
-      "atime": "2019-05-27T16:09:06.925Z",
-      "mtime": "2019-05-27T16:17:36.517Z",
-      "ctime": "2019-05-27T16:17:36.517Z",
-      "birthtime": "2019-05-27T16:07:19.797Z",
-      "fields": {
-        "slug": "/news/text-2/"
-      }
-    },
-    "03165107-a345-5558-a3ee-2c28f07ab862": {
-      "id": "03165107-a345-5558-a3ee-2c28f07ab862",
-      "children": [
-        "23f3c6e5-3806-5cc3-a486-bd5bca932593"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "5dbc3198ab73fa4ce7a27818c94be9a6",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-3.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.md",
-      "relativePath": "pages/news/test-3.md",
-      "extension": "md",
-      "size": 346,
-      "prettySize": "346 B",
-      "modifiedTime": "2019-05-27T16:17:43.380Z",
-      "accessTime": "2019-05-27T16:09:20.399Z",
-      "changeTime": "2019-05-27T16:17:43.380Z",
-      "birthTime": "2019-05-27T16:08:39.042Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-3.md",
-      "ext": ".md",
-      "name": "test-3",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4881913,
-      "blocks": 8,
-      "atimeMs": 1558973360399.4968,
-      "mtimeMs": 1558973863380.0583,
-      "ctimeMs": 1558973863380.0583,
-      "birthtimeMs": 1558973319042.4294,
-      "atime": "2019-05-27T16:09:20.399Z",
-      "mtime": "2019-05-27T16:17:43.380Z",
-      "ctime": "2019-05-27T16:17:43.380Z",
-      "birthtime": "2019-05-27T16:08:39.042Z",
-      "fields": {
-        "slug": "/news/test-3/"
-      }
-    },
-    "9182df9e-7cdb-5a4d-b249-fdc528df369d": {
-      "id": "9182df9e-7cdb-5a4d-b249-fdc528df369d",
+    "54326043-a1cd-5e00-9f9b-14a4c000a2d7": {
+      "id": "54326043-a1cd-5e00-9f9b-14a4c000a2d7",
       "children": [],
-      "parent": "a77bc412-a303-5fbd-bcb6-9a5e2fba02e0",
+      "parent": "16c8c3e2-7289-58fe-9eaf-a4cd2003b943",
       "internal": {
         "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
         "type": "MarkdownRemark",
-        "contentDigest": "cf2010e74c2daa8a091f67e522c18420",
+        "contentDigest": "807523f3b1c5cf0dbb54fb4cb2c12789",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "langKey": "gatsby-plugin-i18n",
@@ -3340,53 +3745,27 @@
         }
       },
       "frontmatter": {
-        "title": "WeCare WC Takes Off in Pudong Airport",
-        "date": "2017-08-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1.md",
-      "fields": {
-        "langKey": "zh",
-        "slug": "/news/test-1/"
-      }
-    },
-    "efefd164-679d-5c46-80d4-43c802c0c737": {
-      "id": "efefd164-679d-5c46-80d4-43c802c0c737",
-      "children": [],
-      "parent": "4e020b6b-c04c-5715-9b9a-93f529f580b8",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "336dd0af913c2ab6e1f8993f3cb1f7ed",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "WeCare WC Goes Portable!",
+        "title": "中国呢",
         "date": "2019-02-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg"
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "language": "CN"
       },
       "excerpt": "",
       "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/text-2.md",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/text-2 copy.md",
       "fields": {
         "langKey": "zh",
-        "slug": "/news/text-2/"
+        "slug": "/news/text-2 copy/"
       }
     },
-    "23f3c6e5-3806-5cc3-a486-bd5bca932593": {
-      "id": "23f3c6e5-3806-5cc3-a486-bd5bca932593",
+    "c97cd497-3329-585b-8eaf-d610c07c5eb5": {
+      "id": "c97cd497-3329-585b-8eaf-d610c07c5eb5",
       "children": [],
-      "parent": "03165107-a345-5558-a3ee-2c28f07ab862",
+      "parent": "0d6950d9-1912-5cb7-9685-0dceef7dbb08",
       "internal": {
         "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
         "type": "MarkdownRemark",
-        "contentDigest": "4bd10c7ddfe699846193a28829ec2e65",
+        "contentDigest": "a7e8abca0a437b301246c2178eb37236",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "langKey": "gatsby-plugin-i18n",
@@ -3394,96 +3773,45 @@
         }
       },
       "frontmatter": {
-        "title": "The Queen of Public Restrooms",
-        "date": "2019-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.md",
-      "fields": {
-        "langKey": "zh",
-        "slug": "/news/test-3/"
-      }
-    },
-    "be27c86b-53c1-50e6-8075-34870d48f3f2": {
-      "id": "be27c86b-53c1-50e6-8075-34870d48f3f2",
-      "children": [
-        "7282aad4-4922-589c-aace-7d186af78606"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "7e8d19d170266b92280f2614e731df9e",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-4.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4.md",
-      "relativePath": "pages/news/test-4.md",
-      "extension": "md",
-      "size": 320,
-      "prettySize": "320 B",
-      "modifiedTime": "2019-05-27T16:18:32.774Z",
-      "accessTime": "2019-05-27T16:18:32.773Z",
-      "changeTime": "2019-05-27T16:18:32.774Z",
-      "birthTime": "2019-05-27T16:18:19.768Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-4.md",
-      "ext": ".md",
-      "name": "test-4",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4883670,
-      "blocks": 8,
-      "atimeMs": 1558973912773.4487,
-      "mtimeMs": 1558973912773.6245,
-      "ctimeMs": 1558973912773.6245,
-      "birthtimeMs": 1558973899768.3394,
-      "atime": "2019-05-27T16:18:32.773Z",
-      "mtime": "2019-05-27T16:18:32.774Z",
-      "ctime": "2019-05-27T16:18:32.774Z",
-      "birthtime": "2019-05-27T16:18:19.768Z",
-      "fields": {
-        "slug": "/news/test-4/"
-      }
-    },
-    "7282aad4-4922-589c-aace-7d186af78606": {
-      "id": "7282aad4-4922-589c-aace-7d186af78606",
-      "children": [],
-      "parent": "be27c86b-53c1-50e6-8075-34870d48f3f2",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "4d0027804d39bf1609de167c1d343eed",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "Old",
+        "title": "中国呢",
         "date": "2014-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg"
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "language": "CN"
       },
       "excerpt": "",
       "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4.md",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4 copy.md",
       "fields": {
         "langKey": "zh",
-        "slug": "/news/test-4/"
+        "slug": "/news/test-4 copy/"
+      }
+    },
+    "54fa8a48-a262-5480-8a8d-759355be14c1": {
+      "id": "54fa8a48-a262-5480-8a8d-759355be14c1",
+      "children": [],
+      "parent": "715b53a9-aa1b-512b-8fd1-b068f45b5caa",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "8f72a1230e99c0d14241242f522a015c",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "中国呢",
+        "date": "2017-08-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "language": "CN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1 copy.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-1 copy/"
       }
     }
   },
@@ -3493,13 +3821,12 @@
   },
   "componentDataDependencies": {
     "nodes": {
-      "Site": [
-        "sq--src-layouts-index-js"
-      ]
+      "Site": []
     },
     "connections": {
       "MarkdownRemark": [
-        "sq--src-pages-index-zh-js"
+        null,
+        null
       ],
       "File": [
         "/my-files/"
@@ -3515,8 +3842,9 @@
     "en-page-2-065": "59/path---en-page-2-065-ac0-4xRSeOifC7Lu2rz5EVCuhBhW8A",
     "page-2-fbc": "439/path---page-2-fbc-5a8-Gpjp0PvIfeRtzAXUjU5RFSRxRdY",
     "404-html-516": "104/path---404-html-516-62a-ZNpXRWbCmk1qYofocrzTyxW3Q",
-    "my-files-317": "723/path---my-files-317-4c7-ugvord0RFIKFjEGGoXLmqvwBkY",
-    "sq--src-pages-index-en-js": 1442888989
+    "my-files-317": "913/path---my-files-317-4c7-UObOW1xZrAXevOWNuqpTK4KLLE",
+    "sq--src-pages-index-en-js": 1442888989,
+    "sq--src-pages-index-zh-js": 3613798577
   },
   "components": {
     "/Users/ryankretch/Documents/Coding Stuff/wc/.cache/dev-404-page.js": {
@@ -3558,20 +3886,20 @@
       "hash": 2825539598
     },
     "sq--src-pages-index-en-js": {
-      "name": "usersRyankretchDocumentsCodingStuffWcSrcPagesIndexEnJs1442888989",
+      "name": "usersRyankretchDocumentsCodingStuffWcSrcPagesIndexEnJs3613798577",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.en.js",
       "id": "sq--src-pages-index-en-js",
       "jsonName": "sq--src-pages-index-en-js",
-      "query": "query usersRyankretchDocumentsCodingStuffWcSrcPagesIndexEnJs1442888989 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          photo\n        }\n        excerpt\n        timeToRead\n        html\n      }\n    }\n  }\n}\n",
-      "hash": 1442888989
+      "query": "query usersRyankretchDocumentsCodingStuffWcSrcPagesIndexEnJs3613798577 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          photo\n          language\n        }\n        excerpt\n        timeToRead\n        html\n      }\n    }\n  }\n}\n",
+      "hash": 3613798577
     },
     "sq--src-pages-index-zh-js": {
-      "name": "usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs1442888989",
+      "name": "usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs3613798577",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js",
       "id": "sq--src-pages-index-zh-js",
       "jsonName": "sq--src-pages-index-zh-js",
-      "query": "query usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs1442888989 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          photo\n        }\n        excerpt\n        timeToRead\n        html\n      }\n    }\n  }\n}\n",
-      "hash": 1442888989
+      "query": "query usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs3613798577 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          photo\n          language\n        }\n        excerpt\n        timeToRead\n        html\n      }\n    }\n  }\n}\n",
+      "hash": 3613798577
     }
   }
 }
