@@ -37,7 +37,7 @@ const Layout = ({ children, location, i18nMessages }) => {
           >
             <div>
               <Helmet
-                title="Gatsby Default Starter"
+                title="WeCare WC"
                 meta={[
                   { name: 'description', content: 'Sample' },
                   { name: 'keywords', content: 'sample, something' },
