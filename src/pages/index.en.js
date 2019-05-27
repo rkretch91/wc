@@ -1,5 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
+import { graphql, StaticQuery } from "gatsby"
 import Layout from "../layouts/en"
 import Banner from "../components/Banner"
 import Mapbox from "../components/Map"
@@ -20,6 +21,27 @@ import Philips from '../images/logos/philips.png'
 import VB from '../images/logos/v&b.png'
 
 const IndexPage = (props) => (
+  <StaticQuery
+    query={graphql`
+      query {
+        allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+        edges {
+          node {
+            frontmatter {
+              title
+              date
+              photo
+            }
+            excerpt
+            timeToRead
+            html
+          }
+        }
+      }
+    }
+  `
+}
+  render={data => (
   <Layout location={props.location}>
     <div>
       <Banner slogan="REDEFINING PUBLIC RESTROOMS"/>
@@ -68,25 +90,21 @@ const IndexPage = (props) => (
       <div className="blog has-text-centered">
         <h1>新闻</h1>
         <div className="columns is-centered">
-          <div className="column has-text-left spacing">
-            <img src={Test}/>
-            <span><h5>The Queen of Public Restrooms</h5></span>
-            <span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam erat justo, porta a arcu.</p></span>
+        {data.allMarkdownRemark.edges.slice(0, 3).map(({ node }) => (
+          <div className="column has-text-left spacing" key={node.id}>
+            <img src={node.frontmatter.photo}/>
+            <span><h5>{node.frontmatter.title}{" "}</h5></span>
+            <span><p>{node.excerpt}</p></span>
           </div>
-          <div className="column has-text-left spacing">
-            <img src={Test}/>
-            <span><h5>WeCare WC Goes Portable!</h5></span>
-            <span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam erat justo, porta a arcu.</p></span>
-          </div>
-          <div className="column has-text-left spacing">
-            <img src={Test}/>
-            <span><h5>WeCare WC Takes Off in Pudong Airport</h5></span>
-            <span><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam erat justo, porta a arcu.</p></span>
-          </div>
+        ))}
         </div>
       </div>
     </div>
   </Layout>
+  )}
+  />
 )
 
 export default IndexPage
+
+

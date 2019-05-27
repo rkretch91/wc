@@ -30,6 +30,11 @@
         "path": "/en/page-2/"
     },
     {
+        "componentChunkName": "component---src-pages-my-files-js",
+        "jsonName": "my-files-317",
+        "path": "/my-files/"
+    },
+    {
         "componentChunkName": "component---src-pages-page-2-zh-js",
         "jsonName": "page-2-fbc",
         "path": "/page-2/"
