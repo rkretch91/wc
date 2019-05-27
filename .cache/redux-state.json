@@ -2323,7 +2323,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ff8cf82a830f984a46eb38506f7ed47c",
+        "contentDigest": "b55ea55c549b2bd316a386447c5c14b9",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.zh.js\"",
@@ -2336,11 +2336,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js",
       "relativePath": "pages/index.zh.js",
       "extension": "js",
-      "size": 4244,
-      "prettySize": "4.24 kB",
-      "modifiedTime": "2019-05-22T09:16:35.735Z",
-      "accessTime": "2019-05-27T15:49:08.574Z",
-      "changeTime": "2019-05-22T09:16:35.735Z",
+      "size": 4169,
+      "prettySize": "4.17 kB",
+      "modifiedTime": "2019-05-27T16:23:44.113Z",
+      "accessTime": "2019-05-27T16:23:35.359Z",
+      "changeTime": "2019-05-27T16:23:44.113Z",
       "birthTime": "2019-05-09T12:08:46.801Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
@@ -2357,13 +2357,13 @@
       "blksize": 4096,
       "ino": 3778215,
       "blocks": 16,
-      "atimeMs": 1558972148574.072,
-      "mtimeMs": 1558516595735.07,
-      "ctimeMs": 1558516595735.07,
+      "atimeMs": 1558974215359.044,
+      "mtimeMs": 1558974224113.0476,
+      "ctimeMs": 1558974224113.0476,
       "birthtimeMs": 1557403726801.2715,
-      "atime": "2019-05-27T15:49:08.574Z",
-      "mtime": "2019-05-22T09:16:35.735Z",
-      "ctime": "2019-05-22T09:16:35.735Z",
+      "atime": "2019-05-27T16:23:35.359Z",
+      "mtime": "2019-05-27T16:23:44.113Z",
+      "ctime": "2019-05-27T16:23:44.113Z",
       "birthtime": "2019-05-09T12:08:46.801Z",
       "fields": {
         "slug": "/"
@@ -3499,7 +3499,7 @@
     },
     "connections": {
       "MarkdownRemark": [
-        "sq--src-pages-index-en-js"
+        "sq--src-pages-index-zh-js"
       ],
       "File": [
         "/my-files/"
@@ -3515,7 +3515,7 @@
     "en-page-2-065": "59/path---en-page-2-065-ac0-4xRSeOifC7Lu2rz5EVCuhBhW8A",
     "page-2-fbc": "439/path---page-2-fbc-5a8-Gpjp0PvIfeRtzAXUjU5RFSRxRdY",
     "404-html-516": "104/path---404-html-516-62a-ZNpXRWbCmk1qYofocrzTyxW3Q",
-    "my-files-317": "581/path---my-files-317-4c7-4vMLqSVBtGSqMrdfqegPngcFNYA",
+    "my-files-317": "723/path---my-files-317-4c7-ugvord0RFIKFjEGGoXLmqvwBkY",
     "sq--src-pages-index-en-js": 1442888989
   },
   "components": {
@@ -3563,6 +3563,14 @@
       "id": "sq--src-pages-index-en-js",
       "jsonName": "sq--src-pages-index-en-js",
       "query": "query usersRyankretchDocumentsCodingStuffWcSrcPagesIndexEnJs1442888989 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          photo\n        }\n        excerpt\n        timeToRead\n        html\n      }\n    }\n  }\n}\n",
+      "hash": 1442888989
+    },
+    "sq--src-pages-index-zh-js": {
+      "name": "usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs1442888989",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js",
+      "id": "sq--src-pages-index-zh-js",
+      "jsonName": "sq--src-pages-index-zh-js",
+      "query": "query usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs1442888989 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          photo\n        }\n        excerpt\n        timeToRead\n        html\n      }\n    }\n  }\n}\n",
       "hash": 1442888989
     }
   }
