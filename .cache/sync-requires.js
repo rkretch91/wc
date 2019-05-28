@@ -5,6 +5,7 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
+  "component---src-templates-blog-post-js": hot(preferDefault(require("/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js"))),
   "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/ryankretch/Documents/Coding Stuff/wc/.cache/dev-404-page.js"))),
   "component---src-pages-404-js": hot(preferDefault(require("/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/404.js"))),
   "component---src-pages-index-en-js": hot(preferDefault(require("/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.en.js"))),
