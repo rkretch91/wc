@@ -1,7 +1,7 @@
 ---
 title: "Old"
 date: "2014-05-10"
-photo: https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg
+photo: https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg
 language: "EN"
 ---
 
