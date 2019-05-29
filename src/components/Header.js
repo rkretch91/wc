@@ -8,9 +8,10 @@ class Header extends React.Component {
   state = {
       //This sets the state of Bulma elements
       navbarIsActive: "navbar-item dropdown is-hidden-desktop",
-      prevScrollpos: window.pageYOffset,
+      prevScrollpos: function() { if (typeof window !== 'undefined') { return window.pageYOffset } },
       visible: true
   }
+
 
     //This opens the navbar dropdown
     navbarOpenDropdown = () => {
@@ -52,25 +53,27 @@ class Header extends React.Component {
       }
     }
 
-    componentDidMount() {
-        window.addEventListener("scroll", this.handleScroll);
-      }
+  componentDidMount() {
+      window.addEventListener("scroll", this.handleScroll);
+    }
 
-      componentWillUnmount() {
-        window.removeEventListener("scroll", this.handleScroll);
-      }
+    componentWillUnmount() {
+      window.removeEventListener("scroll", this.handleScroll);
+    }
 
     handleScroll = () => {
       const { prevScrollpos } = this.state;
-
+      if (typeof window !== 'undefined') {
       const currentScrollPos = window.pageYOffset;
       const visible = prevScrollpos > currentScrollPos;
-
       this.setState({
         prevScrollpos: currentScrollPos,
         visible
       });
+      }
+
     };
+
 
     languageCheckMobile = () => {
       if (this.props.langs[0].selected) {

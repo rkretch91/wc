@@ -3,7 +3,7 @@ const { createFilePath } = require(`gatsby-source-filesystem`)
 exports.onCreateNode = ({ node, getNode, actions }) => {
   const { createNodeField } = actions
   if (node.internal.type === `MarkdownRemark`) {
-    const slug = createFilePath({ node, getNode, basePath: `pages/news` })
+    const slug = createFilePath({ node, getNode, basePath: `pages/news/` })
     createNodeField({
       node,
       name: `slug`,
@@ -43,3 +43,23 @@ exports.createPages = ({ graphql, actions }) => {
     })
   })
 }
+
+exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
+  if (stage === "build-html") {
+    actions.setWebpackConfig({
+      module: {
+        rules: [
+          {
+            test: /mapbox-gl/,
+            use: loaders.null(),
+          },
+          {
+            test: /bad-module/,
+            use: loaders.null(),
+          }
+        ],
+      },
+    })
+  }
+}
+

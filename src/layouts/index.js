@@ -7,7 +7,7 @@ import { getCurrentLangKey, getLangs, getUrlForLang } from 'ptz-i18n';
 import { StaticQuery, graphql } from "gatsby"
 import { IntlProvider } from 'react-intl';
 import 'intl';
-import './index.css'
+import './index.scss'
 
 const Layout = ({ children, location, i18nMessages }) => {
   return (
