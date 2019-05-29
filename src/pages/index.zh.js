@@ -35,7 +35,7 @@ const IndexPage = (props) => (
             fields {
             slug
             }
-            excerpt
+            excerpt(pruneLength: 150)
             timeToRead
             html
 
@@ -102,7 +102,7 @@ const IndexPage = (props) => (
             <Link
               to={node.fields.slug}
             >
-              <img src={node.frontmatter.photo}/>
+              <div className="blog-img" style={{ backgroundImage: `url(\'${node.frontmatter.photo}\')`}}/>
               <span><h5>{node.frontmatter.title}{" "}</h5></span>
               <span><p>{node.excerpt}</p></span>
             </Link>

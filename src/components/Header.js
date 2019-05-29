@@ -112,9 +112,11 @@ class Header extends React.Component {
           "big-header--hidden": !this.state.visible
         })}>
         <div style={{flex: '500px'}}>
-          <div className="header-logo">
-            <img src={WecareLogo}/>
-          </div>
+          <Link to="/">
+            <div className="header-logo">
+              <img src={WecareLogo}/>
+            </div>
+          </Link>
         </div>
         <div className="nav-menu is-hidden-touch">{this.languageCheck()}</div>
 

@@ -950,12 +950,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-28T19:33:14.044Z",
+      "buildTime": "2019-05-29T14:41:08.219Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "735b94959fd1e66c0db9bf06d7aab6b3",
+        "contentDigest": "e311fc29a5ac1eb3175c6f27f6937206",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -965,7 +965,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f0eb6532e9f6dcf443499db09ac588cd",
+        "contentDigest": "b562a556ad6331d3b60d258ba557c294",
         "type": "Directory",
         "description": "Directory \"src\"",
         "owner": "gatsby-source-filesystem"
@@ -976,9 +976,9 @@
       "extension": "",
       "size": 288,
       "prettySize": "288 B",
-      "modifiedTime": "2019-05-28T21:24:36.000Z",
-      "accessTime": "2019-05-28T21:24:36.000Z",
-      "changeTime": "2019-05-28T21:24:36.455Z",
+      "modifiedTime": "2019-05-29T14:40:18.000Z",
+      "accessTime": "2019-05-29T14:41:16.659Z",
+      "changeTime": "2019-05-29T14:40:18.378Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc",
@@ -995,13 +995,13 @@
       "blksize": 4096,
       "ino": 3516193,
       "blocks": 0,
-      "atimeMs": 1559078676000,
-      "mtimeMs": 1559078676000,
-      "ctimeMs": 1559078676454.9675,
+      "atimeMs": 1559140876658.6418,
+      "mtimeMs": 1559140818000,
+      "ctimeMs": 1559140818377.5188,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T21:24:36.000Z",
-      "mtime": "2019-05-28T21:24:36.000Z",
-      "ctime": "2019-05-28T21:24:36.455Z",
+      "atime": "2019-05-29T14:41:16.659Z",
+      "mtime": "2019-05-29T14:40:18.000Z",
+      "ctime": "2019-05-29T14:40:18.378Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
     },
     "062a4e25-1886-56ae-8fb8-fa832d7bab1e": {
@@ -1009,7 +1009,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c8873ca839e56612708b9414a749dff0",
+        "contentDigest": "150d38d186aa8f8e47db0f40449a3cb9",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
@@ -1020,9 +1020,9 @@
       "extension": "",
       "size": 224,
       "prettySize": "224 B",
-      "modifiedTime": "2019-05-28T21:24:36.000Z",
-      "accessTime": "2019-05-28T21:24:36.557Z",
-      "changeTime": "2019-05-28T21:24:36.467Z",
+      "modifiedTime": "2019-05-29T13:59:11.000Z",
+      "accessTime": "2019-05-29T14:41:16.659Z",
+      "changeTime": "2019-05-29T13:59:50.214Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src",
@@ -1039,13 +1039,13 @@
       "blksize": 4096,
       "ino": 3516231,
       "blocks": 0,
-      "atimeMs": 1559078676556.8533,
-      "mtimeMs": 1559078676000,
-      "ctimeMs": 1559078676467.168,
+      "atimeMs": 1559140876658.8848,
+      "mtimeMs": 1559138351000,
+      "ctimeMs": 1559138390213.9043,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T21:24:36.557Z",
-      "mtime": "2019-05-28T21:24:36.000Z",
-      "ctime": "2019-05-28T21:24:36.467Z",
+      "atime": "2019-05-29T14:41:16.659Z",
+      "mtime": "2019-05-29T13:59:11.000Z",
+      "ctime": "2019-05-29T13:59:50.214Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
     },
     "93b57633-c0e3-5fe1-9841-0e0d9af49b24": {
@@ -1053,7 +1053,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "70430ab458c894c8010f3f985f684793",
+        "contentDigest": "1161e7c78e1f30248ae067b10dc31acc",
         "type": "Directory",
         "description": "Directory \"src/data\"",
         "owner": "gatsby-source-filesystem"
@@ -1065,7 +1065,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-05-06T16:21:21.000Z",
-      "accessTime": "2019-05-28T19:33:20.262Z",
+      "accessTime": "2019-05-29T14:41:16.659Z",
       "changeTime": "2019-05-06T16:21:23.858Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1083,11 +1083,11 @@
       "blksize": 4096,
       "ino": 3516240,
       "blocks": 0,
-      "atimeMs": 1559072000261.9282,
+      "atimeMs": 1559140876658.9275,
       "mtimeMs": 1557159681000,
       "ctimeMs": 1557159683858.4402,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T19:33:20.262Z",
+      "atime": "2019-05-29T14:41:16.659Z",
       "mtime": "2019-05-06T16:21:21.000Z",
       "ctime": "2019-05-06T16:21:23.858Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1097,7 +1097,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "94dd3151cbd93f5da6d8d4d0c63937b9",
+        "contentDigest": "2f7999d7935ac8e22814031575dc71e1",
         "type": "Directory",
         "description": "Directory \"src/layouts\"",
         "owner": "gatsby-source-filesystem"
@@ -1108,9 +1108,9 @@
       "extension": "",
       "size": 224,
       "prettySize": "224 B",
-      "modifiedTime": "2019-05-27T17:50:50.000Z",
-      "accessTime": "2019-05-28T19:33:20.262Z",
-      "changeTime": "2019-05-27T17:50:50.904Z",
+      "modifiedTime": "2019-05-29T13:52:44.000Z",
+      "accessTime": "2019-05-29T14:41:16.659Z",
+      "changeTime": "2019-05-29T13:52:44.965Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src",
@@ -1127,13 +1127,13 @@
       "blksize": 4096,
       "ino": 3516234,
       "blocks": 0,
-      "atimeMs": 1559072000261.9375,
-      "mtimeMs": 1558979450000,
-      "ctimeMs": 1558979450904.1675,
+      "atimeMs": 1559140876658.9768,
+      "mtimeMs": 1559137964000,
+      "ctimeMs": 1559137964965.1616,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T19:33:20.262Z",
-      "mtime": "2019-05-27T17:50:50.000Z",
-      "ctime": "2019-05-27T17:50:50.904Z",
+      "atime": "2019-05-29T14:41:16.659Z",
+      "mtime": "2019-05-29T13:52:44.000Z",
+      "ctime": "2019-05-29T13:52:44.965Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
     },
     "f21f0690-acd5-54cc-98b6-e3fa857a2a4e": {
@@ -1141,7 +1141,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "bfc70d5d531575f296a656806c221a63",
+        "contentDigest": "bc5d41e785601aa8e7585ab73d30bd73",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1153,7 +1153,7 @@
       "size": 416,
       "prettySize": "416 B",
       "modifiedTime": "2019-05-23T13:18:27.000Z",
-      "accessTime": "2019-05-28T19:33:20.262Z",
+      "accessTime": "2019-05-29T14:41:16.659Z",
       "changeTime": "2019-05-28T14:26:49.399Z",
       "birthTime": "2019-05-04T09:11:20.000Z",
       "root": "/",
@@ -1171,11 +1171,11 @@
       "blksize": 4096,
       "ino": 3516228,
       "blocks": 0,
-      "atimeMs": 1559072000262.0044,
+      "atimeMs": 1559140876658.9148,
       "mtimeMs": 1558617507000,
       "ctimeMs": 1559053609399.3196,
       "birthtimeMs": 1556961080000,
-      "atime": "2019-05-28T19:33:20.262Z",
+      "atime": "2019-05-29T14:41:16.659Z",
       "mtime": "2019-05-23T13:18:27.000Z",
       "ctime": "2019-05-28T14:26:49.399Z",
       "birthtime": "2019-05-04T09:11:20.000Z"
@@ -1185,7 +1185,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9da766e66dce94708e46131be7154d6a",
+        "contentDigest": "feb43a89db7719b2a3f373d89bf9ed27",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1196,9 +1196,9 @@
       "extension": "",
       "size": 320,
       "prettySize": "320 B",
-      "modifiedTime": "2019-05-28T19:32:54.000Z",
-      "accessTime": "2019-05-28T19:33:20.262Z",
-      "changeTime": "2019-05-28T19:32:54.872Z",
+      "modifiedTime": "2019-05-29T14:40:18.000Z",
+      "accessTime": "2019-05-29T14:41:16.659Z",
+      "changeTime": "2019-05-29T14:40:18.394Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src",
@@ -1215,65 +1215,21 @@
       "blksize": 4096,
       "ino": 3516245,
       "blocks": 0,
-      "atimeMs": 1559072000262.014,
-      "mtimeMs": 1559071974000,
-      "ctimeMs": 1559071974872.1401,
+      "atimeMs": 1559140876659.018,
+      "mtimeMs": 1559140818000,
+      "ctimeMs": 1559140818393.7163,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T19:33:20.262Z",
-      "mtime": "2019-05-28T19:32:54.000Z",
-      "ctime": "2019-05-28T19:32:54.872Z",
+      "atime": "2019-05-29T14:41:16.659Z",
+      "mtime": "2019-05-29T14:40:18.000Z",
+      "ctime": "2019-05-29T14:40:18.394Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
-    },
-    "53146851-a359-561e-a230-18a8e930e4c1": {
-      "id": "53146851-a359-561e-a230-18a8e930e4c1",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "5718a96321425f1cbef3bc6f3caafd43",
-        "type": "Directory",
-        "description": "Directory \"src/templates\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates",
-      "relativePath": "templates",
-      "extension": "",
-      "size": 96,
-      "prettySize": "96 B",
-      "modifiedTime": "2019-05-28T15:00:38.000Z",
-      "accessTime": "2019-05-28T19:33:20.262Z",
-      "changeTime": "2019-05-28T15:00:38.823Z",
-      "birthTime": "2019-05-28T14:29:59.000Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src",
-      "base": "templates",
-      "ext": "",
-      "name": "templates",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 16877,
-      "nlink": 3,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4961536,
-      "blocks": 0,
-      "atimeMs": 1559072000262.0112,
-      "mtimeMs": 1559055638000,
-      "ctimeMs": 1559055638822.5005,
-      "birthtimeMs": 1559053799000,
-      "atime": "2019-05-28T19:33:20.262Z",
-      "mtime": "2019-05-28T15:00:38.000Z",
-      "ctime": "2019-05-28T15:00:38.823Z",
-      "birthtime": "2019-05-28T14:29:59.000Z"
     },
     "aebed10c-5e78-532c-a7d8-ba0ac91ae93f": {
       "id": "aebed10c-5e78-532c-a7d8-ba0ac91ae93f",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "160f70525830f0789a24f1972edd25a4",
+        "contentDigest": "6cb6254126427ab0a02c245f8cde8b3d",
         "type": "Directory",
         "description": "Directory \"src/data/messages\"",
         "owner": "gatsby-source-filesystem"
@@ -1285,7 +1241,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-05-06T16:21:23.000Z",
-      "accessTime": "2019-05-28T19:33:20.265Z",
+      "accessTime": "2019-05-29T14:41:16.663Z",
       "changeTime": "2019-05-06T16:21:23.610Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1303,11 +1259,11 @@
       "blksize": 4096,
       "ino": 3516241,
       "blocks": 0,
-      "atimeMs": 1559072000264.6453,
+      "atimeMs": 1559140876663.1353,
       "mtimeMs": 1557159683000,
       "ctimeMs": 1557159683610.4958,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T19:33:20.265Z",
+      "atime": "2019-05-29T14:41:16.663Z",
       "mtime": "2019-05-06T16:21:23.000Z",
       "ctime": "2019-05-06T16:21:23.610Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1317,7 +1273,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "66854a3f3470fa677fbbf0f4cbc7fecc",
+        "contentDigest": "bd5d551394c8f176115620ed413d8a58",
         "type": "Directory",
         "description": "Directory \"src/images/logos\"",
         "owner": "gatsby-source-filesystem"
@@ -1329,7 +1285,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2019-05-22T08:41:52.000Z",
-      "accessTime": "2019-05-28T19:33:20.265Z",
+      "accessTime": "2019-05-29T14:41:16.663Z",
       "changeTime": "2019-05-22T08:41:53.642Z",
       "birthTime": "2019-05-22T08:41:42.000Z",
       "root": "/",
@@ -1347,11 +1303,11 @@
       "blksize": 4096,
       "ino": 4457360,
       "blocks": 0,
-      "atimeMs": 1559072000264.5828,
+      "atimeMs": 1559140876663.0945,
       "mtimeMs": 1558514512000,
       "ctimeMs": 1558514513642.1753,
       "birthtimeMs": 1558514502000,
-      "atime": "2019-05-28T19:33:20.265Z",
+      "atime": "2019-05-29T14:41:16.663Z",
       "mtime": "2019-05-22T08:41:52.000Z",
       "ctime": "2019-05-22T08:41:53.642Z",
       "birthtime": "2019-05-22T08:41:42.000Z"
@@ -1361,7 +1317,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1956819d6dc008fd67305a69909ec670",
+        "contentDigest": "f13041386ac34f2d18439b63a3740a56",
         "type": "Directory",
         "description": "Directory \"src/pages/news\"",
         "owner": "gatsby-source-filesystem"
@@ -1372,10 +1328,10 @@
       "extension": "",
       "size": 320,
       "prettySize": "320 B",
-      "modifiedTime": "2019-05-28T19:32:54.000Z",
-      "accessTime": "2019-05-28T19:33:20.265Z",
-      "changeTime": "2019-05-28T19:32:54.926Z",
-      "birthTime": "2019-05-27T16:42:52.000Z",
+      "modifiedTime": "2019-05-29T14:41:00.813Z",
+      "accessTime": "2019-05-29T14:41:16.663Z",
+      "changeTime": "2019-05-29T14:41:00.813Z",
+      "birthTime": "2019-05-29T12:28:34.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
       "base": "news",
@@ -1389,16 +1345,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 4890085,
+      "ino": 5048912,
       "blocks": 0,
-      "atimeMs": 1559072000264.7522,
-      "mtimeMs": 1559071974000,
-      "ctimeMs": 1559071974925.9036,
-      "birthtimeMs": 1558975372000,
-      "atime": "2019-05-28T19:33:20.265Z",
-      "mtime": "2019-05-28T19:32:54.000Z",
-      "ctime": "2019-05-28T19:32:54.926Z",
-      "birthtime": "2019-05-27T16:42:52.000Z"
+      "atimeMs": 1559140876663.1519,
+      "mtimeMs": 1559140860812.8618,
+      "ctimeMs": 1559140860812.8618,
+      "birthtimeMs": 1559132914000,
+      "atime": "2019-05-29T14:41:16.663Z",
+      "mtime": "2019-05-29T14:41:00.813Z",
+      "ctime": "2019-05-29T14:41:00.813Z",
+      "birthtime": "2019-05-29T12:28:34.000Z"
     },
     "5c3e10a9-b961-5a45-a7c7-2f984ba33554": {
       "id": "5c3e10a9-b961-5a45-a7c7-2f984ba33554",
@@ -1462,10 +1418,10 @@
       "extension": "js",
       "size": 2358,
       "prettySize": "2.36 kB",
-      "modifiedTime": "2019-05-28T21:24:30.679Z",
-      "accessTime": "2019-05-28T21:14:08.080Z",
-      "changeTime": "2019-05-28T21:24:30.679Z",
-      "birthTime": "2019-05-23T13:15:31.243Z",
+      "modifiedTime": "2019-05-29T12:28:34.953Z",
+      "accessTime": "2019-05-29T12:28:34.953Z",
+      "changeTime": "2019-05-29T12:28:34.953Z",
+      "birthTime": "2019-05-29T12:28:34.953Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/components",
       "base": "Footer.js",
@@ -1479,16 +1435,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 4574701,
+      "ino": 5048910,
       "blocks": 8,
-      "atimeMs": 1559078048079.5488,
-      "mtimeMs": 1559078670678.616,
-      "ctimeMs": 1559078670678.616,
-      "birthtimeMs": 1558617331242.829,
-      "atime": "2019-05-28T21:14:08.080Z",
-      "mtime": "2019-05-28T21:24:30.679Z",
-      "ctime": "2019-05-28T21:24:30.679Z",
-      "birthtime": "2019-05-23T13:15:31.243Z"
+      "atimeMs": 1559132914952.7227,
+      "mtimeMs": 1559132914953.2356,
+      "ctimeMs": 1559132914953.2356,
+      "birthtimeMs": 1559132914952.7227,
+      "atime": "2019-05-29T12:28:34.953Z",
+      "mtime": "2019-05-29T12:28:34.953Z",
+      "ctime": "2019-05-29T12:28:34.953Z",
+      "birthtime": "2019-05-29T12:28:34.953Z"
     },
     "167b3484-90f1-535d-9c34-3e982ee35868": {
       "id": "167b3484-90f1-535d-9c34-3e982ee35868",
@@ -1507,10 +1463,10 @@
       "extension": "js",
       "size": 166,
       "prettySize": "166 B",
-      "modifiedTime": "2019-05-28T21:13:40.854Z",
-      "accessTime": "2019-05-28T21:13:37.295Z",
-      "changeTime": "2019-05-28T21:13:40.854Z",
-      "birthTime": "2019-05-09T10:02:43.530Z",
+      "modifiedTime": "2019-05-29T12:28:34.952Z",
+      "accessTime": "2019-05-29T12:28:34.951Z",
+      "changeTime": "2019-05-29T12:28:34.952Z",
+      "birthTime": "2019-05-29T12:28:34.951Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/components",
       "base": "Banner.js",
@@ -1524,23 +1480,23 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 3750869,
+      "ino": 5048909,
       "blocks": 8,
-      "atimeMs": 1559078017294.7341,
-      "mtimeMs": 1559078020853.818,
-      "ctimeMs": 1559078020853.818,
-      "birthtimeMs": 1557396163530.0952,
-      "atime": "2019-05-28T21:13:37.295Z",
-      "mtime": "2019-05-28T21:13:40.854Z",
-      "ctime": "2019-05-28T21:13:40.854Z",
-      "birthtime": "2019-05-09T10:02:43.530Z"
+      "atimeMs": 1559132914950.7495,
+      "mtimeMs": 1559132914951.9648,
+      "ctimeMs": 1559132914951.9648,
+      "birthtimeMs": 1559132914950.7495,
+      "atime": "2019-05-29T12:28:34.951Z",
+      "mtime": "2019-05-29T12:28:34.952Z",
+      "ctime": "2019-05-29T12:28:34.952Z",
+      "birthtime": "2019-05-29T12:28:34.951Z"
     },
     "75111e71-630a-5e04-8784-5963089ba444": {
       "id": "75111e71-630a-5e04-8784-5963089ba444",
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "40f33d70f72ab34dc003bdd212d906ef",
+        "contentDigest": "b0fb0c4e79134dd67e5672eb72ef4481",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/components/Header.js\"",
@@ -1550,11 +1506,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/components/Header.js",
       "relativePath": "components/Header.js",
       "extension": "js",
-      "size": 4336,
-      "prettySize": "4.34 kB",
-      "modifiedTime": "2019-05-23T13:15:31.246Z",
-      "accessTime": "2019-05-28T15:07:18.256Z",
-      "changeTime": "2019-05-23T13:15:31.246Z",
+      "size": 4384,
+      "prettySize": "4.38 kB",
+      "modifiedTime": "2019-05-29T14:00:11.070Z",
+      "accessTime": "2019-05-29T13:59:56.178Z",
+      "changeTime": "2019-05-29T14:00:11.070Z",
       "birthTime": "2019-05-23T13:15:31.244Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/components",
@@ -1571,13 +1527,13 @@
       "blksize": 4096,
       "ino": 4574702,
       "blocks": 16,
-      "atimeMs": 1559056038256.0952,
-      "mtimeMs": 1558617331245.7805,
-      "ctimeMs": 1558617331245.7805,
+      "atimeMs": 1559138396178.1868,
+      "mtimeMs": 1559138411070.4182,
+      "ctimeMs": 1559138411070.4182,
       "birthtimeMs": 1558617331244.119,
-      "atime": "2019-05-28T15:07:18.256Z",
-      "mtime": "2019-05-23T13:15:31.246Z",
-      "ctime": "2019-05-23T13:15:31.246Z",
+      "atime": "2019-05-29T13:59:56.178Z",
+      "mtime": "2019-05-29T14:00:11.070Z",
+      "ctime": "2019-05-29T14:00:11.070Z",
       "birthtime": "2019-05-23T13:15:31.244Z"
     },
     "6bbc8033-0afe-5e37-bd55-422f176714ff": {
@@ -1765,7 +1721,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "eb5b6ab81048bb011e1a778c9bb166ac",
+        "contentDigest": "192303ffe9a38bb30a3897f0c1bc4e66",
         "type": "File",
         "mediaType": "text/css",
         "description": "File \"src/layouts/index.css\"",
@@ -1775,11 +1731,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/layouts/index.css",
       "relativePath": "layouts/index.css",
       "extension": "css",
-      "size": 16421,
-      "prettySize": "16.4 kB",
-      "modifiedTime": "2019-05-23T13:49:41.919Z",
-      "accessTime": "2019-05-28T15:07:18.158Z",
-      "changeTime": "2019-05-23T13:49:41.919Z",
+      "size": 17233,
+      "prettySize": "17.2 kB",
+      "modifiedTime": "2019-05-29T13:52:41.258Z",
+      "accessTime": "2019-05-29T13:52:40.633Z",
+      "changeTime": "2019-05-29T13:52:41.258Z",
       "birthTime": "2019-05-23T13:15:31.247Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/layouts",
@@ -1796,13 +1752,13 @@
       "blksize": 4096,
       "ino": 4574703,
       "blocks": 40,
-      "atimeMs": 1559056038158.2341,
-      "mtimeMs": 1558619381918.9563,
-      "ctimeMs": 1558619381918.9563,
+      "atimeMs": 1559137960633.0527,
+      "mtimeMs": 1559137961258.2937,
+      "ctimeMs": 1559137961258.2937,
       "birthtimeMs": 1558617331247.1653,
-      "atime": "2019-05-28T15:07:18.158Z",
-      "mtime": "2019-05-23T13:49:41.919Z",
-      "ctime": "2019-05-23T13:49:41.919Z",
+      "atime": "2019-05-29T13:52:40.633Z",
+      "mtime": "2019-05-29T13:52:41.258Z",
+      "ctime": "2019-05-29T13:52:41.258Z",
       "birthtime": "2019-05-23T13:15:31.247Z"
     },
     "8cba4095-5661-5b73-8120-ee3b0b4e266d": {
@@ -1849,51 +1805,6 @@
       "mtime": "2019-05-04T08:50:49.211Z",
       "ctime": "2019-05-06T16:21:12.204Z",
       "birthtime": "2019-05-02T16:40:21.533Z"
-    },
-    "8c50ca09-9a07-5c74-bf2a-3e6c158995b1": {
-      "id": "8c50ca09-9a07-5c74-bf2a-3e6c158995b1",
-      "children": [],
-      "parent": null,
-      "internal": {
-        "contentDigest": "e126506596765c05190dbe3d55799bd3",
-        "type": "File",
-        "mediaType": "application/javascript",
-        "description": "File \"src/templates/blog-post.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "relativePath": "templates/blog-post.js",
-      "extension": "js",
-      "size": 673,
-      "prettySize": "673 B",
-      "modifiedTime": "2019-05-28T15:00:32.290Z",
-      "accessTime": "2019-05-28T15:15:25.735Z",
-      "changeTime": "2019-05-28T15:00:32.290Z",
-      "birthTime": "2019-05-28T14:30:10.723Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates",
-      "base": "blog-post.js",
-      "ext": ".js",
-      "name": "blog-post",
-      "relativeDirectory": "templates",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4961590,
-      "blocks": 8,
-      "atimeMs": 1559056525735.0425,
-      "mtimeMs": 1559055632290.0828,
-      "ctimeMs": 1559055632290.0828,
-      "birthtimeMs": 1559053810723.2896,
-      "atime": "2019-05-28T15:15:25.735Z",
-      "mtime": "2019-05-28T15:00:32.290Z",
-      "ctime": "2019-05-28T15:00:32.290Z",
-      "birthtime": "2019-05-28T14:30:10.723Z"
     },
     "51c23213-2a8a-5f0b-8eae-df39f71f6e1c": {
       "id": "51c23213-2a8a-5f0b-8eae-df39f71f6e1c",
@@ -2176,7 +2087,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "1558c0b645c2254482e0c10be84c0d7b",
+        "contentDigest": "ab86e1831a3c5daa8a0fe2b120219940",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.en.js\"",
@@ -2189,11 +2100,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.en.js",
       "relativePath": "pages/index.en.js",
       "extension": "js",
-      "size": 4322,
-      "prettySize": "4.32 kB",
-      "modifiedTime": "2019-05-27T16:42:52.009Z",
-      "accessTime": "2019-05-28T15:07:18.257Z",
-      "changeTime": "2019-05-27T16:42:52.009Z",
+      "size": 4379,
+      "prettySize": "4.38 kB",
+      "modifiedTime": "2019-05-29T13:54:58.026Z",
+      "accessTime": "2019-05-29T13:54:53.433Z",
+      "changeTime": "2019-05-29T13:54:58.026Z",
       "birthTime": "2019-05-27T16:42:52.008Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
@@ -2210,13 +2121,13 @@
       "blksize": 4096,
       "ino": 4890082,
       "blocks": 16,
-      "atimeMs": 1559056038257.4739,
-      "mtimeMs": 1558975372008.6514,
-      "ctimeMs": 1558975372008.6514,
+      "atimeMs": 1559138093432.5999,
+      "mtimeMs": 1559138098025.6074,
+      "ctimeMs": 1559138098025.6074,
       "birthtimeMs": 1558975372007.9724,
-      "atime": "2019-05-28T15:07:18.257Z",
-      "mtime": "2019-05-27T16:42:52.009Z",
-      "ctime": "2019-05-27T16:42:52.009Z",
+      "atime": "2019-05-29T13:54:53.433Z",
+      "mtime": "2019-05-29T13:54:58.026Z",
+      "ctime": "2019-05-29T13:54:58.026Z",
       "birthtime": "2019-05-27T16:42:52.008Z",
       "fields": {
         "slug": "/en/"
@@ -2227,7 +2138,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "dd6c654462f5d1563e68e759a6484062",
+        "contentDigest": "cb56f5b352931b964da80494cb57b381",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/pages/index.zh.js\"",
@@ -2240,12 +2151,12 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js",
       "relativePath": "pages/index.zh.js",
       "extension": "js",
-      "size": 4442,
-      "prettySize": "4.44 kB",
-      "modifiedTime": "2019-05-28T15:05:55.588Z",
-      "accessTime": "2019-05-28T15:15:25.735Z",
-      "changeTime": "2019-05-28T15:05:55.588Z",
-      "birthTime": "2019-05-27T16:42:52.010Z",
+      "size": 4517,
+      "prettySize": "4.52 kB",
+      "modifiedTime": "2019-05-29T13:49:33.375Z",
+      "accessTime": "2019-05-29T13:49:33.797Z",
+      "changeTime": "2019-05-29T13:49:33.375Z",
+      "birthTime": "2019-05-29T12:28:34.954Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
       "base": "index.zh.js",
@@ -2259,16 +2170,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
-      "ino": 4890083,
+      "ino": 5048911,
       "blocks": 16,
-      "atimeMs": 1559056525734.7153,
-      "mtimeMs": 1559055955587.75,
-      "ctimeMs": 1559055955587.75,
-      "birthtimeMs": 1558975372009.6497,
-      "atime": "2019-05-28T15:15:25.735Z",
-      "mtime": "2019-05-28T15:05:55.588Z",
-      "ctime": "2019-05-28T15:05:55.588Z",
-      "birthtime": "2019-05-27T16:42:52.010Z",
+      "atimeMs": 1559137773796.9792,
+      "mtimeMs": 1559137773375.212,
+      "ctimeMs": 1559137773375.212,
+      "birthtimeMs": 1559132914953.8582,
+      "atime": "2019-05-29T13:49:33.797Z",
+      "mtime": "2019-05-29T13:49:33.375Z",
+      "ctime": "2019-05-29T13:49:33.375Z",
+      "birthtime": "2019-05-29T12:28:34.954Z",
       "fields": {
         "slug": "/"
       }
@@ -2876,271 +2787,6 @@
       "ctime": "2019-05-22T08:41:46.811Z",
       "birthtime": "2019-05-22T08:39:07.482Z"
     },
-    "07d7138e-0905-5f1e-96ac-c4011808c60d": {
-      "id": "07d7138e-0905-5f1e-96ac-c4011808c60d",
-      "children": [
-        "619e84e8-bef3-53fa-80aa-2a42c30fb5c5"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "7383033b91c515026cbfec53e1373ab3",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-1zh.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1zh.md",
-      "relativePath": "pages/news/test-1zh.md",
-      "extension": "md",
-      "size": 371,
-      "prettySize": "371 B",
-      "modifiedTime": "2019-05-28T19:31:39.295Z",
-      "accessTime": "2019-05-28T19:31:39.382Z",
-      "changeTime": "2019-05-28T19:31:39.295Z",
-      "birthTime": "2019-05-27T16:42:52.015Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-1zh.md",
-      "ext": ".md",
-      "name": "test-1zh",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4890086,
-      "blocks": 8,
-      "atimeMs": 1559071899382.2786,
-      "mtimeMs": 1559071899294.802,
-      "ctimeMs": 1559071899294.802,
-      "birthtimeMs": 1558975372015.213,
-      "atime": "2019-05-28T19:31:39.382Z",
-      "mtime": "2019-05-28T19:31:39.295Z",
-      "ctime": "2019-05-28T19:31:39.295Z",
-      "birthtime": "2019-05-27T16:42:52.015Z",
-      "fields": {
-        "slug": "/news/test-1zh/"
-      }
-    },
-    "88f4d12c-5cd4-55fe-b9a7-01a9e119961c": {
-      "id": "88f4d12c-5cd4-55fe-b9a7-01a9e119961c",
-      "children": [
-        "f8f2ac0b-650b-5fdc-9742-a3c92b5258af"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "ff1895d6e4903fbfe1a5c27b836d55a6",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-1.en.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1.en.md",
-      "relativePath": "pages/news/test-1.en.md",
-      "extension": "md",
-      "size": 399,
-      "prettySize": "399 B",
-      "modifiedTime": "2019-05-28T19:31:24.998Z",
-      "accessTime": "2019-05-28T19:31:08.122Z",
-      "changeTime": "2019-05-28T19:31:24.998Z",
-      "birthTime": "2019-05-27T16:42:52.016Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-1.en.md",
-      "ext": ".md",
-      "name": "test-1.en",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4890087,
-      "blocks": 8,
-      "atimeMs": 1559071868122.4475,
-      "mtimeMs": 1559071884998.2026,
-      "ctimeMs": 1559071884998.2026,
-      "birthtimeMs": 1558975372015.9785,
-      "atime": "2019-05-28T19:31:08.122Z",
-      "mtime": "2019-05-28T19:31:24.998Z",
-      "ctime": "2019-05-28T19:31:24.998Z",
-      "birthtime": "2019-05-27T16:42:52.016Z",
-      "fields": {
-        "slug": "/en/news/test-1/"
-      }
-    },
-    "b43c31a6-ffc3-55e8-8caa-44f86c5ce924": {
-      "id": "b43c31a6-ffc3-55e8-8caa-44f86c5ce924",
-      "children": [
-        "f8db0892-2465-5f38-95ca-9a45fa671f9c"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "ecb56dd4e8e4dadb74a6123399183efb",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-2zh.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2zh.md",
-      "relativePath": "pages/news/test-2zh.md",
-      "extension": "md",
-      "size": 371,
-      "prettySize": "371 B",
-      "modifiedTime": "2019-05-28T19:32:24.946Z",
-      "accessTime": "2019-05-28T19:31:49.244Z",
-      "changeTime": "2019-05-28T19:32:24.946Z",
-      "birthTime": "2019-05-27T16:42:52.018Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-2zh.md",
-      "ext": ".md",
-      "name": "test-2zh",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4890092,
-      "blocks": 8,
-      "atimeMs": 1559071909243.508,
-      "mtimeMs": 1559071944946.3467,
-      "ctimeMs": 1559071944946.3467,
-      "birthtimeMs": 1558975372017.8594,
-      "atime": "2019-05-28T19:31:49.244Z",
-      "mtime": "2019-05-28T19:32:24.946Z",
-      "ctime": "2019-05-28T19:32:24.946Z",
-      "birthtime": "2019-05-27T16:42:52.018Z",
-      "fields": {
-        "slug": "/news/test-2zh/"
-      }
-    },
-    "4c161a11-d229-5ce8-b6ab-0d746af1f97d": {
-      "id": "4c161a11-d229-5ce8-b6ab-0d746af1f97d",
-      "children": [
-        "84ed18e2-b925-59f8-bf8c-a45c5f1da9da"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "e297f348a74da093c49cc4405591ae8f",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-3zh.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3zh.md",
-      "relativePath": "pages/news/test-3zh.md",
-      "extension": "md",
-      "size": 368,
-      "prettySize": "368 B",
-      "modifiedTime": "2019-05-28T19:32:33.541Z",
-      "accessTime": "2019-05-28T19:32:30.526Z",
-      "changeTime": "2019-05-28T19:32:33.541Z",
-      "birthTime": "2019-05-27T16:42:52.016Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-3zh.md",
-      "ext": ".md",
-      "name": "test-3zh",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4890088,
-      "blocks": 8,
-      "atimeMs": 1559071950526.046,
-      "mtimeMs": 1559071953541.2725,
-      "ctimeMs": 1559071953541.2725,
-      "birthtimeMs": 1558975372016.3035,
-      "atime": "2019-05-28T19:32:30.526Z",
-      "mtime": "2019-05-28T19:32:33.541Z",
-      "ctime": "2019-05-28T19:32:33.541Z",
-      "birthtime": "2019-05-27T16:42:52.016Z",
-      "fields": {
-        "slug": "/news/test-3zh/"
-      }
-    },
-    "5d23c805-f78f-5687-acf6-109f5a970c3a": {
-      "id": "5d23c805-f78f-5687-acf6-109f5a970c3a",
-      "children": [
-        "94278ec5-0314-5a54-88a4-0867bea375a9"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "795c3cbc70d17b08f4955df177915cd4",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-4zh.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4zh.md",
-      "relativePath": "pages/news/test-4zh.md",
-      "extension": "md",
-      "size": 371,
-      "prettySize": "371 B",
-      "modifiedTime": "2019-05-28T19:32:40.731Z",
-      "accessTime": "2019-05-28T19:32:38.157Z",
-      "changeTime": "2019-05-28T19:32:40.731Z",
-      "birthTime": "2019-05-27T16:42:52.017Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-4zh.md",
-      "ext": ".md",
-      "name": "test-4zh",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4890090,
-      "blocks": 8,
-      "atimeMs": 1559071958156.7075,
-      "mtimeMs": 1559071960731.1355,
-      "ctimeMs": 1559071960731.1355,
-      "birthtimeMs": 1558975372017.0784,
-      "atime": "2019-05-28T19:32:38.157Z",
-      "mtime": "2019-05-28T19:32:40.731Z",
-      "ctime": "2019-05-28T19:32:40.731Z",
-      "birthtime": "2019-05-27T16:42:52.017Z",
-      "fields": {
-        "slug": "/news/test-4zh/"
-      }
-    },
     "9fef6002-b7dc-5e2b-b23c-248edf174020": {
       "id": "9fef6002-b7dc-5e2b-b23c-248edf174020",
       "children": [],
@@ -3366,173 +3012,156 @@
       "ctime": "2019-05-09T12:08:47.070Z",
       "birthtime": "2019-05-09T12:08:46.799Z"
     },
-    "ae33e490-75d5-5f25-b3f3-1ce101e4319d": {
-      "id": "ae33e490-75d5-5f25-b3f3-1ce101e4319d",
-      "children": [
-        "3223ee29-cf07-527f-bf9c-425b62d8299b"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "7b84d4b99c66583ae755af6e8d4fa71b",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-2.en.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2.en.md",
-      "relativePath": "pages/news/test-2.en.md",
-      "extension": "md",
-      "size": 386,
-      "prettySize": "386 B",
-      "modifiedTime": "2019-05-28T19:32:13.877Z",
-      "accessTime": "2019-05-28T19:32:13.969Z",
-      "changeTime": "2019-05-28T19:32:13.877Z",
-      "birthTime": "2019-05-27T16:42:52.018Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-2.en.md",
-      "ext": ".md",
-      "name": "test-2.en",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4890093,
-      "blocks": 8,
-      "atimeMs": 1559071933968.5662,
-      "mtimeMs": 1559071933876.9666,
-      "ctimeMs": 1559071933876.9666,
-      "birthtimeMs": 1558975372018.409,
-      "atime": "2019-05-28T19:32:13.969Z",
-      "mtime": "2019-05-28T19:32:13.877Z",
-      "ctime": "2019-05-28T19:32:13.877Z",
-      "birthtime": "2019-05-27T16:42:52.018Z",
-      "fields": {
-        "slug": "/en/news/test-2/"
-      }
-    },
-    "1a28e704-49c5-5b16-b782-a7644a79f7c0": {
-      "id": "1a28e704-49c5-5b16-b782-a7644a79f7c0",
-      "children": [
-        "c058c0fe-67c6-5e35-a368-0b35fae3f05b"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "7452bfcd3e03395a21fc33d8ec713217",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-3.en.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.en.md",
-      "relativePath": "pages/news/test-3.en.md",
-      "extension": "md",
-      "size": 391,
-      "prettySize": "391 B",
-      "modifiedTime": "2019-05-28T19:32:29.743Z",
-      "accessTime": "2019-05-28T19:32:26.215Z",
-      "changeTime": "2019-05-28T19:32:29.743Z",
-      "birthTime": "2019-05-27T16:42:52.017Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-3.en.md",
-      "ext": ".md",
-      "name": "test-3.en",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4890089,
-      "blocks": 8,
-      "atimeMs": 1559071946215.256,
-      "mtimeMs": 1559071949742.6753,
-      "ctimeMs": 1559071949742.6753,
-      "birthtimeMs": 1558975372016.7336,
-      "atime": "2019-05-28T19:32:26.215Z",
-      "mtime": "2019-05-28T19:32:29.743Z",
-      "ctime": "2019-05-28T19:32:29.743Z",
-      "birthtime": "2019-05-27T16:42:52.017Z",
-      "fields": {
-        "slug": "/en/news/test-3/"
-      }
-    },
-    "438db207-ed29-53c4-a24e-7df7dbaa17cf": {
-      "id": "438db207-ed29-53c4-a24e-7df7dbaa17cf",
-      "children": [
-        "e89d9440-e758-5ada-979e-7dcdaa1d2b0c"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "f73af2ab2d3bd43f63ac236c3410220b",
-        "type": "File",
-        "mediaType": "text/markdown",
-        "description": "File \"src/pages/news/test-4.en.md\"",
-        "owner": "gatsby-source-filesystem",
-        "fieldOwners": {
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "sourceInstanceName": "src",
-      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4.en.md",
-      "relativePath": "pages/news/test-4.en.md",
-      "extension": "md",
-      "size": 365,
-      "prettySize": "365 B",
-      "modifiedTime": "2019-05-28T19:32:37.501Z",
-      "accessTime": "2019-05-28T19:32:34.225Z",
-      "changeTime": "2019-05-28T19:32:37.501Z",
-      "birthTime": "2019-05-27T16:42:52.017Z",
-      "root": "/",
-      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
-      "base": "test-4.en.md",
-      "ext": ".md",
-      "name": "test-4.en",
-      "relativeDirectory": "pages/news",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4096,
-      "ino": 4890091,
-      "blocks": 8,
-      "atimeMs": 1559071954224.5955,
-      "mtimeMs": 1559071957501.024,
-      "ctimeMs": 1559071957501.024,
-      "birthtimeMs": 1558975372017.4048,
-      "atime": "2019-05-28T19:32:34.225Z",
-      "mtime": "2019-05-28T19:32:37.501Z",
-      "ctime": "2019-05-28T19:32:37.501Z",
-      "birthtime": "2019-05-27T16:42:52.017Z",
-      "fields": {
-        "slug": "/en/news/test-4/"
-      }
-    },
-    "f8f2ac0b-650b-5fdc-9742-a3c92b5258af": {
-      "id": "f8f2ac0b-650b-5fdc-9742-a3c92b5258af",
+    "53146851-a359-561e-a230-18a8e930e4c1": {
+      "id": "53146851-a359-561e-a230-18a8e930e4c1",
       "children": [],
-      "parent": "88f4d12c-5cd4-55fe-b9a7-01a9e119961c",
+      "parent": null,
       "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "contentDigest": "8d408982a83934e64a7fbbc364a87b70",
+        "type": "Directory",
+        "description": "Directory \"src/templates\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates",
+      "relativePath": "templates",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2019-05-29T14:23:05.000Z",
+      "accessTime": "2019-05-29T14:41:16.659Z",
+      "changeTime": "2019-05-29T14:23:05.155Z",
+      "birthTime": "2019-05-29T12:28:34.000Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src",
+      "base": "templates",
+      "ext": "",
+      "name": "templates",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048921,
+      "blocks": 0,
+      "atimeMs": 1559140876659.032,
+      "mtimeMs": 1559139785000,
+      "ctimeMs": 1559139785154.6719,
+      "birthtimeMs": 1559132914000,
+      "atime": "2019-05-29T14:41:16.659Z",
+      "mtime": "2019-05-29T14:23:05.000Z",
+      "ctime": "2019-05-29T14:23:05.155Z",
+      "birthtime": "2019-05-29T12:28:34.000Z"
+    },
+    "8c50ca09-9a07-5c74-bf2a-3e6c158995b1": {
+      "id": "8c50ca09-9a07-5c74-bf2a-3e6c158995b1",
+      "children": [],
+      "parent": null,
+      "internal": {
+        "contentDigest": "c4eaa6c3aa6ff59c930c721f4377147c",
+        "type": "File",
+        "mediaType": "application/javascript",
+        "description": "File \"src/templates/blog-post.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
+      "relativePath": "templates/blog-post.js",
+      "extension": "js",
+      "size": 888,
+      "prettySize": "888 B",
+      "modifiedTime": "2019-05-29T14:22:57.371Z",
+      "accessTime": "2019-05-29T14:22:03.543Z",
+      "changeTime": "2019-05-29T14:22:57.371Z",
+      "birthTime": "2019-05-29T12:28:34.963Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates",
+      "base": "blog-post.js",
+      "ext": ".js",
+      "name": "blog-post",
+      "relativeDirectory": "templates",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048922,
+      "blocks": 8,
+      "atimeMs": 1559139723543.0605,
+      "mtimeMs": 1559139777371.1204,
+      "ctimeMs": 1559139777371.1204,
+      "birthtimeMs": 1559132914963.209,
+      "atime": "2019-05-29T14:22:03.543Z",
+      "mtime": "2019-05-29T14:22:57.371Z",
+      "ctime": "2019-05-29T14:22:57.371Z",
+      "birthtime": "2019-05-29T12:28:34.963Z"
+    },
+    "975765c5-7e40-5284-8afe-a848eeb58a3b": {
+      "id": "975765c5-7e40-5284-8afe-a848eeb58a3b",
+      "children": [
+        "ae86dc09-5577-5fd7-9dff-e639d5c379be"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "a6b3dbda49dc57dd1afe49e7e17cec80",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/公共卫生间之女王.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/公共卫生间之女王.md",
+      "relativePath": "pages/news/公共卫生间之女王.md",
+      "extension": "md",
+      "size": 2602,
+      "prettySize": "2.6 kB",
+      "modifiedTime": "2019-05-29T13:20:45.543Z",
+      "accessTime": "2019-05-29T13:20:55.248Z",
+      "changeTime": "2019-05-29T13:21:10.893Z",
+      "birthTime": "2019-05-29T12:28:34.960Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "公共卫生间之女王.md",
+      "ext": ".md",
+      "name": "公共卫生间之女王",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048918,
+      "blocks": 8,
+      "atimeMs": 1559136055248.2383,
+      "mtimeMs": 1559136045543.4927,
+      "ctimeMs": 1559136070893.47,
+      "birthtimeMs": 1559132914959.918,
+      "atime": "2019-05-29T13:20:55.248Z",
+      "mtime": "2019-05-29T13:20:45.543Z",
+      "ctime": "2019-05-29T13:21:10.893Z",
+      "birthtime": "2019-05-29T12:28:34.960Z",
+      "fields": {
+        "slug": "/news/公共卫生间之女王/"
+      }
+    },
+    "ae86dc09-5577-5fd7-9dff-e639d5c379be": {
+      "id": "ae86dc09-5577-5fd7-9dff-e639d5c379be",
+      "children": [],
+      "parent": "975765c5-7e40-5284-8afe-a848eeb58a3b",
+      "internal": {
+        "content": "\n“三八“妇女节鼓舞人心的氛围还在世界各地传播着，WeCare WC也积极参与，给公众带来了公共卫生间中的”女王“–新天地广场女性尊享卫生间。\n<br>\n<br>\nWeCare WC首个女性尊享公共卫生间，是这个社会对女性权利尊重认可的象征。这一设计的灵感来自于母亲、女儿、祖母、CEO、医生、领导人和其他各行各业的女性，她们是让这个世界变得更加美好的动力与关键所在。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134767/XTD%20Plaza/XTD-Plaza-Lounge.jpg)\n\n整个空间被分成卫生间区域与社交休息区域，整合了女性的需求，与众不同。\n<br>\n<br>\n卫生间区域，每一个使用者都会享受到皇家般的对待。她们会进入一个从顶到地完全满足私密性的卫生间隔间，隔间内有挂墙吉博力马桶，墙面上还贴满了正能量的话语。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134934/XTD%20Plaza/XTD-Plaza-Toilets.jpg)\n\n使用者们可以在光滑无缝的杜邦可丽耐洗手台上梳洗打扮，所使用的龙头是丹麦品牌Vola和中国原创高端品牌宜来。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134935/XTD%20Plaza/XTD-Plaza-Restroom.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134934/XTD%20Plaza/XTD-Plaza-Sink2.jpg)\n\n如厕完毕后，使用者就可以步入独一无二的社交休息体验区，满足自己的其他需要。妈妈们可以在母婴室中，在如家般舒适的环境中，照顾自己的宝宝。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Nursing-Room.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134766/XTD%20Plaza/XTD-Plaza-Sink1.jpg)\n\n对于那些准备参加会议或者任何重要约会或派对的女生来说，更衣室可以满足更衣的需要，立刻光鲜亮丽。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Changing-Room.jpg)\n\n最后，我们在休息区专门设计了一个等待区，有着舒适的沙发，泡泡灯化妆镜和放大镜，供女生们补妆闲谈。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Sink.jpg)\n<div class=\"has-text-centered\">\n  <h2>快来淮海中路333号体验一下吧！我们期待震撼您的观感。</h2>\n</div>\n",
         "type": "MarkdownRemark",
-        "contentDigest": "3b1894a25bf06e5255c11b468277364e",
+        "contentDigest": "83aa178ccc24b06ef7c2c42bae77dbc9",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "langKey": "gatsby-plugin-i18n",
@@ -3540,111 +3169,80 @@
         }
       },
       "frontmatter": {
-        "title": "WeCare WC Takes Off in Pudong Airport",
-        "date": "2017-08-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
-        "language": "EN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1.en.md",
-      "fields": {
-        "langKey": "en",
-        "slug": "/en/news/test-1/"
-      }
-    },
-    "619e84e8-bef3-53fa-80aa-2a42c30fb5c5": {
-      "id": "619e84e8-bef3-53fa-80aa-2a42c30fb5c5",
-      "children": [],
-      "parent": "07d7138e-0905-5f1e-96ac-c4011808c60d",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "337bad11bf784ef52698cd7cbd45b85f",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "中国呢",
-        "date": "2017-08-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "title": "公共卫生间之“女王”",
+        "date": "2019-05-10",
+        "photo": "https://res.cloudinary.com/wecare-wc/image/upload/v1559134764/XTD%20Plaza/XTD-Plaza-Entrance.jpg",
         "language": "CN"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1zh.md",
+      "rawMarkdownBody": "\n“三八“妇女节鼓舞人心的氛围还在世界各地传播着，WeCare WC也积极参与，给公众带来了公共卫生间中的”女王“–新天地广场女性尊享卫生间。\n<br>\n<br>\nWeCare WC首个女性尊享公共卫生间，是这个社会对女性权利尊重认可的象征。这一设计的灵感来自于母亲、女儿、祖母、CEO、医生、领导人和其他各行各业的女性，她们是让这个世界变得更加美好的动力与关键所在。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134767/XTD%20Plaza/XTD-Plaza-Lounge.jpg)\n\n整个空间被分成卫生间区域与社交休息区域，整合了女性的需求，与众不同。\n<br>\n<br>\n卫生间区域，每一个使用者都会享受到皇家般的对待。她们会进入一个从顶到地完全满足私密性的卫生间隔间，隔间内有挂墙吉博力马桶，墙面上还贴满了正能量的话语。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134934/XTD%20Plaza/XTD-Plaza-Toilets.jpg)\n\n使用者们可以在光滑无缝的杜邦可丽耐洗手台上梳洗打扮，所使用的龙头是丹麦品牌Vola和中国原创高端品牌宜来。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134935/XTD%20Plaza/XTD-Plaza-Restroom.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134934/XTD%20Plaza/XTD-Plaza-Sink2.jpg)\n\n如厕完毕后，使用者就可以步入独一无二的社交休息体验区，满足自己的其他需要。妈妈们可以在母婴室中，在如家般舒适的环境中，照顾自己的宝宝。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Nursing-Room.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134766/XTD%20Plaza/XTD-Plaza-Sink1.jpg)\n\n对于那些准备参加会议或者任何重要约会或派对的女生来说，更衣室可以满足更衣的需要，立刻光鲜亮丽。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Changing-Room.jpg)\n\n最后，我们在休息区专门设计了一个等待区，有着舒适的沙发，泡泡灯化妆镜和放大镜，供女生们补妆闲谈。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Sink.jpg)\n<div class=\"has-text-centered\">\n  <h2>快来淮海中路333号体验一下吧！我们期待震撼您的观感。</h2>\n</div>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/公共卫生间之女王.md",
       "fields": {
         "langKey": "zh",
-        "slug": "/news/test-1zh/"
+        "slug": "/news/公共卫生间之女王/"
       }
     },
-    "3223ee29-cf07-527f-bf9c-425b62d8299b": {
-      "id": "3223ee29-cf07-527f-bf9c-425b62d8299b",
-      "children": [],
-      "parent": "ae33e490-75d5-5f25-b3f3-1ce101e4319d",
+    "005b2686-61dc-53dc-80cb-e02cad4cb1b3": {
+      "id": "005b2686-61dc-53dc-80cb-e02cad4cb1b3",
+      "children": [
+        "f8ca83e6-1ca1-5c5e-8df3-f798bf1774e4"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "6ced12160b49bf2b36d35eeb630531f3",
-        "owner": "gatsby-transformer-remark",
+        "contentDigest": "602f7a7cec4c240b7485fa322cb42880",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/the-queen-of-public-restrooms-xtd-plaza.en.md\"",
+        "owner": "gatsby-source-filesystem",
         "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
           "slug": "gatsby-plugin-i18n"
         }
       },
-      "frontmatter": {
-        "title": "WeCare WC Goes Portable!",
-        "date": "2019-02-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
-        "language": "EN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2.en.md",
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/the-queen-of-public-restrooms-xtd-plaza.en.md",
+      "relativePath": "pages/news/the-queen-of-public-restrooms-xtd-plaza.en.md",
+      "extension": "md",
+      "size": 2605,
+      "prettySize": "2.6 kB",
+      "modifiedTime": "2019-05-29T13:18:01.044Z",
+      "accessTime": "2019-05-29T13:18:14.378Z",
+      "changeTime": "2019-05-29T13:21:47.715Z",
+      "birthTime": "2019-05-29T12:28:34.959Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "the-queen-of-public-restrooms-xtd-plaza.en.md",
+      "ext": ".md",
+      "name": "the-queen-of-public-restrooms-xtd-plaza.en",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048917,
+      "blocks": 8,
+      "atimeMs": 1559135894378.099,
+      "mtimeMs": 1559135881043.9087,
+      "ctimeMs": 1559136107714.8447,
+      "birthtimeMs": 1559132914958.6953,
+      "atime": "2019-05-29T13:18:14.378Z",
+      "mtime": "2019-05-29T13:18:01.044Z",
+      "ctime": "2019-05-29T13:21:47.715Z",
+      "birthtime": "2019-05-29T12:28:34.959Z",
       "fields": {
-        "langKey": "en",
-        "slug": "/en/news/test-2/"
+        "slug": "/en/news/the-queen-of-public-restrooms-xtd-plaza/"
       }
     },
-    "f8db0892-2465-5f38-95ca-9a45fa671f9c": {
-      "id": "f8db0892-2465-5f38-95ca-9a45fa671f9c",
+    "f8ca83e6-1ca1-5c5e-8df3-f798bf1774e4": {
+      "id": "f8ca83e6-1ca1-5c5e-8df3-f798bf1774e4",
       "children": [],
-      "parent": "b43c31a6-ffc3-55e8-8caa-44f86c5ce924",
+      "parent": "005b2686-61dc-53dc-80cb-e02cad4cb1b3",
       "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "content": "\nWith the inspirational effects of Women’s Day still pulsing around the globe, WeCare WC is here to follow it up by inaugurating its “Queen of Public Restrooms” at the brand new Xintiandi Plaza.\n<br>\n<br>\nIntroducing WeCare WC’s first Premium Ladies Room; a true symbol of women empowerment, inspired by all of the mothers, daughters, grandmothers, CEOs, doctors, leaders, and other women that are pivotal in making the world a better place.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134767/XTD%20Plaza/XTD-Plaza-Lounge.jpg)\n\nThe room, divided into a restroom area and social lounge, embodies all of the features to make any lady’s day exceptional.\n<br>\n<br>\nOn the restroom side, each woman is treated like royalty as she enters a floor to ceiling stall featuring wall-hung Geberit toilets and plenty of positive and encouraging quotes.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134934/XTD%20Plaza/XTD-Plaza-Toilets.jpg)\n\nVisitors can then wash up in style over a sleek Dupont Corian washing basin with water taps mastered by Danish brand Vola and premium Chinese brand ELLAI.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134935/XTD%20Plaza/XTD-Plaza-Restroom.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134934/XTD%20Plaza/XTD-Plaza-Sink2.jpg)\n\nAfter freshening up, the one-of-a-kind experience extends to the social lounge, where visitors can tend to other needs or just get some much-deserved relaxation time in. Mothers have the option of entering the nursing room and taking care of their baby in utmost comfort.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Nursing-Room.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134766/XTD%20Plaza/XTD-Plaza-Sink1.jpg)\n\nFor women getting ready for meetings or for a special night out, the changing room is ready to make you look great.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Changing-Room.jpg)\n\nAnd last but not least, the lounge area is purposefully designed with a cozy waiting couch, make-up mirrors with bubble lights, and magnifying mirrors.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Sink.jpg)\n<div class=\"has-text-centered\">\n  <h2>Come and visit us at Huaihai Middle Road No. 333, we look forward to WOWing you soon.</h2>\n</div>\n\n\n",
         "type": "MarkdownRemark",
-        "contentDigest": "6b64f566472883fadf68240dfb9c5770",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "中国呢",
-        "date": "2019-02-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
-        "language": "CN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2zh.md",
-      "fields": {
-        "langKey": "zh",
-        "slug": "/news/test-2zh/"
-      }
-    },
-    "c058c0fe-67c6-5e35-a368-0b35fae3f05b": {
-      "id": "c058c0fe-67c6-5e35-a368-0b35fae3f05b",
-      "children": [],
-      "parent": "1a28e704-49c5-5b16-b782-a7644a79f7c0",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "0e3c86c63e07a957c5eee0ef9c61f75f",
+        "contentDigest": "99a20a71b7fcccc6447721fb13e1c645",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "langKey": "gatsby-plugin-i18n",
@@ -3654,25 +3252,78 @@
       "frontmatter": {
         "title": "The Queen of Public Restrooms",
         "date": "2019-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "photo": "https://res.cloudinary.com/wecare-wc/image/upload/v1559134764/XTD%20Plaza/XTD-Plaza-Entrance.jpg",
         "language": "EN"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.en.md",
+      "rawMarkdownBody": "\nWith the inspirational effects of Women’s Day still pulsing around the globe, WeCare WC is here to follow it up by inaugurating its “Queen of Public Restrooms” at the brand new Xintiandi Plaza.\n<br>\n<br>\nIntroducing WeCare WC’s first Premium Ladies Room; a true symbol of women empowerment, inspired by all of the mothers, daughters, grandmothers, CEOs, doctors, leaders, and other women that are pivotal in making the world a better place.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134767/XTD%20Plaza/XTD-Plaza-Lounge.jpg)\n\nThe room, divided into a restroom area and social lounge, embodies all of the features to make any lady’s day exceptional.\n<br>\n<br>\nOn the restroom side, each woman is treated like royalty as she enters a floor to ceiling stall featuring wall-hung Geberit toilets and plenty of positive and encouraging quotes.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134934/XTD%20Plaza/XTD-Plaza-Toilets.jpg)\n\nVisitors can then wash up in style over a sleek Dupont Corian washing basin with water taps mastered by Danish brand Vola and premium Chinese brand ELLAI.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134935/XTD%20Plaza/XTD-Plaza-Restroom.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134934/XTD%20Plaza/XTD-Plaza-Sink2.jpg)\n\nAfter freshening up, the one-of-a-kind experience extends to the social lounge, where visitors can tend to other needs or just get some much-deserved relaxation time in. Mothers have the option of entering the nursing room and taking care of their baby in utmost comfort.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Nursing-Room.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134766/XTD%20Plaza/XTD-Plaza-Sink1.jpg)\n\nFor women getting ready for meetings or for a special night out, the changing room is ready to make you look great.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Changing-Room.jpg)\n\nAnd last but not least, the lounge area is purposefully designed with a cozy waiting couch, make-up mirrors with bubble lights, and magnifying mirrors.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559134765/XTD%20Plaza/XTD-Plaza-Sink.jpg)\n<div class=\"has-text-centered\">\n  <h2>Come and visit us at Huaihai Middle Road No. 333, we look forward to WOWing you soon.</h2>\n</div>\n\n\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/the-queen-of-public-restrooms-xtd-plaza.en.md",
       "fields": {
         "langKey": "en",
-        "slug": "/en/news/test-3/"
+        "slug": "/en/news/the-queen-of-public-restrooms-xtd-plaza/"
       }
     },
-    "84ed18e2-b925-59f8-bf8c-a45c5f1da9da": {
-      "id": "84ed18e2-b925-59f8-bf8c-a45c5f1da9da",
-      "children": [],
-      "parent": "4c161a11-d229-5ce8-b6ab-0d746af1f97d",
+    "e1d70ce6-3ec0-5c33-a9cf-482699698662": {
+      "id": "e1d70ce6-3ec0-5c33-a9cf-482699698662",
+      "children": [
+        "05b960a4-d7ef-53a5-ae8e-1d3a8684d4ad"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "contentDigest": "e27c92f38de119b6b1888f0b5dae08b1",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/wecare-wc-goes-portable.en.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/wecare-wc-goes-portable.en.md",
+      "relativePath": "pages/news/wecare-wc-goes-portable.en.md",
+      "extension": "md",
+      "size": 2526,
+      "prettySize": "2.53 kB",
+      "modifiedTime": "2019-05-29T13:54:29.546Z",
+      "accessTime": "2019-05-29T13:54:43.446Z",
+      "changeTime": "2019-05-29T13:56:10.252Z",
+      "birthTime": "2019-05-29T12:28:34.957Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "wecare-wc-goes-portable.en.md",
+      "ext": ".md",
+      "name": "wecare-wc-goes-portable.en",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048915,
+      "blocks": 8,
+      "atimeMs": 1559138083445.9146,
+      "mtimeMs": 1559138069545.9666,
+      "ctimeMs": 1559138170252.175,
+      "birthtimeMs": 1559132914957.268,
+      "atime": "2019-05-29T13:54:43.446Z",
+      "mtime": "2019-05-29T13:54:29.546Z",
+      "ctime": "2019-05-29T13:56:10.252Z",
+      "birthtime": "2019-05-29T12:28:34.957Z",
+      "fields": {
+        "slug": "/en/news/wecare-wc-goes-portable/"
+      }
+    },
+    "05b960a4-d7ef-53a5-ae8e-1d3a8684d4ad": {
+      "id": "05b960a4-d7ef-53a5-ae8e-1d3a8684d4ad",
+      "children": [],
+      "parent": "e1d70ce6-3ec0-5c33-a9cf-482699698662",
+      "internal": {
+        "content": "\nImagine a city where futuristic, spotless, and ample public restrooms dot the sidewalks. Nobody has to frantically search for a place to do their business or pay a shop some money to use its mediocre restroom, because most corners have a top-notch public restroom ready for use. The population’s basic need and right of using the restroom is 100% fulfilled…\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136526/wecarewc%20portable/wecarewc-portable-sink.jpg)\n\nn many places, this may sound like a far away dream, but WeCare WC’s latest project is quickly turning this into a not-so-far-off reality. Introducing WeCare WC’s very first portable container model.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/190122_WeCare_xCube_131_iwmixe.jpg)\n\nCrafted out of the shell of an empty shipping container, this public restroom puts an ingenious spin on portable restroom solutions while still brandishing all of WeCare WC’s usual sleek and intuitive design elements. Alongside its gorgeous aesthetics, this container model brings with it notable other benefits; including flexibility of use and scalability. Whether a sold-out concert venue needs a temporary solution or a gas station needs a quick and more permanent option, WeCare WC’s container model fills plenty of gaps in the market as it can be placed seamlessly in many different scenarios. Because of the streamlined design and materials to make the container models, the restroom can also be quickly re-produced and used in a multitude of locations; cutting the resources and time needed to produce top-quality restrooms.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/wecarewc-portable-toilet.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/wecarewc-portable-shower.jpg)\n\nThis is a defining moment for WeCare WC and with the introduction of this model, its ability to scale up and become the face of global public restroom and facility transformation is more than achievable. The days of struggling to find a place to use the restroom are nearly over thanks to WeCare WC and its constant innovation.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136512/wecarewc%20portable/190122_WeCare_xCube_190_l5eflh.jpg)\n\n",
         "type": "MarkdownRemark",
-        "contentDigest": "33f181292bcbe5e94bfaf19c75dd6b33",
+        "contentDigest": "4ca4a834a802559c39b62b2d37d8dade",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "langKey": "gatsby-plugin-i18n",
@@ -3680,27 +3331,161 @@
         }
       },
       "frontmatter": {
-        "title": "中文",
-        "date": "2019-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "title": "WeCare WC Goes Portable!",
+        "date": "2019-02-25",
+        "photo": "https://res.cloudinary.com/wecare-wc/image/upload/v1559138015/wecarewc%20portable/wecarewc-portable-teaser-2.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nImagine a city where futuristic, spotless, and ample public restrooms dot the sidewalks. Nobody has to frantically search for a place to do their business or pay a shop some money to use its mediocre restroom, because most corners have a top-notch public restroom ready for use. The population’s basic need and right of using the restroom is 100% fulfilled…\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136526/wecarewc%20portable/wecarewc-portable-sink.jpg)\n\nn many places, this may sound like a far away dream, but WeCare WC’s latest project is quickly turning this into a not-so-far-off reality. Introducing WeCare WC’s very first portable container model.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/190122_WeCare_xCube_131_iwmixe.jpg)\n\nCrafted out of the shell of an empty shipping container, this public restroom puts an ingenious spin on portable restroom solutions while still brandishing all of WeCare WC’s usual sleek and intuitive design elements. Alongside its gorgeous aesthetics, this container model brings with it notable other benefits; including flexibility of use and scalability. Whether a sold-out concert venue needs a temporary solution or a gas station needs a quick and more permanent option, WeCare WC’s container model fills plenty of gaps in the market as it can be placed seamlessly in many different scenarios. Because of the streamlined design and materials to make the container models, the restroom can also be quickly re-produced and used in a multitude of locations; cutting the resources and time needed to produce top-quality restrooms.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/wecarewc-portable-toilet.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/wecarewc-portable-shower.jpg)\n\nThis is a defining moment for WeCare WC and with the introduction of this model, its ability to scale up and become the face of global public restroom and facility transformation is more than achievable. The days of struggling to find a place to use the restroom are nearly over thanks to WeCare WC and its constant innovation.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136512/wecarewc%20portable/190122_WeCare_xCube_190_l5eflh.jpg)\n\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/wecare-wc-goes-portable.en.md",
+      "fields": {
+        "langKey": "en",
+        "slug": "/en/news/wecare-wc-goes-portable/"
+      }
+    },
+    "71b1afc9-b8f7-53c5-8020-ca3486782712": {
+      "id": "71b1afc9-b8f7-53c5-8020-ca3486782712",
+      "children": [
+        "be51a239-8c23-58b1-a9ff-3f0abf1b113c"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "8bb6089c42168dd88336215cdbeea655",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/wecare-wc移动卫生间解决方案.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/wecare-wc移动卫生间解决方案.md",
+      "relativePath": "pages/news/wecare-wc移动卫生间解决方案.md",
+      "extension": "md",
+      "size": 2476,
+      "prettySize": "2.48 kB",
+      "modifiedTime": "2019-05-29T13:56:31.711Z",
+      "accessTime": "2019-05-29T13:56:33.062Z",
+      "changeTime": "2019-05-29T13:56:33.098Z",
+      "birthTime": "2019-05-29T12:28:34.958Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "wecare-wc移动卫生间解决方案.md",
+      "ext": ".md",
+      "name": "wecare-wc移动卫生间解决方案",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048916,
+      "blocks": 8,
+      "atimeMs": 1559138193062.0906,
+      "mtimeMs": 1559138191711.0674,
+      "ctimeMs": 1559138193098.4648,
+      "birthtimeMs": 1559132914957.943,
+      "atime": "2019-05-29T13:56:33.062Z",
+      "mtime": "2019-05-29T13:56:31.711Z",
+      "ctime": "2019-05-29T13:56:33.098Z",
+      "birthtime": "2019-05-29T12:28:34.958Z",
+      "fields": {
+        "slug": "/news/wecare-wc移动卫生间解决方案/"
+      }
+    },
+    "be51a239-8c23-58b1-a9ff-3f0abf1b113c": {
+      "id": "be51a239-8c23-58b1-a9ff-3f0abf1b113c",
+      "children": [],
+      "parent": "71b1afc9-b8f7-53c5-8020-ca3486782712",
+      "internal": {
+        "content": "\n想象一下，一个充满时代感、一尘不染、宽敞的公共厕所点缀在人行道上的城市。再也没有人需要疯狂的在街边找一个地方解手，或者不得不去小商店买点东西，以使用它非常一般的厕所，因为几乎城市的所有角落都有一个一流的公共卫生间供人们使用。人们的最基本的需求和使用公共卫生间的权利得到了100%的满足。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136526/wecarewc%20portable/wecarewc-portable-sink.jpg)\n\n在许多地方，这听起来像是一个遥远的梦，但WeCare WC最新的项目正在迅速将其转变为一个不远的事实。向大家介绍WeCare WC的第一个模块式可移动卫生间模型。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/190122_WeCare_xCube_131_iwmixe.jpg)\n\n这个公共卫生间是在一个空集装箱的外壳内完成的，它巧妙地结合了模块式卫生间解决方案，同时还展示了所有WeCare WC经典、直观的设计元素。除了华丽的美学，这个可移动卫生间模型还有着其他的显著的优点，包括使用的灵活性和可拓展性。无论一个座无虚席的演唱会场地所需要的临时解决方案，还是一个加油站所需要的快速而更持久的选择，WeCare WC的集装箱模型填补了市场上许多的空白，因为它可以无缝地放置在许多不同的场景中。由于采用了流线型的设计和材料，可移动卫生间也可以快速地重复生产并在不同的场景投入使用；减少了生产顶级卫生间所需的资源和时间。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/wecarewc-portable-toilet.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/wecarewc-portable-shower.jpg)\n\n这是WeCare WC的一个重要时刻，随着该模型的引入，迅速的规模扩大并成为全球公共卫生间和配套设施改造先驱的面孔将越来越清晰。由于WeCare WC不断的创新，那种挣扎着找寻卫生间的日子很快将不复存在。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136512/wecarewc%20portable/190122_WeCare_xCube_190_l5eflh.jpg)\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "42ef325b2f0f681313ff61d19510c25e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "WeCare WC移动卫生间解决方案",
+        "date": "2019-02-25",
+        "photo": "https://res.cloudinary.com/wecare-wc/image/upload/v1559138015/wecarewc%20portable/wecarewc-portable-teaser-2.jpg",
         "language": "CN"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3zh.md",
+      "rawMarkdownBody": "\n想象一下，一个充满时代感、一尘不染、宽敞的公共厕所点缀在人行道上的城市。再也没有人需要疯狂的在街边找一个地方解手，或者不得不去小商店买点东西，以使用它非常一般的厕所，因为几乎城市的所有角落都有一个一流的公共卫生间供人们使用。人们的最基本的需求和使用公共卫生间的权利得到了100%的满足。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136526/wecarewc%20portable/wecarewc-portable-sink.jpg)\n\n在许多地方，这听起来像是一个遥远的梦，但WeCare WC最新的项目正在迅速将其转变为一个不远的事实。向大家介绍WeCare WC的第一个模块式可移动卫生间模型。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/190122_WeCare_xCube_131_iwmixe.jpg)\n\n这个公共卫生间是在一个空集装箱的外壳内完成的，它巧妙地结合了模块式卫生间解决方案，同时还展示了所有WeCare WC经典、直观的设计元素。除了华丽的美学，这个可移动卫生间模型还有着其他的显著的优点，包括使用的灵活性和可拓展性。无论一个座无虚席的演唱会场地所需要的临时解决方案，还是一个加油站所需要的快速而更持久的选择，WeCare WC的集装箱模型填补了市场上许多的空白，因为它可以无缝地放置在许多不同的场景中。由于采用了流线型的设计和材料，可移动卫生间也可以快速地重复生产并在不同的场景投入使用；减少了生产顶级卫生间所需的资源和时间。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/wecarewc-portable-toilet.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/wecarewc-portable-shower.jpg)\n\n这是WeCare WC的一个重要时刻，随着该模型的引入，迅速的规模扩大并成为全球公共卫生间和配套设施改造先驱的面孔将越来越清晰。由于WeCare WC不断的创新，那种挣扎着找寻卫生间的日子很快将不复存在。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136512/wecarewc%20portable/190122_WeCare_xCube_190_l5eflh.jpg)\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/wecare-wc移动卫生间解决方案.md",
       "fields": {
         "langKey": "zh",
-        "slug": "/news/test-3zh/"
+        "slug": "/news/wecare-wc移动卫生间解决方案/"
       }
     },
-    "e89d9440-e758-5ada-979e-7dcdaa1d2b0c": {
-      "id": "e89d9440-e758-5ada-979e-7dcdaa1d2b0c",
-      "children": [],
-      "parent": "438db207-ed29-53c4-a24e-7df7dbaa17cf",
+    "631e1e8f-9cf3-5282-999a-26e8d2349a9d": {
+      "id": "631e1e8f-9cf3-5282-999a-26e8d2349a9d",
+      "children": [
+        "c8f4b4ae-dea2-56f2-86ef-ccc9200cb6d8"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "contentDigest": "f6e775eb7586e94d458d7904c5e05055",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/喜迎进博会WeCare-WC浦东国际机场项目完成.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/喜迎进博会WeCare-WC浦东国际机场项目完成.md",
+      "relativePath": "pages/news/喜迎进博会WeCare-WC浦东国际机场项目完成.md",
+      "extension": "md",
+      "size": 2985,
+      "prettySize": "2.98 kB",
+      "modifiedTime": "2019-05-29T14:24:28.590Z",
+      "accessTime": "2019-05-29T14:24:50.291Z",
+      "changeTime": "2019-05-29T14:25:17.825Z",
+      "birthTime": "2019-05-29T12:28:34.957Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "喜迎进博会WeCare-WC浦东国际机场项目完成.md",
+      "ext": ".md",
+      "name": "喜迎进博会WeCare-WC浦东国际机场项目完成",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048914,
+      "blocks": 8,
+      "atimeMs": 1559139890291.283,
+      "mtimeMs": 1559139868589.5107,
+      "ctimeMs": 1559139917825.475,
+      "birthtimeMs": 1559132914956.507,
+      "atime": "2019-05-29T14:24:50.291Z",
+      "mtime": "2019-05-29T14:24:28.590Z",
+      "ctime": "2019-05-29T14:25:17.825Z",
+      "birthtime": "2019-05-29T12:28:34.957Z",
+      "fields": {
+        "slug": "/news/喜迎进博会WeCare-WC浦东国际机场项目完成/"
+      }
+    },
+    "c8f4b4ae-dea2-56f2-86ef-ccc9200cb6d8": {
+      "id": "c8f4b4ae-dea2-56f2-86ef-ccc9200cb6d8",
+      "children": [],
+      "parent": "631e1e8f-9cf3-5282-999a-26e8d2349a9d",
+      "internal": {
+        "content": "\nWeCare WC近日在上海浦东国际机场–中国最为忙碌的交通枢纽落成了最新的项目。浦东国际机场每年服务来自全球超过7000万旅客，通过两间家庭卫生间和两间无障碍卫生间的改造，旅客们不管是起飞前还是到达后，都能够享用更舒适更放松的公共卫生空间。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138878/Shanghai%20Pudong%20International%20Airport/entrance-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138872/Shanghai%20Pudong%20International%20Airport/family-room-sink-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138863/Shanghai%20Pudong%20International%20Airport/accessible-room-corian.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138877/Shanghai%20Pudong%20International%20Airport/accessible-room-sink-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138860/Shanghai%20Pudong%20International%20Airport/accessible-room-toilets-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138858/Shanghai%20Pudong%20International%20Airport/accessible-room-overview.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138871/Shanghai%20Pudong%20International%20Airport/family-room-sink-3.jpg)\n\n这一改造解决了旅行中常常遇到的痛点，尤其是那些全家出行的旅客。家庭卫生间内划分为四个区域：哺乳区，有舒适的哺乳椅和临时婴儿床，供妈妈吸奶哺乳；玩耍区，有帐篷、益智玩具、平板电脑和书籍，供儿童游玩和阅读；休息区，有伸缩椅 ，供旅客暂时休息；婴儿护理区，有尿布台、奶粉冲饮机，供爸爸妈妈给宝宝换尿布、冲奶粉等。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-3.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-4.jpg)\n\n“这是WeCare WC历史上一个重要的里程碑，”联合创始人Wendy Krueger说，“通过把项目做到上海最忙碌的机场，我们在一步步靠近自己的使命———给世界各地的人们带来前所未有的公共卫生间体验。这一项目的落地，证实了品牌未来无限的可能性。”\n<br>\n<br>\n诚挚的感谢上海浦东国际机场、宜来卫浴、戴森等品牌的投入与配合，才能使项目按时完美竣工。\n",
         "type": "MarkdownRemark",
-        "contentDigest": "53b28455349f5646f79a0c546cc77e24",
+        "contentDigest": "13704576311c8f67add5a60ce38f853b",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "langKey": "gatsby-plugin-i18n",
@@ -3708,27 +3493,242 @@
         }
       },
       "frontmatter": {
-        "title": "Old",
-        "date": "2014-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "title": "喜迎进博会，WeCare WC浦东国际机场项目完成！",
+        "date": "2018-11-16",
+        "photo": "https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-1.jpg",
+        "language": "CN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nWeCare WC近日在上海浦东国际机场–中国最为忙碌的交通枢纽落成了最新的项目。浦东国际机场每年服务来自全球超过7000万旅客，通过两间家庭卫生间和两间无障碍卫生间的改造，旅客们不管是起飞前还是到达后，都能够享用更舒适更放松的公共卫生空间。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138878/Shanghai%20Pudong%20International%20Airport/entrance-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138872/Shanghai%20Pudong%20International%20Airport/family-room-sink-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138863/Shanghai%20Pudong%20International%20Airport/accessible-room-corian.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138877/Shanghai%20Pudong%20International%20Airport/accessible-room-sink-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138860/Shanghai%20Pudong%20International%20Airport/accessible-room-toilets-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138858/Shanghai%20Pudong%20International%20Airport/accessible-room-overview.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138871/Shanghai%20Pudong%20International%20Airport/family-room-sink-3.jpg)\n\n这一改造解决了旅行中常常遇到的痛点，尤其是那些全家出行的旅客。家庭卫生间内划分为四个区域：哺乳区，有舒适的哺乳椅和临时婴儿床，供妈妈吸奶哺乳；玩耍区，有帐篷、益智玩具、平板电脑和书籍，供儿童游玩和阅读；休息区，有伸缩椅 ，供旅客暂时休息；婴儿护理区，有尿布台、奶粉冲饮机，供爸爸妈妈给宝宝换尿布、冲奶粉等。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-3.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-4.jpg)\n\n“这是WeCare WC历史上一个重要的里程碑，”联合创始人Wendy Krueger说，“通过把项目做到上海最忙碌的机场，我们在一步步靠近自己的使命———给世界各地的人们带来前所未有的公共卫生间体验。这一项目的落地，证实了品牌未来无限的可能性。”\n<br>\n<br>\n诚挚的感谢上海浦东国际机场、宜来卫浴、戴森等品牌的投入与配合，才能使项目按时完美竣工。\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/喜迎进博会WeCare-WC浦东国际机场项目完成.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/喜迎进博会WeCare-WC浦东国际机场项目完成/"
+      }
+    },
+    "5a2413d5-7f83-5556-a73f-20ee0a27a2dd": {
+      "id": "5a2413d5-7f83-5556-a73f-20ee0a27a2dd",
+      "children": [
+        "889dc509-e115-54d9-a24f-7601983d4b28"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "bebd1c805ebcfe7838c83570d5517d7f",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/wecare-wc-takes-off-in-pudong-airport.en.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/wecare-wc-takes-off-in-pudong-airport.en.md",
+      "relativePath": "pages/news/wecare-wc-takes-off-in-pudong-airport.en.md",
+      "extension": "md",
+      "size": 2925,
+      "prettySize": "2.92 kB",
+      "modifiedTime": "2019-05-29T14:22:15.839Z",
+      "accessTime": "2019-05-29T14:22:35.046Z",
+      "changeTime": "2019-05-29T14:25:37.094Z",
+      "birthTime": "2019-05-29T12:28:34.956Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "wecare-wc-takes-off-in-pudong-airport.en.md",
+      "ext": ".md",
+      "name": "wecare-wc-takes-off-in-pudong-airport.en",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048913,
+      "blocks": 8,
+      "atimeMs": 1559139755045.6348,
+      "mtimeMs": 1559139735838.66,
+      "ctimeMs": 1559139937093.5164,
+      "birthtimeMs": 1559132914955.835,
+      "atime": "2019-05-29T14:22:35.046Z",
+      "mtime": "2019-05-29T14:22:15.839Z",
+      "ctime": "2019-05-29T14:25:37.094Z",
+      "birthtime": "2019-05-29T12:28:34.956Z",
+      "fields": {
+        "slug": "/en/news/wecare-wc-takes-off-in-pudong-airport/"
+      }
+    },
+    "889dc509-e115-54d9-a24f-7601983d4b28": {
+      "id": "889dc509-e115-54d9-a24f-7601983d4b28",
+      "children": [],
+      "parent": "5a2413d5-7f83-5556-a73f-20ee0a27a2dd",
+      "internal": {
+        "content": "\nWeCare WC is now open for business in one of China’s busiest transit hubs, Shanghai Pudong International Airport (PVG). The airport serves 70 million passengers annually, and with two new family rooms and two accessible rooms, WeCare WC will make passengers from all over the globe more comfortable and relaxed before or after travel.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138878/Shanghai%20Pudong%20International%20Airport/entrance-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138872/Shanghai%20Pudong%20International%20Airport/family-room-sink-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138863/Shanghai%20Pudong%20International%20Airport/accessible-room-corian.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138877/Shanghai%20Pudong%20International%20Airport/accessible-room-sink-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138860/Shanghai%20Pudong%20International%20Airport/accessible-room-toilets-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138858/Shanghai%20Pudong%20International%20Airport/accessible-room-overview.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138871/Shanghai%20Pudong%20International%20Airport/family-room-sink-3.jpg)\n\nThe facilities are the ideal place to tackle the exhausting pain points of travel; in particular, those faced by traveling families. The family rooms are equipped with a breast feeding area, featuring a comfortable nursing chair; a crib for sleepy babies; a play zone complete with a tent, fun toys, smart pads, and books to keep children occupied; and even a reclinable lounge chair to help rejuvenate weary travelers.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-3.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-4.jpg)\n\n“This is a major achievement in the history of the WeCare WC timeline,” -Co-Founder, Wendy Krueger, expressed, “By entering Shanghai’s busiest airport, we are making strides in fulfilling our mission of bringing exceptional restroom experiences to people all over the globe. In launching this project, it is proof that anything is possible for the brand.”\n<br>\n<br>\nWe sincerely thank PVG, ELLAI, and Dyson for the time commitment in making this change happen!\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "97bc3da02cbc00c902c1e1dd250b9c5b",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "WeCare WC Takes Off in Pudong Airport",
+        "date": "2018-11-06",
+        "photo": "https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-1.jpg",
         "language": "EN"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4.en.md",
+      "rawMarkdownBody": "\nWeCare WC is now open for business in one of China’s busiest transit hubs, Shanghai Pudong International Airport (PVG). The airport serves 70 million passengers annually, and with two new family rooms and two accessible rooms, WeCare WC will make passengers from all over the globe more comfortable and relaxed before or after travel.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138878/Shanghai%20Pudong%20International%20Airport/entrance-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138872/Shanghai%20Pudong%20International%20Airport/family-room-sink-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138863/Shanghai%20Pudong%20International%20Airport/accessible-room-corian.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138877/Shanghai%20Pudong%20International%20Airport/accessible-room-sink-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138860/Shanghai%20Pudong%20International%20Airport/accessible-room-toilets-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138858/Shanghai%20Pudong%20International%20Airport/accessible-room-overview.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138871/Shanghai%20Pudong%20International%20Airport/family-room-sink-3.jpg)\n\nThe facilities are the ideal place to tackle the exhausting pain points of travel; in particular, those faced by traveling families. The family rooms are equipped with a breast feeding area, featuring a comfortable nursing chair; a crib for sleepy babies; a play zone complete with a tent, fun toys, smart pads, and books to keep children occupied; and even a reclinable lounge chair to help rejuvenate weary travelers.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-2.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-3.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559138870/Shanghai%20Pudong%20International%20Airport/family-room-4.jpg)\n\n“This is a major achievement in the history of the WeCare WC timeline,” -Co-Founder, Wendy Krueger, expressed, “By entering Shanghai’s busiest airport, we are making strides in fulfilling our mission of bringing exceptional restroom experiences to people all over the globe. In launching this project, it is proof that anything is possible for the brand.”\n<br>\n<br>\nWe sincerely thank PVG, ELLAI, and Dyson for the time commitment in making this change happen!\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/wecare-wc-takes-off-in-pudong-airport.en.md",
       "fields": {
         "langKey": "en",
-        "slug": "/en/news/test-4/"
+        "slug": "/en/news/wecare-wc-takes-off-in-pudong-airport/"
       }
     },
-    "94278ec5-0314-5a54-88a4-0867bea375a9": {
-      "id": "94278ec5-0314-5a54-88a4-0867bea375a9",
-      "children": [],
-      "parent": "5d23c805-f78f-5687-acf6-109f5a970c3a",
+    "265abaaa-fe86-510c-88fd-05be6acd50f2": {
+      "id": "265abaaa-fe86-510c-88fd-05be6acd50f2",
+      "children": [
+        "8f5b701e-7cf1-52e9-bab5-f96f1fb73946"
+      ],
+      "parent": null,
       "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "contentDigest": "d8f314922cfddcb14fd8e39c0fadf2a7",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/WeCare-WC-Lands-in-Peoples-Square.en.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/WeCare-WC-Lands-in-Peoples-Square.en.md",
+      "relativePath": "pages/news/WeCare-WC-Lands-in-Peoples-Square.en.md",
+      "extension": "md",
+      "size": 1816,
+      "prettySize": "1.82 kB",
+      "modifiedTime": "2019-05-29T14:38:17.323Z",
+      "accessTime": "2019-05-29T14:38:31.856Z",
+      "changeTime": "2019-05-29T14:40:37.720Z",
+      "birthTime": "2019-05-29T12:28:34.962Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "WeCare-WC-Lands-in-Peoples-Square.en.md",
+      "ext": ".md",
+      "name": "WeCare-WC-Lands-in-Peoples-Square.en",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048919,
+      "blocks": 8,
+      "atimeMs": 1559140711855.521,
+      "mtimeMs": 1559140697323.0286,
+      "ctimeMs": 1559140837719.579,
+      "birthtimeMs": 1559132914961.6448,
+      "atime": "2019-05-29T14:38:31.856Z",
+      "mtime": "2019-05-29T14:38:17.323Z",
+      "ctime": "2019-05-29T14:40:37.720Z",
+      "birthtime": "2019-05-29T12:28:34.962Z",
+      "fields": {
+        "slug": "/en/news/WeCare-WC-Lands-in-Peoples-Square/"
+      }
+    },
+    "8f5b701e-7cf1-52e9-bab5-f96f1fb73946": {
+      "id": "8f5b701e-7cf1-52e9-bab5-f96f1fb73946",
+      "children": [],
+      "parent": "265abaaa-fe86-510c-88fd-05be6acd50f2",
+      "internal": {
+        "content": "\nOn the edge of the world-famous People’s Square in the very heart of Shanghai lies the latest WeCare WC creation. Staged in the historical public restroom at No. 10 Wusheng Road (built in 1957), the project is a gorgeous retrofit of the pre-existing facilities; including an Accessible Room on the first floor and a Nursing Room on the second floor.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140331/peoples%20square/facade.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/urinals.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140325/peoples%20square/accessible-room-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140333/peoples%20square/nursing-room-1.jpg)\n\nThe design of these facilities carefully fuses WeCare WC’s classic, sleek and intuitive aesthetics with elements of traditional Chinese culture and modern, cosmopolitan Shanghai. It is a place where over 3,000 locals and tourists daily will gain an even greater appreciation for the city and China just by stopping in to use the facilities and toilets.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140327/peoples%20square/accessible-room-3.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/nursing-room-2.jpg)\n\nSo the next time you are passing through Shanghai’s busiest hub, People’s Square, make sure to check out the latest by WeCare WC. We guarantee you will leave feeling appreciated and fall in love with Shanghai even more.\n\n##Location: No. 10 Wusheng Road, near People’s Square, Huangpu District\n",
         "type": "MarkdownRemark",
-        "contentDigest": "85050d1f7eea18edcdd8a9acfdf42e71",
+        "contentDigest": "c7000557f244d04a1b65d010986e5a09",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "WeCare WC Lands in People’s Square",
+        "date": "2018-10-28",
+        "photo": "https://res.cloudinary.com/wecare-wc/image/upload/v1559140325/peoples%20square/accessible-room-1.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nOn the edge of the world-famous People’s Square in the very heart of Shanghai lies the latest WeCare WC creation. Staged in the historical public restroom at No. 10 Wusheng Road (built in 1957), the project is a gorgeous retrofit of the pre-existing facilities; including an Accessible Room on the first floor and a Nursing Room on the second floor.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140331/peoples%20square/facade.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/urinals.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140325/peoples%20square/accessible-room-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140333/peoples%20square/nursing-room-1.jpg)\n\nThe design of these facilities carefully fuses WeCare WC’s classic, sleek and intuitive aesthetics with elements of traditional Chinese culture and modern, cosmopolitan Shanghai. It is a place where over 3,000 locals and tourists daily will gain an even greater appreciation for the city and China just by stopping in to use the facilities and toilets.\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140327/peoples%20square/accessible-room-3.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/nursing-room-2.jpg)\n\nSo the next time you are passing through Shanghai’s busiest hub, People’s Square, make sure to check out the latest by WeCare WC. We guarantee you will leave feeling appreciated and fall in love with Shanghai even more.\n\n##Location: No. 10 Wusheng Road, near People’s Square, Huangpu District\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/WeCare-WC-Lands-in-Peoples-Square.en.md",
+      "fields": {
+        "langKey": "en",
+        "slug": "/en/news/WeCare-WC-Lands-in-Peoples-Square/"
+      }
+    },
+    "4bc1e471-8783-5f57-9baf-d7630a407d11": {
+      "id": "4bc1e471-8783-5f57-9baf-d7630a407d11",
+      "children": [
+        "2c44500d-502c-5db8-8336-58f0217d2124"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "79c1637bbbc4986926abb3153073fc7c",
+        "type": "File",
+        "mediaType": "text/markdown",
+        "description": "File \"src/pages/news/WeCare-WC落地上海人民广场景区.md\"",
+        "owner": "gatsby-source-filesystem",
+        "fieldOwners": {
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "sourceInstanceName": "src",
+      "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/WeCare-WC落地上海人民广场景区.md",
+      "relativePath": "pages/news/WeCare-WC落地上海人民广场景区.md",
+      "extension": "md",
+      "size": 1524,
+      "prettySize": "1.52 kB",
+      "modifiedTime": "2019-05-29T14:40:11.145Z",
+      "accessTime": "2019-05-29T14:40:50.431Z",
+      "changeTime": "2019-05-29T14:41:00.813Z",
+      "birthTime": "2019-05-29T12:28:34.962Z",
+      "root": "/",
+      "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
+      "base": "WeCare-WC落地上海人民广场景区.md",
+      "ext": ".md",
+      "name": "WeCare-WC落地上海人民广场景区",
+      "relativeDirectory": "pages/news",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 5048920,
+      "blocks": 8,
+      "atimeMs": 1559140850431.1765,
+      "mtimeMs": 1559140811145.2703,
+      "ctimeMs": 1559140860812.8618,
+      "birthtimeMs": 1559132914962.2488,
+      "atime": "2019-05-29T14:40:50.431Z",
+      "mtime": "2019-05-29T14:40:11.145Z",
+      "ctime": "2019-05-29T14:41:00.813Z",
+      "birthtime": "2019-05-29T12:28:34.962Z",
+      "fields": {
+        "slug": "/news/WeCare-WC落地上海人民广场景区/"
+      }
+    },
+    "2c44500d-502c-5db8-8336-58f0217d2124": {
+      "id": "2c44500d-502c-5db8-8336-58f0217d2124",
+      "children": [],
+      "parent": "4bc1e471-8783-5f57-9baf-d7630a407d11",
+      "internal": {
+        "content": "\n在上海中心地带闻名中外的人民广场，落成了WeCare WC最新的项目。武胜路10号的公共卫生间始建于1957年，WeCare WC参与了这一项目的翻新，改造了一楼的无障碍卫生间和二楼的母婴室。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140331/peoples%20square/facade.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/urinals.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140325/peoples%20square/accessible-room-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140333/peoples%20square/nursing-room-1.jpg)\n\n武胜路卫生间翻新前在全市超过400所公共卫生间的年度检查中位列前茅，如今再造后，增加了旅游资讯功能，更将成为首屈一指的特色公共卫生间。这是一个旅游城市从卫生间的角度关心游客的缩影与开端。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140327/peoples%20square/accessible-room-3.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/nursing-room-2.jpg)\n\n所以当你下次有机会路过上海最忙碌的交通枢纽，一定不要错过WeCare WC武胜路卫生间，它一定会让你更加热爱上海这个城市。\n<br>\n<br>\n##地址：黄浦区人民广场，武胜路10号\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "7f8c9ad7880a84adc381d6cd88ae2b93",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "langKey": "gatsby-plugin-i18n",
@@ -3737,190 +3737,190 @@
       },
       "frontmatter": {
         "title": "中国呢",
-        "date": "2014-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "date": "2018-10-28",
+        "photo": "https://res.cloudinary.com/wecare-wc/image/upload/v1559140325/peoples%20square/accessible-room-1.jpg",
         "language": "CN"
       },
       "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4zh.md",
+      "rawMarkdownBody": "\n在上海中心地带闻名中外的人民广场，落成了WeCare WC最新的项目。武胜路10号的公共卫生间始建于1957年，WeCare WC参与了这一项目的翻新，改造了一楼的无障碍卫生间和二楼的母婴室。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140331/peoples%20square/facade.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/urinals.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140325/peoples%20square/accessible-room-1.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140333/peoples%20square/nursing-room-1.jpg)\n\n武胜路卫生间翻新前在全市超过400所公共卫生间的年度检查中位列前茅，如今再造后，增加了旅游资讯功能，更将成为首屈一指的特色公共卫生间。这是一个旅游城市从卫生间的角度关心游客的缩影与开端。\n\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140327/peoples%20square/accessible-room-3.jpg)\n![](https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/nursing-room-2.jpg)\n\n所以当你下次有机会路过上海最忙碌的交通枢纽，一定不要错过WeCare WC武胜路卫生间，它一定会让你更加热爱上海这个城市。\n<br>\n<br>\n##地址：黄浦区人民广场，武胜路10号\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/WeCare-WC落地上海人民广场景区.md",
       "fields": {
         "langKey": "zh",
-        "slug": "/news/test-4zh/"
+        "slug": "/news/WeCare-WC落地上海人民广场景区/"
       }
     },
-    "SitePage /en/news/test-1/": {
-      "jsonName": "en-news-test-1-676",
-      "internalComponentName": "ComponentEnNewsTest1",
-      "path": "/en/news/test-1/",
+    "SitePage /news/公共卫生间之女王/": {
+      "jsonName": "news-公共卫生间之女王-d06",
+      "internalComponentName": "ComponentNews公共卫生间之女王",
+      "path": "/news/公共卫生间之女王/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/en/news/test-1/"
+        "slug": "/news/公共卫生间之女王/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /en/news/test-1/",
+      "id": "SitePage /news/公共卫生间之女王/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5765d3078f917838608b144e9ae0a5d8",
+        "contentDigest": "ce732d06769df3dbd1a44891a6237df1",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /news/test-1zh/": {
-      "jsonName": "news-test-1-zh-9a0",
-      "internalComponentName": "ComponentNewsTest1Zh",
-      "path": "/news/test-1zh/",
+    "SitePage /en/news/the-queen-of-public-restrooms-xtd-plaza/": {
+      "jsonName": "en-news-the-queen-of-public-restrooms-xtd-plaza-a4a",
+      "internalComponentName": "ComponentEnNewsTheQueenOfPublicRestroomsXtdPlaza",
+      "path": "/en/news/the-queen-of-public-restrooms-xtd-plaza/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/news/test-1zh/"
+        "slug": "/en/news/the-queen-of-public-restrooms-xtd-plaza/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /news/test-1zh/",
+      "id": "SitePage /en/news/the-queen-of-public-restrooms-xtd-plaza/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "91e58f85b3687904e820279fdc3688e3",
+        "contentDigest": "bba8e52a1fa031c1fafff77cafddaba0",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /en/news/test-2/": {
-      "jsonName": "en-news-test-2-a4f",
-      "internalComponentName": "ComponentEnNewsTest2",
-      "path": "/en/news/test-2/",
+    "SitePage /en/news/wecare-wc-goes-portable/": {
+      "jsonName": "en-news-wecare-wc-goes-portable-b2b",
+      "internalComponentName": "ComponentEnNewsWecareWcGoesPortable",
+      "path": "/en/news/wecare-wc-goes-portable/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/en/news/test-2/"
+        "slug": "/en/news/wecare-wc-goes-portable/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /en/news/test-2/",
+      "id": "SitePage /en/news/wecare-wc-goes-portable/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ff4dd96a450da01f9fc8a3965341b72f",
+        "contentDigest": "91f9996a9563261ddb42e884411420ec",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /news/test-2zh/": {
-      "jsonName": "news-test-2-zh-69c",
-      "internalComponentName": "ComponentNewsTest2Zh",
-      "path": "/news/test-2zh/",
+    "SitePage /news/wecare-wc移动卫生间解决方案/": {
+      "jsonName": "news-wecare-wc移动卫生间解决方案-a67",
+      "internalComponentName": "ComponentNewsWecareWc移动卫生间解决方案",
+      "path": "/news/wecare-wc移动卫生间解决方案/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/news/test-2zh/"
+        "slug": "/news/wecare-wc移动卫生间解决方案/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /news/test-2zh/",
+      "id": "SitePage /news/wecare-wc移动卫生间解决方案/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e99bc795f379a700fbb44f43094cfd25",
+        "contentDigest": "5d9ae763286ea413ac0f28e6e96a8134",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /en/news/test-3/": {
-      "jsonName": "en-news-test-3-f06",
-      "internalComponentName": "ComponentEnNewsTest3",
-      "path": "/en/news/test-3/",
+    "SitePage /news/喜迎进博会WeCare-WC浦东国际机场项目完成/": {
+      "jsonName": "news-喜迎进博会-we-care-wc浦东国际机场项目完成-52f",
+      "internalComponentName": "ComponentNews喜迎进博会WeCareWc浦东国际机场项目完成",
+      "path": "/news/喜迎进博会WeCare-WC浦东国际机场项目完成/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/en/news/test-3/"
+        "slug": "/news/喜迎进博会WeCare-WC浦东国际机场项目完成/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /en/news/test-3/",
+      "id": "SitePage /news/喜迎进博会WeCare-WC浦东国际机场项目完成/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "08d245e32d6bfa65601be409a8156598",
+        "contentDigest": "3ab65ce5bf46ead86fc272030113c452",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /news/test-3zh/": {
-      "jsonName": "news-test-3-zh-599",
-      "internalComponentName": "ComponentNewsTest3Zh",
-      "path": "/news/test-3zh/",
+    "SitePage /en/news/wecare-wc-takes-off-in-pudong-airport/": {
+      "jsonName": "en-news-wecare-wc-takes-off-in-pudong-airport-1b6",
+      "internalComponentName": "ComponentEnNewsWecareWcTakesOffInPudongAirport",
+      "path": "/en/news/wecare-wc-takes-off-in-pudong-airport/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/news/test-3zh/"
+        "slug": "/en/news/wecare-wc-takes-off-in-pudong-airport/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /news/test-3zh/",
+      "id": "SitePage /en/news/wecare-wc-takes-off-in-pudong-airport/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f631c951428aa62ece7527c0032d01c5",
+        "contentDigest": "2bf386d51b060ae102221ab8ba3f359c",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /en/news/test-4/": {
-      "jsonName": "en-news-test-4-e6c",
-      "internalComponentName": "ComponentEnNewsTest4",
-      "path": "/en/news/test-4/",
+    "SitePage /en/news/WeCare-WC-Lands-in-Peoples-Square/": {
+      "jsonName": "en-news-we-care-wc-lands-in-peoples-square-f19",
+      "internalComponentName": "ComponentEnNewsWeCareWcLandsInPeoplesSquare",
+      "path": "/en/news/WeCare-WC-Lands-in-Peoples-Square/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/en/news/test-4/"
+        "slug": "/en/news/WeCare-WC-Lands-in-Peoples-Square/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /en/news/test-4/",
+      "id": "SitePage /en/news/WeCare-WC-Lands-in-Peoples-Square/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e420656186d965a5934b075823d76e6b",
+        "contentDigest": "f5298319745b0d0279855ebca61b3390",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /news/test-4zh/": {
-      "jsonName": "news-test-4-zh-836",
-      "internalComponentName": "ComponentNewsTest4Zh",
-      "path": "/news/test-4zh/",
+    "SitePage /news/WeCare-WC落地上海人民广场景区/": {
+      "jsonName": "news-we-care-wc落地上海人民广场景区-405",
+      "internalComponentName": "ComponentNewsWeCareWc落地上海人民广场景区",
+      "path": "/news/WeCare-WC落地上海人民广场景区/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/news/test-4zh/"
+        "slug": "/news/WeCare-WC落地上海人民广场景区/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /news/test-4zh/",
+      "id": "SitePage /news/WeCare-WC落地上海人民广场景区/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bc51bf5460c19b8ac83244d6fabbb3a3",
+        "contentDigest": "dcfe10ccfbff6bf2f7964176cad62592",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4108,15 +4108,11 @@
       "f8db0892-2465-5f38-95ca-9a45fa671f9c": [
         "/news/test-2zh/"
       ],
-      "23f3c6e5-3806-5cc3-a486-bd5bca932593": [
-        "/news/test-3/"
-      ],
+      "23f3c6e5-3806-5cc3-a486-bd5bca932593": [],
       "84ed18e2-b925-59f8-bf8c-a45c5f1da9da": [
         "/news/test-3zh/"
       ],
-      "7282aad4-4922-589c-aace-7d186af78606": [
-        "/news/test-4/"
-      ],
+      "7282aad4-4922-589c-aace-7d186af78606": [],
       "94278ec5-0314-5a54-88a4-0867bea375a9": [
         "/news/test-4zh/"
       ],
@@ -4128,14 +4124,38 @@
       ],
       "e89d9440-e758-5ada-979e-7dcdaa1d2b0c": [
         "/en/news/test-4/"
+      ],
+      "ae86dc09-5577-5fd7-9dff-e639d5c379be": [
+        "/news/公共卫生间之女王/"
+      ],
+      "f8ca83e6-1ca1-5c5e-8df3-f798bf1774e4": [
+        "/en/news/the-queen-of-public-restrooms-xtd-plaza/"
+      ],
+      "05b960a4-d7ef-53a5-ae8e-1d3a8684d4ad": [
+        "/en/news/wecare-wc-goes-portable/"
+      ],
+      "be51a239-8c23-58b1-a9ff-3f0abf1b113c": [
+        "/news/wecare-wc移动卫生间解决方案/"
+      ],
+      "c8f4b4ae-dea2-56f2-86ef-ccc9200cb6d8": [
+        "/news/喜迎进博会WeCare-WC浦东国际机场项目完成/"
+      ],
+      "889dc509-e115-54d9-a24f-7601983d4b28": [
+        "/en/news/wecare-wc-takes-off-in-pudong-airport/"
+      ],
+      "8f5b701e-7cf1-52e9-bab5-f96f1fb73946": [
+        "/en/news/WeCare-WC-Lands-in-Peoples-Square/"
+      ],
+      "2c44500d-502c-5db8-8336-58f0217d2124": [
+        "/news/WeCare-WC落地上海人民广场景区/"
       ]
     },
     "connections": {
       "MarkdownRemark": [
         null,
         null,
-        "sq--src-pages-index-zh-js",
-        "sq--src-pages-index-en-js"
+        "sq--src-pages-index-en-js",
+        "sq--src-pages-index-zh-js"
       ],
       "File": [
         "/my-files/"
@@ -4151,26 +4171,39 @@
     "en-page-2-065": "59/path---en-page-2-065-ac0-4xRSeOifC7Lu2rz5EVCuhBhW8A",
     "page-2-fbc": "439/path---page-2-fbc-5a8-Gpjp0PvIfeRtzAXUjU5RFSRxRdY",
     "404-html-516": "104/path---404-html-516-62a-ZNpXRWbCmk1qYofocrzTyxW3Q",
-    "my-files-317": "791/path---my-files-317-4c7-UAWZpBNn7M6imcbkYzflI7ll6s",
+    "my-files-317": "785/path---my-files-317-4c7-fwh0pb3Ruky8G4qCgoTmOchGP8",
     "sq--src-pages-index-en-js": 3613798577,
-    "sq--src-pages-index-zh-js": 2646899241,
-    "news-test-1-zh-9a0": "162/path---news-test-1-zh-9-a-0-5a9-A2BtGyfSakbba1yleWv6wo7I6QY",
+    "sq--src-pages-index-zh-js": 1377602250,
+    "news-test-1-zh-9a0": "268/path---news-test-1-zh-9-a-0-5a9-I2xQEAVo8iIyXq1O9JRXOh2kIA",
     "news-test-1-ece": "320/path---news-test-1-ece-80e-xW35q6QcqZtOIt4xwsG7n1dMNc",
     "news-test-2-28c": "903/path---news-test-2-28-c-454-tVjqacrH8mC30gkL9YvnVOCc0w",
-    "news-test-2-zh-69c": "374/path---news-test-2-zh-69-c-bee-zdngfXi1QSKSzcFFISypAZymf8",
+    "news-test-2-zh-69c": "852/path---news-test-2-zh-69-c-bee-TUd6xrxDjpALq7Ey0Or1TA35k",
     "news-test-3-3ac": "121/path---news-test-3-3-ac-fa5-leBgKdDRmGvAvDzSP4ukxyoaS8",
-    "news-test-3-zh-599": "930/path---news-test-3-zh-599-22c-fVzI362Y0AU9EkPuBKXxy9NAW0",
+    "news-test-3-zh-599": "359/path---news-test-3-zh-599-22c-M15pZ8pyodTsaggv4bpqFy6pkro",
     "news-test-4-440": "178/path---news-test-4-440-8ba-AZA43538f5BcoIShzPCGT6eDF8",
-    "news-test-4-zh-836": "336/path---news-test-4-zh-836-ca3-GD2vqonHttN4v7w8vOLMSyypj4",
+    "news-test-4-zh-836": "879/path---news-test-4-zh-836-ca3-I2kvrU7dLalA5oNSKyQ4H4rUYI",
     "sq--src-templates-blog-post-js": 861893041,
-    "en-news-test-1-676": "876/path---en-news-test-1-676-9cc-frSNjtYUWExa1CIMlqi0usPRtpE",
-    "en-news-test-2-a4f": "450/path---en-news-test-2-a-4-f-fab-U4kxgvQjKHIgZaVHnBg39H1R0E",
-    "en-news-test-3-f06": "273/path---en-news-test-3-f-06-e95-9dtWTsnKFEsZwebiBw3fcSPTEk",
-    "en-news-test-4-e6c": "185/path---en-news-test-4-e-6-c-31f-GNogaORCp40ww0PtApRGRGUDt8"
+    "en-news-test-1-676": "726/path---en-news-test-1-676-9cc-JHrCcDBo0JxkD0u2ZtBcgOykg",
+    "en-news-test-2-a4f": "359/path---en-news-test-2-a-4-f-fab-2TjT9n2vpKy92qnCZOiTm8Fyqc4",
+    "en-news-test-3-f06": "990/path---en-news-test-3-f-06-e95-Q5c6NOJEXpVSN1ItG7DP3XQA8qU",
+    "en-news-test-4-e6c": "156/path---en-news-test-4-e-6-c-31f-2IEsySRKW610PlnDtffQ4VUVOE",
+    "news-test-1-copy-148": "15/path---news-test-1-copy-148-82f-u7jwfcSIOr0lr1JwYcBMR0ffap0",
+    "news-test-3-copy-a0c": "102/path---news-test-3-copy-a-0-c-fc5-gsUjrEIq7ZX3izK33VWM6EZBvi8",
+    "news-test-4-copy-ffa": "958/path---news-test-4-copy-ffa-53d-KRpdjARbcrNmP9NUq6XdjnUGFTk",
+    "news-text-2-copy-6e4": "858/path---news-text-2-copy-6-e-4-ca9-EFob9SA0HxUcTrJG3iimAk35gQ",
+    "news-text-2-46a": "73/path---news-text-2-46-a-af9-wWVhbLnUogTlbeqwxfnHd2322s",
+    "news-公共卫生间之女王-d06": "853/path---news-公共卫生间之女王-d-06-d91-eqIj7ezRtkiYB8Zowl9Tk6pwIEo",
+    "en-news-the-queen-of-public-restrooms-xtd-plaza-a4a": "175/path---en-news-the-queen-of-public-restrooms-xtd-plaza-a-4-a-c57-xer3hamGdKe0NI1UGUIVtbUk6co",
+    "en-news-wecare-wc-goes-portable-b2b": "741/path---en-news-wecare-wc-goes-portable-b-2-b-605-k3XUsMy7Ug5yE3DqcFTefYbQck",
+    "news-wecare-wc移动卫生间解决方案-a67": "921/path---news-wecare-wc移动卫生间解决方案-a-67-8e9-6DK5gN8UGVQAabMBePFdlEg1AMQ",
+    "news-喜迎进博会-we-care-wc浦东国际机场项目完成-52f": "384/path---news-喜迎进博会-we-care-wc浦东国际机场项目完成-52-f-cc7-6crPAXiRbCO7yTZluKMCDTbxWc",
+    "en-news-wecare-wc-takes-off-in-pudong-airport-1b6": "821/path---en-news-wecare-wc-takes-off-in-pudong-airport-1-b-6-579-0xOwuUzlDPYJVLv4kr1Venlzxc",
+    "en-news-we-care-wc-lands-in-peoples-square-f19": "765/path---en-news-we-care-wc-lands-in-peoples-square-f-19-019-hVHOp7443nX7NTl4Ddk9E2dhoM",
+    "news-we-care-wc落地上海人民广场景区-405": "731/path---news-we-care-wc落地上海人民广场景区-405-295-j7kJr3LQwt2MHHF1xYZpj0u2Pw0"
   },
   "components": {
     "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js": {
-      "query": "query PostQuery(\n  $slug: String!\n) {\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      title\n    }\n  }\n}\n",
+      "query": "query PostQuery(\n  $slug: String!\n) {\n  markdownRemark(fields: {slug: {eq: $slug}}) {\n    html\n    frontmatter {\n      title\n      photo\n      date\n    }\n  }\n}\n",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js"
     },
     "/Users/ryankretch/Documents/Coding Stuff/wc/.cache/dev-404-page.js": {
@@ -4220,12 +4253,12 @@
       "hash": 3613798577
     },
     "sq--src-pages-index-zh-js": {
-      "name": "usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs2646899241",
+      "name": "usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs1377602250",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/index.zh.js",
       "id": "sq--src-pages-index-zh-js",
       "jsonName": "sq--src-pages-index-zh-js",
-      "query": "query usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs2646899241 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          photo\n          language\n        }\n        fields {\n          slug\n        }\n        excerpt\n        timeToRead\n        html\n      }\n    }\n  }\n}\n",
-      "hash": 2646899241
+      "query": "query usersRyankretchDocumentsCodingStuffWcSrcPagesIndexZhJs1377602250 {\n  allMarkdownRemark(sort: {fields: [frontmatter___date], order: DESC}) {\n    edges {\n      node {\n        frontmatter {\n          title\n          date\n          photo\n          language\n        }\n        fields {\n          slug\n        }\n        excerpt(pruneLength: 150)\n        timeToRead\n        html\n      }\n    }\n  }\n}\n",
+      "hash": 1377602250
     }
   }
 }

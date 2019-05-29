@@ -96,7 +96,7 @@ const IndexPage = (props) => (
           if (node.frontmatter.language == "EN") {
           return(
           <div className="column has-text-left spacing" key={node.id}>
-            <img src={node.frontmatter.photo}/>
+            <div className="blog-img" style={{ backgroundImage: `url(\'${node.frontmatter.photo}\')`}}/>
             <span><h5>{node.frontmatter.title}{" "}</h5></span>
             <span><p>{node.excerpt}</p></span>
           </div>
