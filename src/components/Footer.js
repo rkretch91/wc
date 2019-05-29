@@ -1,8 +1,6 @@
 import React from 'react'
 import Link from 'gatsby-link'
-import SelectLanguage from './SelectLanguage'
 
-import WecareLogo from '../images/wecarewc-logo-white.png'
 import QR from '../images/wecarewc_qrcode.png'
 
 class Footer extends React.Component {
@@ -13,7 +11,6 @@ class Footer extends React.Component {
             <div className="mailer-footer column is-two-fifths-desktop is-half-mobile">
               <h1>Mailing List</h1>
               <div className="field">
-                <label className="label">Email</label>
                 <div className="control" style={{paddingBottom: '10px'}} >
                   <input className="input" type="email" placeholder="e.g. ilovetoilets@gmail.com" />
                 </div>

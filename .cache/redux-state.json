@@ -950,12 +950,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-05-28T15:51:10.791Z",
+      "buildTime": "2019-05-28T19:33:14.044Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "430a00e4770225802428e62dc078f6f1",
+        "contentDigest": "735b94959fd1e66c0db9bf06d7aab6b3",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -965,7 +965,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "3997bd766da6a2d3f2dd8b9324fc8c18",
+        "contentDigest": "f0eb6532e9f6dcf443499db09ac588cd",
         "type": "Directory",
         "description": "Directory \"src\"",
         "owner": "gatsby-source-filesystem"
@@ -976,9 +976,9 @@
       "extension": "",
       "size": 288,
       "prettySize": "288 B",
-      "modifiedTime": "2019-05-28T15:06:16.000Z",
-      "accessTime": "2019-05-28T15:51:17.107Z",
-      "changeTime": "2019-05-28T15:06:16.794Z",
+      "modifiedTime": "2019-05-28T21:24:36.000Z",
+      "accessTime": "2019-05-28T21:24:36.000Z",
+      "changeTime": "2019-05-28T21:24:36.455Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc",
@@ -995,13 +995,13 @@
       "blksize": 4096,
       "ino": 3516193,
       "blocks": 0,
-      "atimeMs": 1559058677107.173,
-      "mtimeMs": 1559055976000,
-      "ctimeMs": 1559055976793.7397,
+      "atimeMs": 1559078676000,
+      "mtimeMs": 1559078676000,
+      "ctimeMs": 1559078676454.9675,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T15:51:17.107Z",
-      "mtime": "2019-05-28T15:06:16.000Z",
-      "ctime": "2019-05-28T15:06:16.794Z",
+      "atime": "2019-05-28T21:24:36.000Z",
+      "mtime": "2019-05-28T21:24:36.000Z",
+      "ctime": "2019-05-28T21:24:36.455Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
     },
     "062a4e25-1886-56ae-8fb8-fa832d7bab1e": {
@@ -1009,7 +1009,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "317acd4e833b6b11715905a2ea659a5c",
+        "contentDigest": "c8873ca839e56612708b9414a749dff0",
         "type": "Directory",
         "description": "Directory \"src/components\"",
         "owner": "gatsby-source-filesystem"
@@ -1020,9 +1020,9 @@
       "extension": "",
       "size": 224,
       "prettySize": "224 B",
-      "modifiedTime": "2019-05-23T13:21:42.000Z",
-      "accessTime": "2019-05-28T15:51:17.107Z",
-      "changeTime": "2019-05-23T13:21:44.340Z",
+      "modifiedTime": "2019-05-28T21:24:36.000Z",
+      "accessTime": "2019-05-28T21:24:36.557Z",
+      "changeTime": "2019-05-28T21:24:36.467Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src",
@@ -1039,13 +1039,13 @@
       "blksize": 4096,
       "ino": 3516231,
       "blocks": 0,
-      "atimeMs": 1559058677107.434,
-      "mtimeMs": 1558617702000,
-      "ctimeMs": 1558617704339.9653,
+      "atimeMs": 1559078676556.8533,
+      "mtimeMs": 1559078676000,
+      "ctimeMs": 1559078676467.168,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T15:51:17.107Z",
-      "mtime": "2019-05-23T13:21:42.000Z",
-      "ctime": "2019-05-23T13:21:44.340Z",
+      "atime": "2019-05-28T21:24:36.557Z",
+      "mtime": "2019-05-28T21:24:36.000Z",
+      "ctime": "2019-05-28T21:24:36.467Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
     },
     "93b57633-c0e3-5fe1-9841-0e0d9af49b24": {
@@ -1053,7 +1053,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "879c67ec116c1d1a0acc27e107d1d354",
+        "contentDigest": "70430ab458c894c8010f3f985f684793",
         "type": "Directory",
         "description": "Directory \"src/data\"",
         "owner": "gatsby-source-filesystem"
@@ -1065,7 +1065,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-05-06T16:21:21.000Z",
-      "accessTime": "2019-05-28T15:51:17.107Z",
+      "accessTime": "2019-05-28T19:33:20.262Z",
       "changeTime": "2019-05-06T16:21:23.858Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1083,11 +1083,11 @@
       "blksize": 4096,
       "ino": 3516240,
       "blocks": 0,
-      "atimeMs": 1559058677107.2842,
+      "atimeMs": 1559072000261.9282,
       "mtimeMs": 1557159681000,
       "ctimeMs": 1557159683858.4402,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T15:51:17.107Z",
+      "atime": "2019-05-28T19:33:20.262Z",
       "mtime": "2019-05-06T16:21:21.000Z",
       "ctime": "2019-05-06T16:21:23.858Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1097,7 +1097,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "ef4b4e2a44fd79e90f024b6435f60a9c",
+        "contentDigest": "94dd3151cbd93f5da6d8d4d0c63937b9",
         "type": "Directory",
         "description": "Directory \"src/layouts\"",
         "owner": "gatsby-source-filesystem"
@@ -1109,7 +1109,7 @@
       "size": 224,
       "prettySize": "224 B",
       "modifiedTime": "2019-05-27T17:50:50.000Z",
-      "accessTime": "2019-05-28T15:51:17.107Z",
+      "accessTime": "2019-05-28T19:33:20.262Z",
       "changeTime": "2019-05-27T17:50:50.904Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1127,11 +1127,11 @@
       "blksize": 4096,
       "ino": 3516234,
       "blocks": 0,
-      "atimeMs": 1559058677107.3472,
+      "atimeMs": 1559072000261.9375,
       "mtimeMs": 1558979450000,
       "ctimeMs": 1558979450904.1675,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T15:51:17.107Z",
+      "atime": "2019-05-28T19:33:20.262Z",
       "mtime": "2019-05-27T17:50:50.000Z",
       "ctime": "2019-05-27T17:50:50.904Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1141,7 +1141,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "9b336e58d3050cfd18edfd67cf8153f9",
+        "contentDigest": "bfc70d5d531575f296a656806c221a63",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1153,7 +1153,7 @@
       "size": 416,
       "prettySize": "416 B",
       "modifiedTime": "2019-05-23T13:18:27.000Z",
-      "accessTime": "2019-05-28T15:51:17.107Z",
+      "accessTime": "2019-05-28T19:33:20.262Z",
       "changeTime": "2019-05-28T14:26:49.399Z",
       "birthTime": "2019-05-04T09:11:20.000Z",
       "root": "/",
@@ -1171,11 +1171,11 @@
       "blksize": 4096,
       "ino": 3516228,
       "blocks": 0,
-      "atimeMs": 1559058677107.2473,
+      "atimeMs": 1559072000262.0044,
       "mtimeMs": 1558617507000,
       "ctimeMs": 1559053609399.3196,
       "birthtimeMs": 1556961080000,
-      "atime": "2019-05-28T15:51:17.107Z",
+      "atime": "2019-05-28T19:33:20.262Z",
       "mtime": "2019-05-23T13:18:27.000Z",
       "ctime": "2019-05-28T14:26:49.399Z",
       "birthtime": "2019-05-04T09:11:20.000Z"
@@ -1185,7 +1185,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4f2b0d6610b86e38979548e83dca00c4",
+        "contentDigest": "9da766e66dce94708e46131be7154d6a",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -1196,9 +1196,9 @@
       "extension": "",
       "size": 320,
       "prettySize": "320 B",
-      "modifiedTime": "2019-05-28T15:06:16.000Z",
-      "accessTime": "2019-05-28T15:51:17.107Z",
-      "changeTime": "2019-05-28T15:06:16.796Z",
+      "modifiedTime": "2019-05-28T19:32:54.000Z",
+      "accessTime": "2019-05-28T19:33:20.262Z",
+      "changeTime": "2019-05-28T19:32:54.872Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src",
@@ -1215,13 +1215,13 @@
       "blksize": 4096,
       "ino": 3516245,
       "blocks": 0,
-      "atimeMs": 1559058677107.3887,
-      "mtimeMs": 1559055976000,
-      "ctimeMs": 1559055976796.0134,
+      "atimeMs": 1559072000262.014,
+      "mtimeMs": 1559071974000,
+      "ctimeMs": 1559071974872.1401,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T15:51:17.107Z",
-      "mtime": "2019-05-28T15:06:16.000Z",
-      "ctime": "2019-05-28T15:06:16.796Z",
+      "atime": "2019-05-28T19:33:20.262Z",
+      "mtime": "2019-05-28T19:32:54.000Z",
+      "ctime": "2019-05-28T19:32:54.872Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
     },
     "53146851-a359-561e-a230-18a8e930e4c1": {
@@ -1229,7 +1229,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "77ca3c8e2bb0b8afe7477f467352b108",
+        "contentDigest": "5718a96321425f1cbef3bc6f3caafd43",
         "type": "Directory",
         "description": "Directory \"src/templates\"",
         "owner": "gatsby-source-filesystem"
@@ -1241,7 +1241,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2019-05-28T15:00:38.000Z",
-      "accessTime": "2019-05-28T15:51:17.107Z",
+      "accessTime": "2019-05-28T19:33:20.262Z",
       "changeTime": "2019-05-28T15:00:38.823Z",
       "birthTime": "2019-05-28T14:29:59.000Z",
       "root": "/",
@@ -1259,11 +1259,11 @@
       "blksize": 4096,
       "ino": 4961536,
       "blocks": 0,
-      "atimeMs": 1559058677107.4897,
+      "atimeMs": 1559072000262.0112,
       "mtimeMs": 1559055638000,
       "ctimeMs": 1559055638822.5005,
       "birthtimeMs": 1559053799000,
-      "atime": "2019-05-28T15:51:17.107Z",
+      "atime": "2019-05-28T19:33:20.262Z",
       "mtime": "2019-05-28T15:00:38.000Z",
       "ctime": "2019-05-28T15:00:38.823Z",
       "birthtime": "2019-05-28T14:29:59.000Z"
@@ -1273,7 +1273,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "163245bd5b5d414dbbd99f233208c39e",
+        "contentDigest": "160f70525830f0789a24f1972edd25a4",
         "type": "Directory",
         "description": "Directory \"src/data/messages\"",
         "owner": "gatsby-source-filesystem"
@@ -1285,7 +1285,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2019-05-06T16:21:23.000Z",
-      "accessTime": "2019-05-28T15:51:17.108Z",
+      "accessTime": "2019-05-28T19:33:20.265Z",
       "changeTime": "2019-05-06T16:21:23.610Z",
       "birthTime": "2019-05-02T16:40:21.000Z",
       "root": "/",
@@ -1303,11 +1303,11 @@
       "blksize": 4096,
       "ino": 3516241,
       "blocks": 0,
-      "atimeMs": 1559058677107.9412,
+      "atimeMs": 1559072000264.6453,
       "mtimeMs": 1557159683000,
       "ctimeMs": 1557159683610.4958,
       "birthtimeMs": 1556815221000,
-      "atime": "2019-05-28T15:51:17.108Z",
+      "atime": "2019-05-28T19:33:20.265Z",
       "mtime": "2019-05-06T16:21:23.000Z",
       "ctime": "2019-05-06T16:21:23.610Z",
       "birthtime": "2019-05-02T16:40:21.000Z"
@@ -1317,7 +1317,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "d3b3f575cc434abf6ededb9caf5b1314",
+        "contentDigest": "66854a3f3470fa677fbbf0f4cbc7fecc",
         "type": "Directory",
         "description": "Directory \"src/images/logos\"",
         "owner": "gatsby-source-filesystem"
@@ -1329,7 +1329,7 @@
       "size": 320,
       "prettySize": "320 B",
       "modifiedTime": "2019-05-22T08:41:52.000Z",
-      "accessTime": "2019-05-28T15:51:17.108Z",
+      "accessTime": "2019-05-28T19:33:20.265Z",
       "changeTime": "2019-05-22T08:41:53.642Z",
       "birthTime": "2019-05-22T08:41:42.000Z",
       "root": "/",
@@ -1347,11 +1347,11 @@
       "blksize": 4096,
       "ino": 4457360,
       "blocks": 0,
-      "atimeMs": 1559058677107.5413,
+      "atimeMs": 1559072000264.5828,
       "mtimeMs": 1558514512000,
       "ctimeMs": 1558514513642.1753,
       "birthtimeMs": 1558514502000,
-      "atime": "2019-05-28T15:51:17.108Z",
+      "atime": "2019-05-28T19:33:20.265Z",
       "mtime": "2019-05-22T08:41:52.000Z",
       "ctime": "2019-05-22T08:41:53.642Z",
       "birthtime": "2019-05-22T08:41:42.000Z"
@@ -1361,7 +1361,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c918813b09e623ea36b396e544537eed",
+        "contentDigest": "1956819d6dc008fd67305a69909ec670",
         "type": "Directory",
         "description": "Directory \"src/pages/news\"",
         "owner": "gatsby-source-filesystem"
@@ -1372,9 +1372,9 @@
       "extension": "",
       "size": 320,
       "prettySize": "320 B",
-      "modifiedTime": "2019-05-28T15:51:04.836Z",
-      "accessTime": "2019-05-28T15:51:17.108Z",
-      "changeTime": "2019-05-28T15:51:04.836Z",
+      "modifiedTime": "2019-05-28T19:32:54.000Z",
+      "accessTime": "2019-05-28T19:33:20.265Z",
+      "changeTime": "2019-05-28T19:32:54.926Z",
       "birthTime": "2019-05-27T16:42:52.000Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages",
@@ -1391,13 +1391,13 @@
       "blksize": 4096,
       "ino": 4890085,
       "blocks": 0,
-      "atimeMs": 1559058677108.2139,
-      "mtimeMs": 1559058664836.3076,
-      "ctimeMs": 1559058664836.3076,
+      "atimeMs": 1559072000264.7522,
+      "mtimeMs": 1559071974000,
+      "ctimeMs": 1559071974925.9036,
       "birthtimeMs": 1558975372000,
-      "atime": "2019-05-28T15:51:17.108Z",
-      "mtime": "2019-05-28T15:51:04.836Z",
-      "ctime": "2019-05-28T15:51:04.836Z",
+      "atime": "2019-05-28T19:33:20.265Z",
+      "mtime": "2019-05-28T19:32:54.000Z",
+      "ctime": "2019-05-28T19:32:54.926Z",
       "birthtime": "2019-05-27T16:42:52.000Z"
     },
     "5c3e10a9-b961-5a45-a7c7-2f984ba33554": {
@@ -1450,7 +1450,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "2a14bf935d01daf7d6d5bc2324456709",
+        "contentDigest": "52319b983e246ee30af2cfd49267af87",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/components/Footer.js\"",
@@ -1460,11 +1460,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/components/Footer.js",
       "relativePath": "components/Footer.js",
       "extension": "js",
-      "size": 2518,
-      "prettySize": "2.52 kB",
-      "modifiedTime": "2019-05-23T13:15:31.244Z",
-      "accessTime": "2019-05-28T15:07:18.256Z",
-      "changeTime": "2019-05-23T13:15:31.244Z",
+      "size": 2358,
+      "prettySize": "2.36 kB",
+      "modifiedTime": "2019-05-28T21:24:30.679Z",
+      "accessTime": "2019-05-28T21:14:08.080Z",
+      "changeTime": "2019-05-28T21:24:30.679Z",
       "birthTime": "2019-05-23T13:15:31.243Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/components",
@@ -1481,13 +1481,13 @@
       "blksize": 4096,
       "ino": 4574701,
       "blocks": 8,
-      "atimeMs": 1559056038256.0852,
-      "mtimeMs": 1558617331243.772,
-      "ctimeMs": 1558617331243.772,
+      "atimeMs": 1559078048079.5488,
+      "mtimeMs": 1559078670678.616,
+      "ctimeMs": 1559078670678.616,
       "birthtimeMs": 1558617331242.829,
-      "atime": "2019-05-28T15:07:18.256Z",
-      "mtime": "2019-05-23T13:15:31.244Z",
-      "ctime": "2019-05-23T13:15:31.244Z",
+      "atime": "2019-05-28T21:14:08.080Z",
+      "mtime": "2019-05-28T21:24:30.679Z",
+      "ctime": "2019-05-28T21:24:30.679Z",
       "birthtime": "2019-05-23T13:15:31.243Z"
     },
     "167b3484-90f1-535d-9c34-3e982ee35868": {
@@ -1495,7 +1495,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "f93c572450eeeea66fec52c77c781bad",
+        "contentDigest": "cff1fde723f770530a55e0bba49c98bd",
         "type": "File",
         "mediaType": "application/javascript",
         "description": "File \"src/components/Banner.js\"",
@@ -1505,11 +1505,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/components/Banner.js",
       "relativePath": "components/Banner.js",
       "extension": "js",
-      "size": 220,
-      "prettySize": "220 B",
-      "modifiedTime": "2019-05-23T13:21:38.863Z",
-      "accessTime": "2019-05-28T15:07:18.256Z",
-      "changeTime": "2019-05-23T13:21:38.863Z",
+      "size": 166,
+      "prettySize": "166 B",
+      "modifiedTime": "2019-05-28T21:13:40.854Z",
+      "accessTime": "2019-05-28T21:13:37.295Z",
+      "changeTime": "2019-05-28T21:13:40.854Z",
       "birthTime": "2019-05-09T10:02:43.530Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/components",
@@ -1526,13 +1526,13 @@
       "blksize": 4096,
       "ino": 3750869,
       "blocks": 8,
-      "atimeMs": 1559056038256.0793,
-      "mtimeMs": 1558617698863.0698,
-      "ctimeMs": 1558617698863.0698,
+      "atimeMs": 1559078017294.7341,
+      "mtimeMs": 1559078020853.818,
+      "ctimeMs": 1559078020853.818,
       "birthtimeMs": 1557396163530.0952,
-      "atime": "2019-05-28T15:07:18.256Z",
-      "mtime": "2019-05-23T13:21:38.863Z",
-      "ctime": "2019-05-23T13:21:38.863Z",
+      "atime": "2019-05-28T21:13:37.295Z",
+      "mtime": "2019-05-28T21:13:40.854Z",
+      "ctime": "2019-05-28T21:13:40.854Z",
       "birthtime": "2019-05-09T10:02:43.530Z"
     },
     "75111e71-630a-5e04-8784-5963089ba444": {
@@ -2883,7 +2883,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "f230e4b30dbc376ec9ddbb6862404708",
+        "contentDigest": "7383033b91c515026cbfec53e1373ab3",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-1zh.md\"",
@@ -2896,11 +2896,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1zh.md",
       "relativePath": "pages/news/test-1zh.md",
       "extension": "md",
-      "size": 341,
-      "prettySize": "341 B",
-      "modifiedTime": "2019-05-27T16:42:52.016Z",
-      "accessTime": "2019-05-28T15:46:02.809Z",
-      "changeTime": "2019-05-28T14:19:50.230Z",
+      "size": 371,
+      "prettySize": "371 B",
+      "modifiedTime": "2019-05-28T19:31:39.295Z",
+      "accessTime": "2019-05-28T19:31:39.382Z",
+      "changeTime": "2019-05-28T19:31:39.295Z",
       "birthTime": "2019-05-27T16:42:52.015Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -2917,13 +2917,13 @@
       "blksize": 4096,
       "ino": 4890086,
       "blocks": 8,
-      "atimeMs": 1559058362808.6072,
-      "mtimeMs": 1558975372015.8772,
-      "ctimeMs": 1559053190230.1985,
+      "atimeMs": 1559071899382.2786,
+      "mtimeMs": 1559071899294.802,
+      "ctimeMs": 1559071899294.802,
       "birthtimeMs": 1558975372015.213,
-      "atime": "2019-05-28T15:46:02.809Z",
-      "mtime": "2019-05-27T16:42:52.016Z",
-      "ctime": "2019-05-28T14:19:50.230Z",
+      "atime": "2019-05-28T19:31:39.382Z",
+      "mtime": "2019-05-28T19:31:39.295Z",
+      "ctime": "2019-05-28T19:31:39.295Z",
       "birthtime": "2019-05-27T16:42:52.015Z",
       "fields": {
         "slug": "/news/test-1zh/"
@@ -2936,7 +2936,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "59d8890bc74c7d3a9bf579dc99adfcc4",
+        "contentDigest": "ff1895d6e4903fbfe1a5c27b836d55a6",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-1.en.md\"",
@@ -2949,11 +2949,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1.en.md",
       "relativePath": "pages/news/test-1.en.md",
       "extension": "md",
-      "size": 369,
-      "prettySize": "369 B",
-      "modifiedTime": "2019-05-27T16:42:52.016Z",
-      "accessTime": "2019-05-28T15:46:13.426Z",
-      "changeTime": "2019-05-28T15:46:11.614Z",
+      "size": 399,
+      "prettySize": "399 B",
+      "modifiedTime": "2019-05-28T19:31:24.998Z",
+      "accessTime": "2019-05-28T19:31:08.122Z",
+      "changeTime": "2019-05-28T19:31:24.998Z",
       "birthTime": "2019-05-27T16:42:52.016Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -2970,13 +2970,13 @@
       "blksize": 4096,
       "ino": 4890087,
       "blocks": 8,
-      "atimeMs": 1559058373426.463,
-      "mtimeMs": 1558975372016.208,
-      "ctimeMs": 1559058371613.5442,
+      "atimeMs": 1559071868122.4475,
+      "mtimeMs": 1559071884998.2026,
+      "ctimeMs": 1559071884998.2026,
       "birthtimeMs": 1558975372015.9785,
-      "atime": "2019-05-28T15:46:13.426Z",
-      "mtime": "2019-05-27T16:42:52.016Z",
-      "ctime": "2019-05-28T15:46:11.614Z",
+      "atime": "2019-05-28T19:31:08.122Z",
+      "mtime": "2019-05-28T19:31:24.998Z",
+      "ctime": "2019-05-28T19:31:24.998Z",
       "birthtime": "2019-05-27T16:42:52.016Z",
       "fields": {
         "slug": "/en/news/test-1/"
@@ -2989,7 +2989,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "1c7f64f42394a01766be79a69a776770",
+        "contentDigest": "ecb56dd4e8e4dadb74a6123399183efb",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-2zh.md\"",
@@ -3002,11 +3002,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2zh.md",
       "relativePath": "pages/news/test-2zh.md",
       "extension": "md",
-      "size": 341,
-      "prettySize": "341 B",
-      "modifiedTime": "2019-05-27T16:42:52.018Z",
-      "accessTime": "2019-05-28T15:07:05.058Z",
-      "changeTime": "2019-05-28T14:20:14.144Z",
+      "size": 371,
+      "prettySize": "371 B",
+      "modifiedTime": "2019-05-28T19:32:24.946Z",
+      "accessTime": "2019-05-28T19:31:49.244Z",
+      "changeTime": "2019-05-28T19:32:24.946Z",
       "birthTime": "2019-05-27T16:42:52.018Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -3023,13 +3023,13 @@
       "blksize": 4096,
       "ino": 4890092,
       "blocks": 8,
-      "atimeMs": 1559056025058.1433,
-      "mtimeMs": 1558975372018.3042,
-      "ctimeMs": 1559053214143.7983,
+      "atimeMs": 1559071909243.508,
+      "mtimeMs": 1559071944946.3467,
+      "ctimeMs": 1559071944946.3467,
       "birthtimeMs": 1558975372017.8594,
-      "atime": "2019-05-28T15:07:05.058Z",
-      "mtime": "2019-05-27T16:42:52.018Z",
-      "ctime": "2019-05-28T14:20:14.144Z",
+      "atime": "2019-05-28T19:31:49.244Z",
+      "mtime": "2019-05-28T19:32:24.946Z",
+      "ctime": "2019-05-28T19:32:24.946Z",
       "birthtime": "2019-05-27T16:42:52.018Z",
       "fields": {
         "slug": "/news/test-2zh/"
@@ -3042,7 +3042,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "bcf32891c15a9f500edcc89314d3f74d",
+        "contentDigest": "e297f348a74da093c49cc4405591ae8f",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-3zh.md\"",
@@ -3055,11 +3055,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3zh.md",
       "relativePath": "pages/news/test-3zh.md",
       "extension": "md",
-      "size": 338,
-      "prettySize": "338 B",
-      "modifiedTime": "2019-05-27T16:42:52.017Z",
-      "accessTime": "2019-05-28T15:07:05.058Z",
-      "changeTime": "2019-05-28T14:20:20.337Z",
+      "size": 368,
+      "prettySize": "368 B",
+      "modifiedTime": "2019-05-28T19:32:33.541Z",
+      "accessTime": "2019-05-28T19:32:30.526Z",
+      "changeTime": "2019-05-28T19:32:33.541Z",
       "birthTime": "2019-05-27T16:42:52.016Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -3076,13 +3076,13 @@
       "blksize": 4096,
       "ino": 4890088,
       "blocks": 8,
-      "atimeMs": 1559056025058.1401,
-      "mtimeMs": 1558975372016.6323,
-      "ctimeMs": 1559053220337.334,
+      "atimeMs": 1559071950526.046,
+      "mtimeMs": 1559071953541.2725,
+      "ctimeMs": 1559071953541.2725,
       "birthtimeMs": 1558975372016.3035,
-      "atime": "2019-05-28T15:07:05.058Z",
-      "mtime": "2019-05-27T16:42:52.017Z",
-      "ctime": "2019-05-28T14:20:20.337Z",
+      "atime": "2019-05-28T19:32:30.526Z",
+      "mtime": "2019-05-28T19:32:33.541Z",
+      "ctime": "2019-05-28T19:32:33.541Z",
       "birthtime": "2019-05-27T16:42:52.016Z",
       "fields": {
         "slug": "/news/test-3zh/"
@@ -3095,7 +3095,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "ccab30e6455c50fe2a91f2b4c2b1db3a",
+        "contentDigest": "795c3cbc70d17b08f4955df177915cd4",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-4zh.md\"",
@@ -3108,11 +3108,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4zh.md",
       "relativePath": "pages/news/test-4zh.md",
       "extension": "md",
-      "size": 341,
-      "prettySize": "341 B",
-      "modifiedTime": "2019-05-27T16:42:52.017Z",
-      "accessTime": "2019-05-28T15:07:05.058Z",
-      "changeTime": "2019-05-28T14:20:31.980Z",
+      "size": 371,
+      "prettySize": "371 B",
+      "modifiedTime": "2019-05-28T19:32:40.731Z",
+      "accessTime": "2019-05-28T19:32:38.157Z",
+      "changeTime": "2019-05-28T19:32:40.731Z",
       "birthTime": "2019-05-27T16:42:52.017Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -3129,13 +3129,13 @@
       "blksize": 4096,
       "ino": 4890090,
       "blocks": 8,
-      "atimeMs": 1559056025058.1497,
-      "mtimeMs": 1558975372017.311,
-      "ctimeMs": 1559053231979.868,
+      "atimeMs": 1559071958156.7075,
+      "mtimeMs": 1559071960731.1355,
+      "ctimeMs": 1559071960731.1355,
       "birthtimeMs": 1558975372017.0784,
-      "atime": "2019-05-28T15:07:05.058Z",
-      "mtime": "2019-05-27T16:42:52.017Z",
-      "ctime": "2019-05-28T14:20:31.980Z",
+      "atime": "2019-05-28T19:32:38.157Z",
+      "mtime": "2019-05-28T19:32:40.731Z",
+      "ctime": "2019-05-28T19:32:40.731Z",
       "birthtime": "2019-05-27T16:42:52.017Z",
       "fields": {
         "slug": "/news/test-4zh/"
@@ -3366,146 +3366,6 @@
       "ctime": "2019-05-09T12:08:47.070Z",
       "birthtime": "2019-05-09T12:08:46.799Z"
     },
-    "619e84e8-bef3-53fa-80aa-2a42c30fb5c5": {
-      "id": "619e84e8-bef3-53fa-80aa-2a42c30fb5c5",
-      "children": [],
-      "parent": "07d7138e-0905-5f1e-96ac-c4011808c60d",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "b47234c0c13f0da22e8282ad24561434",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "中国呢",
-        "date": "2017-08-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
-        "language": "CN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1zh.md",
-      "fields": {
-        "langKey": "zh",
-        "slug": "/news/test-1zh/"
-      }
-    },
-    "f8f2ac0b-650b-5fdc-9742-a3c92b5258af": {
-      "id": "f8f2ac0b-650b-5fdc-9742-a3c92b5258af",
-      "children": [],
-      "parent": "88f4d12c-5cd4-55fe-b9a7-01a9e119961c",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "541176c7bf851d9ab856b2db4f4fff86",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "WeCare WC Takes Off in Pudong Airport",
-        "date": "2017-08-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
-        "language": "EN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1.en.md",
-      "fields": {
-        "langKey": "en",
-        "slug": "/en/news/test-1/"
-      }
-    },
-    "f8db0892-2465-5f38-95ca-9a45fa671f9c": {
-      "id": "f8db0892-2465-5f38-95ca-9a45fa671f9c",
-      "children": [],
-      "parent": "b43c31a6-ffc3-55e8-8caa-44f86c5ce924",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "fdadb15d34757cba711f3e227c378797",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "中国呢",
-        "date": "2019-02-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
-        "language": "CN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2zh.md",
-      "fields": {
-        "langKey": "zh",
-        "slug": "/news/test-2zh/"
-      }
-    },
-    "84ed18e2-b925-59f8-bf8c-a45c5f1da9da": {
-      "id": "84ed18e2-b925-59f8-bf8c-a45c5f1da9da",
-      "children": [],
-      "parent": "4c161a11-d229-5ce8-b6ab-0d746af1f97d",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "9fe7dea957ed2b82b32760c79349b2c6",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "中文",
-        "date": "2019-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
-        "language": "CN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3zh.md",
-      "fields": {
-        "langKey": "zh",
-        "slug": "/news/test-3zh/"
-      }
-    },
-    "94278ec5-0314-5a54-88a4-0867bea375a9": {
-      "id": "94278ec5-0314-5a54-88a4-0867bea375a9",
-      "children": [],
-      "parent": "5d23c805-f78f-5687-acf6-109f5a970c3a",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "0dfc4ab86ecd89711c2a6f2028270ec0",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "中国呢",
-        "date": "2014-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
-        "language": "CN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4zh.md",
-      "fields": {
-        "langKey": "zh",
-        "slug": "/news/test-4zh/"
-      }
-    },
     "ae33e490-75d5-5f25-b3f3-1ce101e4319d": {
       "id": "ae33e490-75d5-5f25-b3f3-1ce101e4319d",
       "children": [
@@ -3513,7 +3373,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "c56d13fc9646f7fdae20f514db9a5c1a",
+        "contentDigest": "7b84d4b99c66583ae755af6e8d4fa71b",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-2.en.md\"",
@@ -3526,11 +3386,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2.en.md",
       "relativePath": "pages/news/test-2.en.md",
       "extension": "md",
-      "size": 356,
-      "prettySize": "356 B",
-      "modifiedTime": "2019-05-27T16:42:52.019Z",
-      "accessTime": "2019-05-28T15:50:49.773Z",
-      "changeTime": "2019-05-28T15:50:54.265Z",
+      "size": 386,
+      "prettySize": "386 B",
+      "modifiedTime": "2019-05-28T19:32:13.877Z",
+      "accessTime": "2019-05-28T19:32:13.969Z",
+      "changeTime": "2019-05-28T19:32:13.877Z",
       "birthTime": "2019-05-27T16:42:52.018Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -3547,43 +3407,15 @@
       "blksize": 4096,
       "ino": 4890093,
       "blocks": 8,
-      "atimeMs": 1559058649772.738,
-      "mtimeMs": 1558975372018.6506,
-      "ctimeMs": 1559058654264.9023,
+      "atimeMs": 1559071933968.5662,
+      "mtimeMs": 1559071933876.9666,
+      "ctimeMs": 1559071933876.9666,
       "birthtimeMs": 1558975372018.409,
-      "atime": "2019-05-28T15:50:49.773Z",
-      "mtime": "2019-05-27T16:42:52.019Z",
-      "ctime": "2019-05-28T15:50:54.265Z",
+      "atime": "2019-05-28T19:32:13.969Z",
+      "mtime": "2019-05-28T19:32:13.877Z",
+      "ctime": "2019-05-28T19:32:13.877Z",
       "birthtime": "2019-05-27T16:42:52.018Z",
       "fields": {
-        "slug": "/en/news/test-2/"
-      }
-    },
-    "3223ee29-cf07-527f-bf9c-425b62d8299b": {
-      "id": "3223ee29-cf07-527f-bf9c-425b62d8299b",
-      "children": [],
-      "parent": "ae33e490-75d5-5f25-b3f3-1ce101e4319d",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "a8068c388937b45e191821b97f5614d6",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "WeCare WC Goes Portable!",
-        "date": "2019-02-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
-        "language": "EN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2.en.md",
-      "fields": {
-        "langKey": "en",
         "slug": "/en/news/test-2/"
       }
     },
@@ -3594,7 +3426,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "2598e2e5ce08d234c5d22f841fb2d842",
+        "contentDigest": "7452bfcd3e03395a21fc33d8ec713217",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-3.en.md\"",
@@ -3607,11 +3439,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.en.md",
       "relativePath": "pages/news/test-3.en.md",
       "extension": "md",
-      "size": 361,
-      "prettySize": "361 B",
-      "modifiedTime": "2019-05-27T16:42:52.017Z",
-      "accessTime": "2019-05-28T15:50:55.584Z",
-      "changeTime": "2019-05-28T15:50:59.930Z",
+      "size": 391,
+      "prettySize": "391 B",
+      "modifiedTime": "2019-05-28T19:32:29.743Z",
+      "accessTime": "2019-05-28T19:32:26.215Z",
+      "changeTime": "2019-05-28T19:32:29.743Z",
       "birthTime": "2019-05-27T16:42:52.017Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -3628,43 +3460,15 @@
       "blksize": 4096,
       "ino": 4890089,
       "blocks": 8,
-      "atimeMs": 1559058655583.5974,
-      "mtimeMs": 1558975372016.9792,
-      "ctimeMs": 1559058659930.096,
+      "atimeMs": 1559071946215.256,
+      "mtimeMs": 1559071949742.6753,
+      "ctimeMs": 1559071949742.6753,
       "birthtimeMs": 1558975372016.7336,
-      "atime": "2019-05-28T15:50:55.584Z",
-      "mtime": "2019-05-27T16:42:52.017Z",
-      "ctime": "2019-05-28T15:50:59.930Z",
+      "atime": "2019-05-28T19:32:26.215Z",
+      "mtime": "2019-05-28T19:32:29.743Z",
+      "ctime": "2019-05-28T19:32:29.743Z",
       "birthtime": "2019-05-27T16:42:52.017Z",
       "fields": {
-        "slug": "/en/news/test-3/"
-      }
-    },
-    "c058c0fe-67c6-5e35-a368-0b35fae3f05b": {
-      "id": "c058c0fe-67c6-5e35-a368-0b35fae3f05b",
-      "children": [],
-      "parent": "1a28e704-49c5-5b16-b782-a7644a79f7c0",
-      "internal": {
-        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-        "type": "MarkdownRemark",
-        "contentDigest": "5f597b56c1a0b0340e08863846ca9f10",
-        "owner": "gatsby-transformer-remark",
-        "fieldOwners": {
-          "langKey": "gatsby-plugin-i18n",
-          "slug": "gatsby-plugin-i18n"
-        }
-      },
-      "frontmatter": {
-        "title": "The Queen of Public Restrooms",
-        "date": "2019-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
-        "language": "EN"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
-      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.en.md",
-      "fields": {
-        "langKey": "en",
         "slug": "/en/news/test-3/"
       }
     },
@@ -3675,7 +3479,7 @@
       ],
       "parent": null,
       "internal": {
-        "contentDigest": "1f6ef6346326de71dc0c2b5b9f7093f4",
+        "contentDigest": "f73af2ab2d3bd43f63ac236c3410220b",
         "type": "File",
         "mediaType": "text/markdown",
         "description": "File \"src/pages/news/test-4.en.md\"",
@@ -3688,11 +3492,11 @@
       "absolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4.en.md",
       "relativePath": "pages/news/test-4.en.md",
       "extension": "md",
-      "size": 335,
-      "prettySize": "335 B",
-      "modifiedTime": "2019-05-27T16:42:52.018Z",
-      "accessTime": "2019-05-28T15:51:00.956Z",
-      "changeTime": "2019-05-28T15:51:04.836Z",
+      "size": 365,
+      "prettySize": "365 B",
+      "modifiedTime": "2019-05-28T19:32:37.501Z",
+      "accessTime": "2019-05-28T19:32:34.225Z",
+      "changeTime": "2019-05-28T19:32:37.501Z",
       "birthTime": "2019-05-27T16:42:52.017Z",
       "root": "/",
       "dir": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news",
@@ -3709,16 +3513,184 @@
       "blksize": 4096,
       "ino": 4890091,
       "blocks": 8,
-      "atimeMs": 1559058660955.6477,
-      "mtimeMs": 1558975372017.6685,
-      "ctimeMs": 1559058664836.3074,
+      "atimeMs": 1559071954224.5955,
+      "mtimeMs": 1559071957501.024,
+      "ctimeMs": 1559071957501.024,
       "birthtimeMs": 1558975372017.4048,
-      "atime": "2019-05-28T15:51:00.956Z",
-      "mtime": "2019-05-27T16:42:52.018Z",
-      "ctime": "2019-05-28T15:51:04.836Z",
+      "atime": "2019-05-28T19:32:34.225Z",
+      "mtime": "2019-05-28T19:32:37.501Z",
+      "ctime": "2019-05-28T19:32:37.501Z",
       "birthtime": "2019-05-27T16:42:52.017Z",
       "fields": {
         "slug": "/en/news/test-4/"
+      }
+    },
+    "f8f2ac0b-650b-5fdc-9742-a3c92b5258af": {
+      "id": "f8f2ac0b-650b-5fdc-9742-a3c92b5258af",
+      "children": [],
+      "parent": "88f4d12c-5cd4-55fe-b9a7-01a9e119961c",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "3b1894a25bf06e5255c11b468277364e",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "WeCare WC Takes Off in Pudong Airport",
+        "date": "2017-08-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1.en.md",
+      "fields": {
+        "langKey": "en",
+        "slug": "/en/news/test-1/"
+      }
+    },
+    "619e84e8-bef3-53fa-80aa-2a42c30fb5c5": {
+      "id": "619e84e8-bef3-53fa-80aa-2a42c30fb5c5",
+      "children": [],
+      "parent": "07d7138e-0905-5f1e-96ac-c4011808c60d",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "337bad11bf784ef52698cd7cbd45b85f",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "中国呢",
+        "date": "2017-08-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "language": "CN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-1zh.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-1zh/"
+      }
+    },
+    "3223ee29-cf07-527f-bf9c-425b62d8299b": {
+      "id": "3223ee29-cf07-527f-bf9c-425b62d8299b",
+      "children": [],
+      "parent": "ae33e490-75d5-5f25-b3f3-1ce101e4319d",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "6ced12160b49bf2b36d35eeb630531f3",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "WeCare WC Goes Portable!",
+        "date": "2019-02-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2.en.md",
+      "fields": {
+        "langKey": "en",
+        "slug": "/en/news/test-2/"
+      }
+    },
+    "f8db0892-2465-5f38-95ca-9a45fa671f9c": {
+      "id": "f8db0892-2465-5f38-95ca-9a45fa671f9c",
+      "children": [],
+      "parent": "b43c31a6-ffc3-55e8-8caa-44f86c5ce924",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "6b64f566472883fadf68240dfb9c5770",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "中国呢",
+        "date": "2019-02-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "language": "CN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-2zh.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-2zh/"
+      }
+    },
+    "c058c0fe-67c6-5e35-a368-0b35fae3f05b": {
+      "id": "c058c0fe-67c6-5e35-a368-0b35fae3f05b",
+      "children": [],
+      "parent": "1a28e704-49c5-5b16-b782-a7644a79f7c0",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "0e3c86c63e07a957c5eee0ef9c61f75f",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "The Queen of Public Restrooms",
+        "date": "2019-05-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "language": "EN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3.en.md",
+      "fields": {
+        "langKey": "en",
+        "slug": "/en/news/test-3/"
+      }
+    },
+    "84ed18e2-b925-59f8-bf8c-a45c5f1da9da": {
+      "id": "84ed18e2-b925-59f8-bf8c-a45c5f1da9da",
+      "children": [],
+      "parent": "4c161a11-d229-5ce8-b6ab-0d746af1f97d",
+      "internal": {
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "33f181292bcbe5e94bfaf19c75dd6b33",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "中文",
+        "date": "2019-05-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "language": "CN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-3zh.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-3zh/"
       }
     },
     "e89d9440-e758-5ada-979e-7dcdaa1d2b0c": {
@@ -3728,7 +3700,7 @@
       "internal": {
         "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
         "type": "MarkdownRemark",
-        "contentDigest": "ba7bef7b178b14aa04a6d03080912ea3",
+        "contentDigest": "53b28455349f5646f79a0c546cc77e24",
         "owner": "gatsby-transformer-remark",
         "fieldOwners": {
           "langKey": "gatsby-plugin-i18n",
@@ -3738,7 +3710,7 @@
       "frontmatter": {
         "title": "Old",
         "date": "2014-05-10",
-        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1557163617/unnamed_bli2tp.jpg",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
         "language": "EN"
       },
       "excerpt": "",
@@ -3749,26 +3721,32 @@
         "slug": "/en/news/test-4/"
       }
     },
-    "SitePage /news/test-1zh/": {
-      "jsonName": "news-test-1-zh-9a0",
-      "internalComponentName": "ComponentNewsTest1Zh",
-      "path": "/news/test-1zh/",
-      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/news/test-1zh/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /news/test-1zh/",
-      "parent": null,
+    "94278ec5-0314-5a54-88a4-0867bea375a9": {
+      "id": "94278ec5-0314-5a54-88a4-0867bea375a9",
       "children": [],
+      "parent": "5d23c805-f78f-5687-acf6-109f5a970c3a",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "91e58f85b3687904e820279fdc3688e3",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
+        "content": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+        "type": "MarkdownRemark",
+        "contentDigest": "85050d1f7eea18edcdd8a9acfdf42e71",
+        "owner": "gatsby-transformer-remark",
+        "fieldOwners": {
+          "langKey": "gatsby-plugin-i18n",
+          "slug": "gatsby-plugin-i18n"
+        }
+      },
+      "frontmatter": {
+        "title": "中国呢",
+        "date": "2014-05-10",
+        "photo": "https://res.cloudinary.com/dofuzeof4/image/upload/v1538411005/The%20Hopeless%20Roamantic/xinjiang/zhua-fan.jpg",
+        "language": "CN"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "\nPandas are really sweet.\n\nHere's a video of a panda eating sweets.\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4n0xNbfJLR8\" frameborder=\"0\" allowfullscreen></iframe>\n",
+      "fileAbsolutePath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/pages/news/test-4zh.md",
+      "fields": {
+        "langKey": "zh",
+        "slug": "/news/test-4zh/"
       }
     },
     "SitePage /en/news/test-1/": {
@@ -3793,68 +3771,24 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /news/test-2zh/": {
-      "jsonName": "news-test-2-zh-69c",
-      "internalComponentName": "ComponentNewsTest2Zh",
-      "path": "/news/test-2zh/",
+    "SitePage /news/test-1zh/": {
+      "jsonName": "news-test-1-zh-9a0",
+      "internalComponentName": "ComponentNewsTest1Zh",
+      "path": "/news/test-1zh/",
       "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
       "componentChunkName": "component---src-templates-blog-post-js",
       "context": {
-        "slug": "/news/test-2zh/"
+        "slug": "/news/test-1zh/"
       },
       "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /news/test-2zh/",
+      "id": "SitePage /news/test-1zh/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e99bc795f379a700fbb44f43094cfd25",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /news/test-3zh/": {
-      "jsonName": "news-test-3-zh-599",
-      "internalComponentName": "ComponentNewsTest3Zh",
-      "path": "/news/test-3zh/",
-      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/news/test-3zh/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /news/test-3zh/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f631c951428aa62ece7527c0032d01c5",
-        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /news/test-4zh/": {
-      "jsonName": "news-test-4-zh-836",
-      "internalComponentName": "ComponentNewsTest4Zh",
-      "path": "/news/test-4zh/",
-      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {
-        "slug": "/news/test-4zh/"
-      },
-      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
-      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
-      "id": "SitePage /news/test-4zh/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bc51bf5460c19b8ac83244d6fabbb3a3",
+        "contentDigest": "91e58f85b3687904e820279fdc3688e3",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -3881,6 +3815,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /news/test-2zh/": {
+      "jsonName": "news-test-2-zh-69c",
+      "internalComponentName": "ComponentNewsTest2Zh",
+      "path": "/news/test-2zh/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/news/test-2zh/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
+      "id": "SitePage /news/test-2zh/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e99bc795f379a700fbb44f43094cfd25",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /en/news/test-3/": {
       "jsonName": "en-news-test-3-f06",
       "internalComponentName": "ComponentEnNewsTest3",
@@ -3903,6 +3859,28 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /news/test-3zh/": {
+      "jsonName": "news-test-3-zh-599",
+      "internalComponentName": "ComponentNewsTest3Zh",
+      "path": "/news/test-3zh/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/news/test-3zh/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
+      "id": "SitePage /news/test-3zh/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f631c951428aa62ece7527c0032d01c5",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /en/news/test-4/": {
       "jsonName": "en-news-test-4-e6c",
       "internalComponentName": "ComponentEnNewsTest4",
@@ -3921,6 +3899,28 @@
       "internal": {
         "type": "SitePage",
         "contentDigest": "e420656186d965a5934b075823d76e6b",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /news/test-4zh/": {
+      "jsonName": "news-test-4-zh-836",
+      "internalComponentName": "ComponentNewsTest4Zh",
+      "path": "/news/test-4zh/",
+      "component": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {
+        "slug": "/news/test-4zh/"
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/ryankretch/Documents/Coding Stuff/wc/src/templates/blog-post.js",
+      "id": "SitePage /news/test-4zh/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "bc51bf5460c19b8ac83244d6fabbb3a3",
         "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
         "owner": "internal-data-bridge"
       }
@@ -4134,8 +4134,8 @@
       "MarkdownRemark": [
         null,
         null,
-        "sq--src-pages-index-en-js",
-        "sq--src-pages-index-zh-js"
+        "sq--src-pages-index-zh-js",
+        "sq--src-pages-index-en-js"
       ],
       "File": [
         "/my-files/"
@@ -4151,7 +4151,7 @@
     "en-page-2-065": "59/path---en-page-2-065-ac0-4xRSeOifC7Lu2rz5EVCuhBhW8A",
     "page-2-fbc": "439/path---page-2-fbc-5a8-Gpjp0PvIfeRtzAXUjU5RFSRxRdY",
     "404-html-516": "104/path---404-html-516-62a-ZNpXRWbCmk1qYofocrzTyxW3Q",
-    "my-files-317": "39/path---my-files-317-4c7-dp86fNDxoOMfVk8R11xn4C5oLy4",
+    "my-files-317": "791/path---my-files-317-4c7-UAWZpBNn7M6imcbkYzflI7ll6s",
     "sq--src-pages-index-en-js": 3613798577,
     "sq--src-pages-index-zh-js": 2646899241,
     "news-test-1-zh-9a0": "162/path---news-test-1-zh-9-a-0-5a9-A2BtGyfSakbba1yleWv6wo7I6QY",
