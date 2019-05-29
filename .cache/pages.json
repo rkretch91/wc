@@ -25,6 +25,26 @@
         "path": "/en/"
     },
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "en-news-test-1-676",
+        "path": "/en/news/test-1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "en-news-test-2-a4f",
+        "path": "/en/news/test-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "en-news-test-3-f06",
+        "path": "/en/news/test-3/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "en-news-test-4-e6c",
+        "path": "/en/news/test-4/"
+    },
+    {
         "componentChunkName": "component---src-pages-page-2-en-js",
         "jsonName": "en-page-2-065",
         "path": "/en/page-2/"
@@ -33,6 +53,26 @@
         "componentChunkName": "component---src-pages-my-files-js",
         "jsonName": "my-files-317",
         "path": "/my-files/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "news-test-1-zh-9a0",
+        "path": "/news/test-1zh/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "news-test-2-zh-69c",
+        "path": "/news/test-2zh/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "news-test-3-zh-599",
+        "path": "/news/test-3zh/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "news-test-4-zh-836",
+        "path": "/news/test-4zh/"
     },
     {
         "componentChunkName": "component---src-pages-page-2-zh-js",
