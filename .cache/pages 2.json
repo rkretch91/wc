@@ -1,0 +1,82 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-zh-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "jsonName": "dev-404-page-5f9",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-en-js",
+        "jsonName": "en-310",
+        "path": "/en/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "en-news-we-care-wc-lands-in-peoples-square-f19",
+        "path": "/en/news/WeCare-WC-Lands-in-Peoples-Square/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "en-news-the-queen-of-public-restrooms-xtd-plaza-a4a",
+        "path": "/en/news/the-queen-of-public-restrooms-xtd-plaza/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "en-news-wecare-wc-goes-portable-b2b",
+        "path": "/en/news/wecare-wc-goes-portable/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "en-news-wecare-wc-takes-off-in-pudong-airport-1b6",
+        "path": "/en/news/wecare-wc-takes-off-in-pudong-airport/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-en-js",
+        "jsonName": "en-page-2-065",
+        "path": "/en/page-2/"
+    },
+    {
+        "componentChunkName": "component---src-pages-my-files-js",
+        "jsonName": "my-files-317",
+        "path": "/my-files/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "news-we-care-wc落地上海人民广场景区-405",
+        "path": "/news/WeCare-WC落地上海人民广场景区/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "news-wecare-wc移动卫生间解决方案-a67",
+        "path": "/news/wecare-wc移动卫生间解决方案/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "news-公共卫生间之女王-d06",
+        "path": "/news/公共卫生间之女王/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "news-喜迎进博会-we-care-wc浦东国际机场项目完成-52f",
+        "path": "/news/喜迎进博会WeCare-WC浦东国际机场项目完成/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-zh-js",
+        "jsonName": "page-2-fbc",
+        "path": "/page-2/"
+    }
+]
