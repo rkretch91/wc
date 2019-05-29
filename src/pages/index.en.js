@@ -1,6 +1,5 @@
 import React from 'react'
-import Link from 'gatsby-link'
-import { graphql, StaticQuery } from "gatsby"
+import { graphql, StaticQuery, Link } from "gatsby"
 import Layout from "../layouts/en"
 import Banner from "../components/Banner"
 import Mapbox from "../components/Map"
@@ -33,7 +32,10 @@ const IndexPage = (props) => (
               photo
               language
             }
-            excerpt
+            fields {
+            slug
+            }
+            excerpt(pruneLength: 100)
             timeToRead
             html
           }
@@ -96,9 +98,13 @@ const IndexPage = (props) => (
           if (node.frontmatter.language == "EN") {
           return(
           <div className="column has-text-left spacing" key={node.id}>
-            <div className="blog-img" style={{ backgroundImage: `url(\'${node.frontmatter.photo}\')`}}/>
-            <span><h5>{node.frontmatter.title}{" "}</h5></span>
-            <span><p>{node.excerpt}</p></span>
+            <Link
+              to={node.fields.slug}
+            >
+              <div className="blog-img" style={{ backgroundImage: `url(\'${node.frontmatter.photo}\')`}}/>
+              <span><h5>{node.frontmatter.title}{" "}</h5></span>
+              <span><p>{node.excerpt}</p></span>
+            </Link>
           </div>
           )
         }})}

@@ -35,7 +35,7 @@ const IndexPage = (props) => (
             fields {
             slug
             }
-            excerpt(pruneLength: 150)
+            excerpt(pruneLength: 100)
             timeToRead
             html
 
