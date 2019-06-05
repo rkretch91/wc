@@ -25,7 +25,7 @@ class Footer extends React.Component {
                 <a href="#"><p>About Us</p></a>
                 <a href="#"><p>Location</p></a>
                 <a href="#"><p>Partners</p></a>
-                <a href="#"><p>News</p></a>
+                <Link to="/en/news/"><p>News</p></Link>
                 <a href="#"><p>Impact</p></a>
                 <a href="#"><p>Careers</p></a>
               </div>

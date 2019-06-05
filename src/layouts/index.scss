@@ -680,6 +680,7 @@ pre tt:after {
 .nav-menu a {
   text-decoration: none;
   color: white;
+  font-size: 15px;
 }
 
 .nav-menu a:hover {
@@ -721,7 +722,7 @@ pre tt:after {
 .banner {
   background-image: url('../images/pudong-family-room.jpg');
   height: 100vh;
-  background-size: cover;
+  background-size: cover !important;
   text-align: center;
   display: flex;
   align-items: center;
@@ -973,19 +974,27 @@ pre tt:after {
 .copyright p {
   color: #526C78;
   font-size: 13px;
+  margin-bottom: 0 !important;
 }
 
 /*blog*/
 
 .blog-banner {
   height: 75vh;
-  background-size: cover;
+  background-size: cover !important;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
   max-width: 100%;
   box-shadow: .5px .5px 6px 0px rgba(0,0,0,0.44) !important;
+  h1 {
+    color: white;
+  }
+}
+
+#small-banner {
+  height: 50vh;
 }
 
 .blog-post h1 {

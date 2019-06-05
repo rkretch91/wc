@@ -8,7 +8,6 @@ import Who from '../images/who-icon.png'
 import What from '../images/what-icon.png'
 import Where from '../images/where-icon.png'
 import Why from '../images/why-icon.png'
-import Test from '../images/test.jpg'
 
 import Ellai from '../images/logos/ellai.png'
 import Blueair from '../images/logos/blueair.png'
