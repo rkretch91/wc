@@ -34,7 +34,7 @@ class Header extends React.Component {
             <a href="#">About Us</a>
             <a href="#">Locations</a>
             <a href="#">Partners</a>
-            <a href="#">News</a>
+            <Link to="/en/news/">News</Link>
             <a href="#">Impact</a>
             <button className="button"><a href="#">Get In Touch</a></button>
           </React.Fragment>
@@ -45,7 +45,7 @@ class Header extends React.Component {
             <a href="#">关于我们</a>
             <a href="#">地址</a>
             <a href="#">合作公司</a>
-            <a href="#">新闻</a>
+            <Link to="/news/">新闻</Link>
             <a href="#">社会</a>
             <button className="button"><a href="#">联系我们</a></button>
           </React.Fragment>
