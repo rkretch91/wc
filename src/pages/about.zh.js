@@ -24,7 +24,7 @@ import Icon14 from '../images/icons/restroom-type-06.svg'
 import Sinopec from '../images/wecarewc-sinopec-ads.jpg'
 
 
-const SecondPage = (props) => (
+const About = (props) => (
   <Layout location={props.location}>
     <div className="blog-banner" style={{background: ` linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(${Stalls})`}}>
       <h1>关于我们</h1>
@@ -110,4 +110,4 @@ const SecondPage = (props) => (
   </Layout>
 )
 
-export default SecondPage
+export default About
