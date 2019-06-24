@@ -980,7 +980,7 @@ pre tt:after {
 /*blog*/
 
 .blog-banner {
-  height: 75vh;
+  height: 60vh;
   background-size: cover !important;
   text-align: center;
   display: flex;
@@ -990,6 +990,7 @@ pre tt:after {
   box-shadow: .5px .5px 6px 0px rgba(0,0,0,0.44) !important;
   h1 {
     color: white;
+    padding-top: 30px;
   }
 }
 
@@ -1026,3 +1027,54 @@ pre tt:after {
   margin: 4rem auto;
   word-wrap: break-word;
 }
+
+
+// About Page
+
+.about-wrap {
+  width: 70%;
+  margin: 0 auto;
+  padding: 6rem 0;
+  h1 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 21px;
+    padding-bottom: 10px;
+  }
+  h2 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  p {
+    color: #526C78;
+    font-size: 13px;
+  }
+  img {
+    height: 99px;
+  }
+}
+
+
+.parallax {
+  /* The image used */
+  background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("../images/wecarewc-sinopec-ads.jpg");
+
+  /* Set a specific height */
+  height: 50vh;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#about-button1 {
+  background-color: #677e8a !important;
+  font-size: 13px !important;
+  font-weight: normal;
+  z-index: 1;
+}
+
