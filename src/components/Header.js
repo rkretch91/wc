@@ -31,7 +31,7 @@ class Header extends React.Component {
       if (this.props.langs[0].selected) {
         return(
           <React.Fragment>
-            <a href="#">About Us</a>
+            <Link to="/en/about/">About Us</Link>
             <a href="#">Locations</a>
             <a href="#">Partners</a>
             <Link to="/en/news/">News</Link>
@@ -42,7 +42,7 @@ class Header extends React.Component {
       } else {
         return(
           <React.Fragment>
-            <a href="#">关于我们</a>
+            <Link to="/about/">关于我们</Link>
             <a href="#">地址</a>
             <a href="#">合作公司</a>
             <Link to="/news/">新闻</Link>
