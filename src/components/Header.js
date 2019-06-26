@@ -14,6 +14,7 @@ class Header extends React.Component {
   }
 
 
+
     //This opens the navbar dropdown
     navbarOpenDropdown = () => {
       this.setState({
@@ -80,10 +81,10 @@ class Header extends React.Component {
       if (this.props.langs[0].selected) {
         return(
           <React.Fragment>
-            <a href="#" className="dropdown-item">About Us</a>
+             <Link to="/en/about/" className="dropdown-item">About Us</Link>
             <a href="#" className="dropdown-item">Locations</a>
             <a href="#" className="dropdown-item">Partners</a>
-            <a href="#" className="dropdown-item">News</a>
+            <Link to="/en/news/" className="dropdown-item">News</Link>
             <a href="#" className="dropdown-item">Impact</a>
             <a href="#" className="dropdown-item">Get In Touch</a>
           </React.Fragment>
@@ -91,10 +92,10 @@ class Header extends React.Component {
       } else {
         return(
           <React.Fragment>
-            <a href="#" className="dropdown-item">关于我们</a>
+            <Link to="/about/" className="dropdown-item">关于我们</Link>
             <a href="#" className="dropdown-item">地址</a>
             <a href="#" className="dropdown-item">合作公司</a>
-            <a href="#" className="dropdown-item">新闻</a>
+            <Link to="/news/" className="dropdown-item">新闻</Link>
             <a href="#" className="dropdown-item">社会</a>
             <a href="#" className="dropdown-item">联系我们</a>
           </React.Fragment>
@@ -125,10 +126,8 @@ class Header extends React.Component {
         <div className="nav-menu is-hidden-touch">{this.languageCheck()}</div>
 
         <div className={this.state.navbarIsActive}
-                        onTouchStart={this.navbarOpenDropdown}
-                        onTouchEnd={this.navbarCloseDropdown}
-                        onMouseEnter={this.navbarOpenDropdown}
-                        onMouseLeave={this.navbarCloseDropdown}>
+                        onClick={this.state.navbarIsActive == "navbar-item dropdown is-active is-hidden-desktop" ? this.navbarCloseDropdown : this.navbarOpenDropdown }
+                        onBlur={this.navbarCloseDropdown}>
           <div className="dropdown-trigger">
             <img className="hamburger" src={Hamburger} aria-haspopup="true" aria-controls="dropdown-menu"/>
           </div>
