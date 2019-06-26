@@ -4,14 +4,25 @@ import Link from 'gatsby-link';
 import { FormattedMessage } from 'react-intl';
 
 const SelectLanguage = (props) => {
+  const languageToggle = (lang) => {
+    if (lang.selected == false) {
+      if (lang.langKey == "zh") {
+        let language = "中文"
+        return language
+      }
+      return lang.langKey
+    }
+  }
+
   const links = props.langs.map(lang =>
     <Link to={lang.link} key={lang.langKey} style={{
       color: 'white'
     }}>
       <li className="language-selector" selected={lang.selected}>
-        {lang.langKey}
+        {languageToggle(lang)}
       </li>
     </Link>
+
   );
 
   return (

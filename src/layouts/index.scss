@@ -687,20 +687,25 @@ pre tt:after {
   color: #EDEBEB
 }
 
-.hamburger {
-    top: 55px;
-    right: 20px;
+.language-selector{
     position: relative;
-    display: inline-block;
-    width: 1.25em;
-    height: 0.8em;
-    margin-right: 0.3em;
-    border-top: 0.3em solid #fff;
-    border-bottom: 0.3em solid #fff;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    flex: 500px;
+    top: 55px;
+    right: 35px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+@media only screen and (min-width: 1088px) {
+  .language-selector {
+    top: 46px;
+    right: 15px;
+  }
+}
+
+.hamburger {
+  width: 50px;
+  position: relative;
+  top: 48px;
 }
 
 .dropdown-menu.dropdown-right { left: calc(-250% + 4px); }

@@ -3,6 +3,7 @@ import Link from 'gatsby-link'
 import SelectLanguage from './SelectLanguage'
 import WecareLogo from '../images/wecarewc-logo-white.png'
 import classnames from "classnames";
+import Hamburger from "../images/icons/noun_menu_1117664.svg"
 
 class Header extends React.Component {
   state = {
@@ -124,10 +125,12 @@ class Header extends React.Component {
         <div className="nav-menu is-hidden-touch">{this.languageCheck()}</div>
 
         <div className={this.state.navbarIsActive}
+                        onTouchStart={this.navbarOpenDropdown}
+                        onTouchEnd={this.navbarCloseDropdown}
                         onMouseEnter={this.navbarOpenDropdown}
                         onMouseLeave={this.navbarCloseDropdown}>
           <div className="dropdown-trigger">
-            <span className="hamburger" aria-haspopup="true" aria-controls="dropdown-menu"></span>
+            <img className="hamburger" src={Hamburger} aria-haspopup="true" aria-controls="dropdown-menu"/>
           </div>
           <div className="dropdown-menu dropdown-right" id="dropdown-menu" role="menu">
             <div className="dropdown-content">
