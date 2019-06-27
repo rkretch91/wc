@@ -2,6 +2,13 @@ import React from 'react'
 import mapboxgl from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 
+import Icon9 from '../images/icons/restroom-type-01.svg'
+import Icon10 from '../images/icons/restroom-type-02.svg'
+import Icon11 from '../images/icons/restroom-type-03.svg'
+import Icon12 from '../images/icons/restroom-type-04.svg'
+import Icon13 from '../images/icons/restroom-type-05.svg'
+import Icon14 from '../images/icons/restroom-type-06.svg'
+
 class Mapbox extends React.Component {
   createMap() {
     const zoom = 12
@@ -61,7 +68,8 @@ class Mapbox extends React.Component {
             chinesetitle: 'K11',
             chinesetype: '商场',
             chinesetags: ['Men\'s Room', 'Women\'s Room', 'Women\'s Room', 'Nursing Room', 'Family Room'],
-            chineseaddress: '上海市徐汇区淮海路东段淮海中路300号'
+            chineseaddress: '上海市徐汇区淮海路东段淮海中路300号',
+            rooms: [Icon9, Icon10, Icon11]
 
           }
         }, {
@@ -79,7 +87,8 @@ class Mapbox extends React.Component {
             chinesetitle: '新天地广场',
             chinesetype: '商场',
             chinesetags: ['Women\'s Room', 'Nursing Room', 'Women\'s Changing Room'],
-            chineseaddress: '上海市徐汇区淮海中路333号'
+            chineseaddress: '上海市徐汇区淮海中路333号',
+            rooms: [Icon9, Icon10]
 
           }
         },
@@ -98,8 +107,8 @@ class Mapbox extends React.Component {
             chinesetitle: '上海浦东国际机场',
             chinesetype: '机场',
             chinesetags: ['Accessible Room', 'Family Room'],
-            chineseaddress: '迎宾大道6000号'
-
+            chineseaddress: '迎宾大道6000号',
+            rooms: ['https://res.cloudinary.com/wecare-wc/image/upload/v1559134764/XTD%20Plaza/XTD-Plaza-Entrance.jpg']
           }
         },
         {
@@ -117,8 +126,8 @@ class Mapbox extends React.Component {
             chinesetitle: '上海虹桥国际机场',
             chinesetype: '机场',
             chinesetags: ['Nursing Room'],
-            chineseaddress: '虹桥路2550号'
-
+            chineseaddress: '虹桥路2550号',
+            rooms: [Icon9, Icon10]
           }
         },
         {
@@ -136,8 +145,8 @@ class Mapbox extends React.Component {
             chinesetitle: '丁香国际商业中心',
             chinesetype: '商场',
             chinesetags: ['Unisex Room', 'Family Room', 'Powder Room', 'Accessible Room'],
-            chineseaddress: '上海市浦东新区丁香路858弄'
-
+            chineseaddress: '上海市浦东新区丁香路858弄',
+            rooms: [Icon9, Icon10]
           }
         }]
       };
@@ -148,11 +157,24 @@ class Mapbox extends React.Component {
         var el = document.createElement('div');
         el.className = 'marker';
 
+        const roomType = () => {
+          let images = ''
+          marker.properties.rooms.forEach((room) => {
+            let image = `<img src='${room}'/>`
+            images += image
+            console.log(images)
+          })
+          return images
+        }
+
+
+
+
         // make a marker for each feature and add to the map
         new mapboxgl.Marker(el)
           .setLngLat(marker.geometry.coordinates)
           .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
-          .setHTML('<h3><strong>' + marker.properties.title + '</strong></h3><p>' + marker.properties.type + '</p>'))
+          .setHTML(`<h3><strong>${marker.properties.title}</strong></h3><p>${marker.properties.type}</p>${roomType()}`))
           .addTo(map);
       });
     })

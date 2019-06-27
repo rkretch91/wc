@@ -1085,3 +1085,24 @@ pre tt:after {
   z-index: 1;
 }
 
+
+//map
+
+.mapboxgl-control-container {
+  width: 200px !important;
+}
+
+.mapboxgl-popup-content {
+  h3 {
+    margin-bottom: 0 !important;
+    font-size: 15px;
+  }
+  img {
+    width: 55px !important;
+    margin-bottom: 0 !important;
+  }
+  p {
+    margin-bottom: 0.5rem !important;
+  }
+}
+
