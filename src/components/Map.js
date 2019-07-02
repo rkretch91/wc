@@ -2,12 +2,14 @@ import React from 'react'
 import mapboxgl from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 
-import Icon9 from '../images/icons/restroom-type-01.svg'
-import Icon10 from '../images/icons/restroom-type-02.svg'
-import Icon11 from '../images/icons/restroom-type-03.svg'
-import Icon12 from '../images/icons/restroom-type-04.svg'
-import Icon13 from '../images/icons/restroom-type-05.svg'
-import Icon14 from '../images/icons/restroom-type-06.svg'
+import Unisex from '../images/icons/restroom-type-01.svg'
+import Family from '../images/icons/restroom-type-02.svg'
+import Accessible from '../images/icons/restroom-type-03.svg'
+import Powder from '../images/icons/restroom-type-04.svg'
+import Nursing from '../images/icons/restroom-type-05.svg'
+import Moms from '../images/icons/restroom-type-06.svg'
+import Female from '../images/icons/restroom-type-07.svg'
+import Male from '../images/icons/restroom-type-08.svg'
 
 class Mapbox extends React.Component {
   createMap() {
@@ -18,7 +20,7 @@ class Mapbox extends React.Component {
       center: coordinates,
       container: 'map',
       style: 'mapbox://styles/rkretch91/cjbrc6uk7041x2sqprzaabu5s',
-      zoom: 10,
+      zoom: 9,
     })
     map.scrollZoom.disable()
 
@@ -63,13 +65,11 @@ class Mapbox extends React.Component {
             title: 'K11',
             description: 'Shopping Mall in Shanghai',
             type: 'Shopping Mall',
-            tags: ['Men\'s Room', 'Women\'s Room', 'Women\'s Room', 'Nursing Room', 'Family Room'],
             address: '300 Huai Hai Zhong Lu, Huai Hai Lu Dong Duan, Xuhui, Shanghai Shi, China, 200333',
             chinesetitle: 'K11',
             chinesetype: '商场',
-            chinesetags: ['Men\'s Room', 'Women\'s Room', 'Women\'s Room', 'Nursing Room', 'Family Room'],
             chineseaddress: '上海市徐汇区淮海路东段淮海中路300号',
-            rooms: [Icon9, Icon10, Icon11]
+            rooms: [Female, Male, Nursing, Family]
 
           }
         }, {
@@ -82,13 +82,11 @@ class Mapbox extends React.Component {
             title: 'XTD Plaza',
             description: 'Shopping Mall in Shanghai',
             type: 'Shopping Mall',
-            tags: ['Women\'s Room', 'Nursing Room', 'Women\'s Changing Room'],
             address: '333 Huai hai Zhong Rd, Huai Hai Lu Dong Duan, Xuhui, Shanghai Shi, China, 200333',
             chinesetitle: '新天地广场',
             chinesetype: '商场',
-            chinesetags: ['Women\'s Room', 'Nursing Room', 'Women\'s Changing Room'],
             chineseaddress: '上海市徐汇区淮海中路333号',
-            rooms: [Icon9, Icon10]
+            rooms: [Female, Nursing]
 
           }
         },
@@ -102,13 +100,45 @@ class Mapbox extends React.Component {
             title: 'Shanghai Pudong International Airport',
             description: 'International Airport in Shanghai',
             type: 'Airport',
-            tags: ['Accessible Room', 'Family Room'],
             address: 'S1 Yingbin Expy, Pudong Xinqu, Shanghai Shi, China',
             chinesetitle: '上海浦东国际机场',
             chinesetype: '机场',
-            chinesetags: ['Accessible Room', 'Family Room'],
             chineseaddress: '迎宾大道6000号',
-            rooms: ['https://res.cloudinary.com/wecare-wc/image/upload/v1559134764/XTD%20Plaza/XTD-Plaza-Entrance.jpg']
+            rooms: [Accessible, Family]
+          }
+        },
+        {
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [121.569541, 31.225983]
+          },
+          properties: {
+            title: 'Sinopec, Jinxiu Road',
+            description: 'World-famous gas station in China',
+            type: 'Gas Station',
+            address: ' No.11 Jinxiu Road (near the Inner ring elevated road), Pudong District, Shanghai',
+            chinesetitle: '中国石化加油站（锦绣路）',
+            chinesetype: '加油站',
+            chineseaddress: '上海浦东新区锦绣路11号',
+            rooms: [Male, Female]
+          }
+        },
+        {
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [121.414515, 31.187487]
+          },
+          properties: {
+            title: 'CNPC, Wuzhong Road',
+            description: 'World-famous gas station in China',
+            type: 'Gas Station',
+            address: 'Wuzhong Road, Minhang, Shanghai',
+            chinesetitle: '中国石油加油站（吴中路）',
+            chinesetype: '加油站',
+            chineseaddress: '上海市徐汇区吴中路',
+            rooms: [Male, Female]
           }
         },
         {
@@ -121,13 +151,45 @@ class Mapbox extends React.Component {
             title: 'Shanghai Hongqiao International Airport',
             description: 'International Airport in Shanghai',
             type: 'Airport',
-            tags: ['Nursing Room'],
             address: '2550 Hongqiao Rd, Changning, China, 201105',
             chinesetitle: '上海虹桥国际机场',
             chinesetype: '机场',
-            chinesetags: ['Nursing Room'],
             chineseaddress: '虹桥路2550号',
-            rooms: [Icon9, Icon10]
+            rooms: [Nursing]
+          }
+        },
+        {
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [120.152393, 30.187239]
+          },
+          properties: {
+            title: 'Intime Hangzhou',
+            description: 'Shopping Mall in Hangzhou',
+            type: 'Shopping Mall',
+            address: '1204 Dongxin Ave, Binjiang Qu, Hangzhou Shi, Zhejiang Sheng, China',
+            chinesetitle: '杭州银泰百货',
+            chinesetype: '机场',
+            chineseaddress: '浙江省杭州市滨江区东信大道1204号',
+            rooms: [Female, Male, Family]
+          }
+        },
+        {
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [121.458522, 31.216515]
+          },
+          properties: {
+            title: 'ICC (Shanghai International Commerce Center)',
+            description: 'Office Building in Shanghai in Hangzhou',
+            type: 'Office Building',
+            address: '999 Huaihai Middle Rd，Xuhui District, Shanghai, China',
+            chinesetitle: '上海环贸广场',
+            chinesetype: '办公楼',
+            chineseaddress: '上海市徐汇区淮海中路999号',
+            rooms: [Moms]
           }
         },
         {
@@ -140,13 +202,11 @@ class Mapbox extends React.Component {
             title: 'Lilacs International Commercial Center',
             description: 'Shopping Mall in Shanghai',
             type: 'Shopping Mall',
-            tags: ['Unisex Room', 'Family Room', 'Powder Room', 'Accessible Room'],
             address: '858 Dingxiang Road, Pudong',
             chinesetitle: '丁香国际商业中心',
             chinesetype: '商场',
-            chinesetags: ['Unisex Room', 'Family Room', 'Powder Room', 'Accessible Room'],
             chineseaddress: '上海市浦东新区丁香路858弄',
-            rooms: [Icon9, Icon10]
+            rooms: [Unisex, Family, Accessible, Powder]
           }
         }]
       };
@@ -174,7 +234,7 @@ class Mapbox extends React.Component {
         new mapboxgl.Marker(el)
           .setLngLat(marker.geometry.coordinates)
           .setPopup(new mapboxgl.Popup({ offset: 25 }) // add popups
-          .setHTML(`<h3><strong>${marker.properties.title}</strong></h3><p>${marker.properties.type}</p>${roomType()}`))
+          .setHTML(`<h3><strong>${marker.properties.chinesetitle}</strong></h3><h3><strong>${marker.properties.title}</strong></h3><p>(${marker.properties.chinesetype} ${marker.properties.type})</p>${roomType()}`))
           .addTo(map);
       });
     })

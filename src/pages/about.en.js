@@ -20,13 +20,15 @@ import Icon11 from '../images/icons/restroom-type-03.svg'
 import Icon12 from '../images/icons/restroom-type-04.svg'
 import Icon13 from '../images/icons/restroom-type-05.svg'
 import Icon14 from '../images/icons/restroom-type-06.svg'
+import Icon15 from '../images/icons/restroom-type-07.svg'
+import Icon16 from '../images/icons/restroom-type-08.svg'
 
 import Sinopec from '../images/wecarewc-sinopec-ads.jpg'
 
 
 const About = (props) => (
   <Layout location={props.location}>
-    <div className="blog-banner" style={{background: ` linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(${Stalls})`}}>
+    <div className="blog-banner" style={{background: `linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.3)), url(${Stalls})`}}>
       <h1>About Us</h1>
     </div>
     <div className="about-wrap has-text-centered">
@@ -81,8 +83,16 @@ const About = (props) => (
       <h2>We design and implement restrooms and facilities for any type of need.</h2>
       <div className="columns">
         <div className="column">
+          <img src={Icon15}/>
+          <p>Female Restrooms</p>
+        </div>
+        <div className="column">
+          <img src={Icon16}/>
+          <p>Male Restrooms</p>
+        </div>
+        <div className="column">
           <img src={Icon9}/>
-          <p>Female, Male, and Unisex Restrooms</p>
+          <p>All-Gender Restrooms</p>
         </div>
         <div className="column">
           <img src={Icon10}/>

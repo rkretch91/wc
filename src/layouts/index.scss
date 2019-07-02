@@ -1066,7 +1066,7 @@ pre tt:after {
 
 .parallax {
   /* The image used */
-  background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)), url("../images/wecarewc-sinopec-ads.jpg");
+  background-image: linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.3)), url("../images/wecarewc-sinopec-ads.jpg");
 
   /* Set a specific height */
   height: 50vh;
@@ -1096,6 +1096,7 @@ pre tt:after {
   h3 {
     margin-bottom: 0 !important;
     font-size: 15px;
+    color: #677e8a !important;
   }
   img {
     width: 55px !important;
@@ -1103,6 +1104,7 @@ pre tt:after {
   }
   p {
     margin-bottom: 0.5rem !important;
+    color: #677e8a !important;
   }
 }
 

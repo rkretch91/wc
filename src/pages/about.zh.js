@@ -26,7 +26,7 @@ import Sinopec from '../images/wecarewc-sinopec-ads.jpg'
 
 const About = (props) => (
   <Layout location={props.location}>
-    <div className="blog-banner" style={{background: ` linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url(${Stalls})`}}>
+    <div className="blog-banner" style={{background: `linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.3)), url(${Stalls})`}}>
       <h1>关于我们</h1>
     </div>
     <div className="about-wrap has-text-centered">

@@ -31,7 +31,7 @@ const News = (props) => (
 }
   render={data => (
   <Layout location={props.location}>
-    <div className="blog-banner" id="small-banner" style={{background: ` linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(${Ribbon})`}}>
+    <div className="blog-banner" id="small-banner" style={{background: `linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.3)), url(${Ribbon})`}}>
       <h1>新闻</h1>
     </div>
     <div className="blog-wrapper">
