@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql, StaticQuery, Link } from "gatsby"
 import Layout from "../layouts/en"
 
-import Ribbon from '../images/ribbon-cut.jpg'
+import Ribbon from '../images/ribbon-cut-2.jpg'
 
 const News = (props) => (
   <StaticQuery

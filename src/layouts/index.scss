@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url("https://use.typekit.net/npp2uyw.css");
 @import '../../node_modules/bulma/bulma.sass';
 
 html {
@@ -203,7 +204,7 @@ html {
 }
 body {
   color: hsla(0, 0%, 0%, 0.8);
-  font-family: PT Sans, serif !important;
+  font-family: myriad-pro, sans-serif !important;
   font-weight: normal;
   word-wrap: break-word;
   font-kerning: normal;
@@ -234,8 +235,7 @@ h1 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: myriad-pro, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
@@ -251,8 +251,7 @@ h2 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: myriad-pro, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.62671rem;
@@ -268,8 +267,7 @@ h3 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: myriad-pro, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1.38316rem;
@@ -285,8 +283,7 @@ h4 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: myriad-pro, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 1rem;
@@ -302,8 +299,7 @@ h5 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: myriad-pro, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.85028rem;
@@ -319,8 +315,7 @@ h6 {
   padding-top: 0;
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: myriad-pro, sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 0.78405rem;
@@ -644,11 +639,6 @@ pre tt:after {
   top: -110px;
 }
 
-.header-logo img {
-  width: 175px;
-  margin-top: 20px;
-}
-
 .header-logo {
   background: #F70303;
   border-radius: 0px 0px 5px 5px;
@@ -660,6 +650,10 @@ pre tt:after {
   justify-content: space-around;
   align-items: center;
   box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.44);
+  img {
+    width: 175px;
+    margin-top: 20px;
+  }
 }
 
 @media only screen and (max-width: 1200px) {
@@ -677,16 +671,14 @@ pre tt:after {
   align-items: center;
   justify-content: space-between;
   flex: 500px;
-}
-
-.nav-menu a {
-  text-decoration: none;
-  color: white;
-  font-size: 15px;
-}
-
-.nav-menu a:hover {
-  color: #EDEBEB
+  a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    &:hover {
+      color: #EDEBEB;
+    }
+  }
 }
 
 .language-selector{
@@ -713,15 +705,15 @@ pre tt:after {
 .dropdown-menu.dropdown-right { left: calc(-250% + 4px); }
 
 .button {
+  font-size: 15px !important;
   background: #F70303 !important;
   color: white !important;
   border: none !important;
   font-weight: bold;
   box-shadow: 1px 1px 6px 0px rgba(0,0,0,0.44) !important;
-}
-
-.button:hover {
-  color: #EDEBEB !important;
+  &:hover {
+    color: #EDEBEB !important;
+  }
 }
 
 /*banner*/
@@ -750,30 +742,27 @@ pre tt:after {
   font-size: 17px;
 }
 
-.icons-homepage img {
-  height: 50px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .icons-homepage {
   padding: 6rem 0;
   width: 90%;
   margin: 0 auto !important;
-}
-
-.icons-homepage p {
-  font-size: 13px;
-  color: #526C78;
-  width: 80%;
-  margin: 0 auto;
-}
-
-.icons-homepage h5 {
-  color: #526C78;
-  font-weight: bold;
-  padding-bottom: 10px;
+  p {
+    font-size: 13px;
+    color: #526C78;
+    width: 80%;
+    margin: 0 auto;
+  }
+  h5 {
+    color: #526C78;
+    font-weight: bold;
+    padding-bottom: 10px;
+  }
+  img {
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 .has-image-centered {
@@ -805,38 +794,35 @@ pre tt:after {
 .partners-home {
   padding: 6rem 0;
   background: white;
+  h1 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  p {
+    color: #526C78;
+    padding-bottom: 10px;
+    font-size: 13px;
+    width: 350px;
+    margin: 0 auto;
+  }
 }
 
-.partners-home h1 {
-  color: #526C78;
-  font-weight: bold;
-  font-size: 20px;
-  padding-bottom: 10px;
-}
-
-.partners-home p {
-  color: #526C78;
-  padding-bottom: 10px;
-  font-size: 13px;
-  width: 350px;
-  margin: 0 auto;
-}
 
 .partners-logos {
   width: 70% !important;
   margin: 0 auto !important;
-}
-
-.partners-logos img {
-  width: 200px;
-  transition: filter .5s ease-in-out;
-  filter: grayscale(0%);
-  opacity: 1;
-}
-
-.partners-logos img:hover {
-  filter: grayscale(100%);
-  opacity: .7 !important;
+  img {
+    width: 200px;
+    transition: filter .5s ease-in-out;
+    filter: grayscale(0%);
+    opacity: 1;
+    &:hover {
+      filter: grayscale(100%);
+      opacity: .7 !important;
+    }
+  }
 }
 
 @media only screen and (max-width: 768px) {
@@ -845,13 +831,6 @@ pre tt:after {
   }
 }
 
-.blog img {
-  width:250px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 3px;
-}
 
 .blog-img {
   background-size: cover;
@@ -868,30 +847,35 @@ pre tt:after {
   padding: 6rem 0;
   width: 90%;
   margin: 0 auto !important;
+  img {
+    width:250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 3px;
+  }
+  p {
+    font-size: 13px;
+    color: #526C78;
+    width: 250px;
+    margin: 0 auto;
+    color: #526C78;
+  }
+  h5 {
+    width: 250px;
+    margin: 0 auto;
+    font-weight: bolder;
+    color: #526C78;
+    padding-bottom: 20px;
+  }
+  h1 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 30px;
+  }
 }
 
-.blog p {
-  font-size: 13px;
-  color: #526C78;
-  width: 250px;
-  margin: 0 auto;
-  color: #526C78;
-}
-
-.blog h5 {
-  width: 250px;
-  margin: 0 auto;
-  font-weight: bolder;
-  color: #526C78;
-  padding-bottom: 20px;
-}
-
-.blog h1 {
-  color: #526C78;
-  font-weight: bold;
-  font-size: 20px;
-  padding-bottom: 30px;
-}
 
 .spacing {
   margin-bottom: 20px;
@@ -903,40 +887,39 @@ pre tt:after {
 
 .footer {
   background-color: #EDEBEB !important;
+  h1 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  h2 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 15px;
+    padding-bottom: 5px;
+  }
+  p {
+    color: #526C78;
+    font-size: 13px;
+    margin: 0;
+  }
+  a {
+    &:hover {
+      font-weight: bolder;
+    }
+  }
 }
 
-.footer h1 {
-  color: #526C78;
-  font-weight: bold;
-  font-size: 20px;
-  padding-bottom: 10px;
-}
-
-.footer h2 {
-  color: #526C78;
-  font-weight: bold;
-  font-size: 15px;
-  padding-bottom: 5px;
-}
-
-.footer p {
-  color: #526C78;
-  font-size: 13px;
-  margin: 0;
-}
-
-.footer a:hover {
-  font-weight: bolder;
-}
-
-.wechat-icon-footer img {
+.wechat-icon-footer {
+  img {
   width: 120px;
   transition: .3s;
   transform: scale(1);
-}
-
-.wechat-icon-footer img:hover {
-  transform: scale(1.025);
+  &:hover {
+    transform: scale(1.025);
+  }
+  }
 }
 
 .mailer-footer {
@@ -1005,34 +988,30 @@ pre tt:after {
   height: 50vh;
 }
 
-.blog-post h1 {
-  color: #526C78;
-  font-size: 40px;
-  font-weight: bolder;
-  padding-bottom: 20px;
-}
-
-.blog-post p {
-  color: #526C78;
-  font-size: 15px;
-}
-
-.blog-post img {
-  padding: 20px 0;
-}
-
-.blog-post h2 {
-  color: #526C78;
-  font-size: 25px;
-  font-weight: bolder;
-}
-
 .blog-post {
   position: relative;
   width: 80%;
   max-width: 710px;
   margin: 4rem auto;
   word-wrap: break-word;
+  h2 {
+    color: #526C78;
+    font-size: 25px;
+    font-weight: bolder;
+  }
+  img {
+    padding: 20px 0;
+  }
+  p {
+    color: #526C78;
+    font-size: 15px;
+  }
+  h1 {
+    color: #526C78;
+    font-size: 40px;
+    font-weight: bolder;
+    padding-bottom: 20px;
+  }
 }
 
 
