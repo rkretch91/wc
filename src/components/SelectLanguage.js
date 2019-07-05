@@ -7,7 +7,7 @@ const SelectLanguage = (props) => {
   const languageToggle = (lang) => {
     if (lang.selected == false) {
       if (lang.langKey == "zh") {
-        let language = "中文"
+        let language = "中"
         return language
       }
       return lang.langKey
