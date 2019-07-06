@@ -1,12 +1,11 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Link from 'gatsby-link';
-import { FormattedMessage } from 'react-intl';
 
 const SelectLanguage = (props) => {
   const languageToggle = (lang) => {
-    if (lang.selected == false) {
-      if (lang.langKey == "zh") {
+    if (lang.selected === false) {
+      if (lang.langKey === "zh") {
         let language = "中"
         return language
       }

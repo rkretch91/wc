@@ -13,8 +13,6 @@ class Header extends React.Component {
       visible: true
   }
 
-
-
     //This opens the navbar dropdown
     navbarOpenDropdown = () => {
       this.setState({
@@ -34,22 +32,22 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/en/about/">About Us</Link>
-            <a href="#">Locations</a>
-            <a href="#">Partners</a>
+            <a href="/en/about/">Locations</a>
+            <a href="/en/about/">Partners</a>
             <Link to="/en/news/">News</Link>
-            <a href="#">Impact</a>
-            <button className="button"><a href="#">Get In Touch</a></button>
+            <a href="/en/about/">Impact</a>
+            <button className="button"><a href="/en/about/">Get In Touch</a></button>
           </React.Fragment>
           )
       } else {
         return(
           <React.Fragment>
             <Link to="/about/">关于我们</Link>
-            <a href="#">地址</a>
-            <a href="#">合作公司</a>
+            <a href="/en/about/">地址</a>
+            <a href="/en/about/">合作公司</a>
             <Link to="/news/">新闻</Link>
-            <a href="#">社会</a>
-            <button className="button"><a href="#">联系我们</a></button>
+            <a href="/en/about/">社会</a>
+            <button className="button"><a href="/en/about/">联系我们</a></button>
           </React.Fragment>
           )
       }
@@ -82,22 +80,22 @@ class Header extends React.Component {
         return(
           <React.Fragment>
              <Link to="/en/about/" className="dropdown-item">About Us</Link>
-            <a href="#" className="dropdown-item">Locations</a>
-            <a href="#" className="dropdown-item">Partners</a>
+            <a href="/en/about/" className="dropdown-item">Locations</a>
+            <a href="/en/about/" className="dropdown-item">Partners</a>
             <Link to="/en/news/" className="dropdown-item">News</Link>
-            <a href="#" className="dropdown-item">Impact</a>
-            <a href="#" className="dropdown-item">Get In Touch</a>
+            <a href="/en/about/" className="dropdown-item">Impact</a>
+            <a href="/en/about/" className="dropdown-item">Get In Touch</a>
           </React.Fragment>
           )
       } else {
         return(
           <React.Fragment>
             <Link to="/about/" className="dropdown-item">关于我们</Link>
-            <a href="#" className="dropdown-item">地址</a>
-            <a href="#" className="dropdown-item">合作公司</a>
+            <a href="/en/about/" className="dropdown-item">地址</a>
+            <a href="/en/about/" className="dropdown-item">合作公司</a>
             <Link to="/news/" className="dropdown-item">新闻</Link>
-            <a href="#" className="dropdown-item">社会</a>
-            <a href="#" className="dropdown-item">联系我们</a>
+            <a href="/en/about/" className="dropdown-item">社会</a>
+            <a href="/en/about/" className="dropdown-item">联系我们</a>
           </React.Fragment>
           )
       }
@@ -107,7 +105,6 @@ class Header extends React.Component {
     return(
       <div
         style={{
-          position: 'relative',
           height: '125px',
           display: 'flex',
           justifyContent: 'space-between',
@@ -119,17 +116,17 @@ class Header extends React.Component {
         <div style={{flex: '500px'}}>
           <Link to="/">
             <div className="header-logo">
-              <img src={WecareLogo}/>
+              <img src={WecareLogo} alt="wecarewc-logo" />
             </div>
           </Link>
         </div>
         <div className="nav-menu is-hidden-touch">{this.languageCheck()}</div>
 
         <div className={this.state.navbarIsActive}
-                        onClick={this.state.navbarIsActive == "navbar-item dropdown is-active is-hidden-desktop" ? this.navbarCloseDropdown : this.navbarOpenDropdown }
+                        onClick={this.state.navbarIsActive === "navbar-item dropdown is-active is-hidden-desktop" ? this.navbarCloseDropdown : this.navbarOpenDropdown }
                         onBlur={this.navbarCloseDropdown}>
           <div className="dropdown-trigger">
-            <img className="hamburger" src={Hamburger} aria-haspopup="true" aria-controls="dropdown-menu"/>
+            <img className="hamburger" alt="hamburger-menu" src={Hamburger} aria-haspopup="true" aria-controls="dropdown-menu"/>
           </div>
           <div className="dropdown-menu dropdown-right" id="dropdown-menu" role="menu">
             <div className="dropdown-content">

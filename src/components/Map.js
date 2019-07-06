@@ -13,7 +13,6 @@ import Male from '../images/icons/restroom-type-08.svg'
 
 class Mapbox extends React.Component {
   createMap() {
-    const zoom = 12
     const iconSize = 0.5
     const coordinates = [121.4737, 31.2304]
     const map = new mapboxgl.Map({
