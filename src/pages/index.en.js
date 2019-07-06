@@ -49,22 +49,22 @@ const IndexPage = (props) => (
       <Banner slogan="REDEFINING PUBLIC RESTROOMS"/>
       <div className="columns icons-homepage is-centered">
         <div className="column has-text-centered">
-          <img src={Who}/>
+          <img src={Who} alt="who-is-wecare-wc" />
           <span><h5>who we are</h5></span>
           <span><p>Pioneers and experts transforming the public facility experience globally.</p></span>
         </div>
         <div className="column has-text-centered">
-          <img src={What} style={{width: '40px'}}/>
+          <img src={What} style={{width: '40px'}} alt="what-is-wecare-wc" />
           <span><h5>what we do</h5></span>
           <span><p>Create hygienic and innovatively designed public facilities and restrooms.</p></span>
         </div>
         <div className="column has-text-centered">
-          <img src={Where}/>
+          <img src={Where} alt="where-is-wecare-wc" />
           <span><h5>where we build</h5></span>
           <span><p>Shopping malls, department stores, airports, gas stations, office buildings, stadiums…and more.</p></span>
         </div>
         <div className="column has-text-centered">
-          <img src={Why}/>
+          <img src={Why} alt="why-wecare-wc" />
           <span><h5>why we care</h5></span>
           <span><p>We believe that everyone deserves a clean space to refresh and relax. We are changing the status quo.</p></span>
         </div>
@@ -76,14 +76,14 @@ const IndexPage = (props) => (
       <p>We have an ever expanding list of partners to help make our restrooms a reality. We would love to work with you too.</p>
       <div className="partners-logos columns">
         <div className="column">
-          <a href="http://www.ellai.cn/" target="_blank"><img src={Ellai}/></a>
-          <a href="https://www.dyson.com/en.html" target="_blank"><img src={Dyson}/></a>
-          <a href="http://www.dupont.com/" target="_blank"><img src={Dupont}/></a>
-          <a href="https://www.philips.com/global" target="_blank"><img src={Philips}/></a>
-          <a href="https://www.us.kohler.com/us/" target="_blank"><img src={Kohler}/></a>
-          <a href="https://www.villeroy-boch.eu/en/" target="_blank"><img src={VB}/></a>
-          <a href="https://www.blueair.com/" target="_blank"><img src={Blueair}/></a>
-          <a href="https://www.marazzigroup.com/" target="_blank"><img src={Marazzi}/></a>
+          <a href="http://www.ellai.cn/" target="_blank" rel="noopener noreferrer"><img src={Ellai} alt="Ellai-logo" /></a>
+          <a href="https://www.dyson.com/en.html" target="_blank" rel="noopener noreferrer"><img src={Dyson} alt="Dyson-logo" /></a>
+          <a href="http://www.dupont.com/" target="_blank" rel="noopener noreferrer"><img src={Dupont} alt="Dupont-logo" /></a>
+          <a href="https://www.philips.com/global" target="_blank" rel="noopener noreferrer"><img src={Philips} alt="Philips-logo" /></a>
+          <a href="https://www.us.kohler.com/us/" target="_blank" rel="noopener noreferrer"><img src={Kohler} alt="Kohler-logo" /></a>
+          <a href="https://www.villeroy-boch.eu/en/" target="_blank" rel="noopener noreferrer"><img src={VB} alt="VB-logo"/></a>
+          <a href="https://www.blueair.com/" target="_blank" rel="noopener noreferrer"><img src={Blueair} alt="Blueair-logo" /></a>
+          <a href="https://www.marazzigroup.com/" target="_blank" rel="noopener noreferrer"><img src={Marazzi} alt="Marazzi-logo" /></a>
         </div>
       </div>
       <Link to="#" style={{color: "#677e8a", fontSize: "13px", fontWeight: "bolder"}}>Learn More</Link><p>or</p>
@@ -95,13 +95,13 @@ const IndexPage = (props) => (
         <div className="columns is-centered">
         {data.allMarkdownRemark.edges.slice(0, 6).map(({ node }) => {
           console.log(node.frontmatter.title)
-          if (node.frontmatter.language == "EN") {
+          if (node.frontmatter.language === "EN") {
           return(
           <div className="column has-text-left spacing" key={node.id}>
             <Link
               to={node.fields.slug}
             >
-              <div className="blog-img" style={{ backgroundImage: `url(\'${node.frontmatter.photo}\')`}}/>
+              <div className="blog-img" style={{ backgroundImage: `url('${node.frontmatter.photo}')`}}/>
               <span><h5>{node.frontmatter.title}{" "}</h5></span>
               <span><p>{node.excerpt}</p></span>
             </Link>

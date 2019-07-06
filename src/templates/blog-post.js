@@ -7,7 +7,7 @@ function BlogPost(props) {
     const {title} = post.frontmatter;
     return (
         <Layout location={props.location}>
-            <div className="blog-banner" style={{ backgroundImage: `url(\'${post.frontmatter.photo}\')`}}>
+            <div className="blog-banner" style={{ backgroundImage: `url('${post.frontmatter.photo}')`}}>
             </div>
             <div className="blog-post">
               <h1>{title}</h1>

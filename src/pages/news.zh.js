@@ -38,14 +38,13 @@ const News = (props) => (
       <div className="blog has-text-centered">
         <div className="columns is-multiline">
         {data.allMarkdownRemark.edges.map(({ node }) => {
-          console.log(node.frontmatter.title)
-          if (node.frontmatter.language == "CN") {
+          if (node.frontmatter.language === "CN") {
           return(
           <div className="column has-text-left is-one-third" key={node.id}>
             <Link
               to={node.fields.slug}
             >
-              <div className="blog-img" style={{ backgroundImage: `url(\'${node.frontmatter.photo}\')`}}/>
+              <div className="blog-img" style={{ backgroundImage: `url('${node.frontmatter.photo}')`}}/>
               <span><h5>{node.frontmatter.title}{" "}</h5></span>
               <span><p>{node.excerpt}</p></span>
               <span className="has-text-right"><p>{node.frontmatter.date}</p></span>

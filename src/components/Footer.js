@@ -22,12 +22,12 @@ class Footer extends React.Component {
             <div className="nav-menu-footer column is-one-fifth-desktop is-half-mobile">
               <div className="center-that-text">
                 <h1>Menu</h1>
-                <a href="#"><p>About Us</p></a>
-                <a href="#"><p>Location</p></a>
-                <a href="#"><p>Partners</p></a>
+                <a href="/en/about/"><p>About Us</p></a>
+                <a href="/en/about/"><p>Location</p></a>
+                <a href="/en/about/"><p>Partners</p></a>
                 <Link to="/en/news/"><p>News</p></Link>
-                <a href="#"><p>Impact</p></a>
-                <a href="#"><p>Careers</p></a>
+                <a href="/en/about/"><p>Impact</p></a>
+                <a href="/en/about/"><p>Careers</p></a>
               </div>
             </div>
             <div className="wechat-icon-footer column is-one-fifth-desktop is-half-mobile">
