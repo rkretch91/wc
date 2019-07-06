@@ -33,7 +33,7 @@ class Header extends React.Component {
           <React.Fragment>
             <Link to="/en/about/">About Us</Link>
             <a href="/en/about/">Locations</a>
-            <a href="/en/about/">Partners</a>
+            <Link to="/en/partners/">Partners</Link>
             <Link to="/en/news/">News</Link>
             <a href="/en/about/">Impact</a>
             <button className="button"><a href="/en/about/">Get In Touch</a></button>
@@ -43,10 +43,10 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/about/">关于我们</Link>
-            <a href="/en/about/">地址</a>
-            <a href="/en/about/">合作公司</a>
+            <Link to="/about/">地址</Link>
+            <a href="/partners/">合作公司</a>
             <Link to="/news/">新闻</Link>
-            <a href="/en/about/">社会</a>
+            <a href="/about/">社会</a>
             <button className="button"><a href="/en/about/">联系我们</a></button>
           </React.Fragment>
           )
@@ -79,9 +79,9 @@ class Header extends React.Component {
       if (this.props.langs[0].selected) {
         return(
           <React.Fragment>
-             <Link to="/en/about/" className="dropdown-item">About Us</Link>
+            <Link to="/en/about/" className="dropdown-item">About Us</Link>
             <a href="/en/about/" className="dropdown-item">Locations</a>
-            <a href="/en/about/" className="dropdown-item">Partners</a>
+            <Link to="/en/partners/" className="dropdown-item">Partners</Link>
             <Link to="/en/news/" className="dropdown-item">News</Link>
             <a href="/en/about/" className="dropdown-item">Impact</a>
             <a href="/en/about/" className="dropdown-item">Get In Touch</a>
@@ -91,11 +91,11 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/about/" className="dropdown-item">关于我们</Link>
-            <a href="/en/about/" className="dropdown-item">地址</a>
-            <a href="/en/about/" className="dropdown-item">合作公司</a>
+            <a href="/about/" className="dropdown-item">地址</a>
+            <Link to="/partners/" className="dropdown-item">合作公司</Link>
             <Link to="/news/" className="dropdown-item">新闻</Link>
-            <a href="/en/about/" className="dropdown-item">社会</a>
-            <a href="/en/about/" className="dropdown-item">联系我们</a>
+            <a href="/about/" className="dropdown-item">社会</a>
+            <a href="/about/" className="dropdown-item">联系我们</a>
           </React.Fragment>
           )
       }
