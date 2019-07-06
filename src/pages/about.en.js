@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from "../layouts/zh"
+import Layout from "../layouts/en"
 
 // About Icons
 import Stalls from '../images/wecarewc-xtd-stalls.jpg'
