@@ -70,7 +70,7 @@ const IndexPage = (props) => (
         </div>
       </div>
     </div>
-    <Mapbox language="Learn more about our locations"/>
+    <Mapbox language="Learn more about our locations" map="" />
     <div className="partners-home has-text-centered">
       <h1>Our Partners</h1>
       <p>We have an ever expanding list of partners to help make our restrooms a reality. We would love to work with you too.</p>

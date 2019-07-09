@@ -32,7 +32,7 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/en/about/">About Us</Link>
-            <a href="/en/about/">Locations</a>
+            <a href="/en/locations/">Locations</a>
             <Link to="/en/partners/">Partners</Link>
             <Link to="/en/news/">News</Link>
             <a href="/en/about/">Impact</a>
@@ -43,7 +43,7 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/about/">关于我们</Link>
-            <Link to="/about/">地址</Link>
+            <Link to="/locations/">地址</Link>
             <a href="/partners/">合作公司</a>
             <Link to="/news/">新闻</Link>
             <a href="/about/">社会</a>
@@ -80,7 +80,7 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/en/about/" className="dropdown-item">About Us</Link>
-            <a href="/en/about/" className="dropdown-item">Locations</a>
+            <a href="/en/locations/" className="dropdown-item">Locations</a>
             <Link to="/en/partners/" className="dropdown-item">Partners</Link>
             <Link to="/en/news/" className="dropdown-item">News</Link>
             <a href="/en/about/" className="dropdown-item">Impact</a>
@@ -91,7 +91,7 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/about/" className="dropdown-item">关于我们</Link>
-            <a href="/about/" className="dropdown-item">地址</a>
+            <a href="/locations/" className="dropdown-item">地址</a>
             <Link to="/partners/" className="dropdown-item">合作公司</Link>
             <Link to="/news/" className="dropdown-item">新闻</Link>
             <a href="/about/" className="dropdown-item">社会</a>
