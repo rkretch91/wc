@@ -1107,3 +1107,14 @@ pre tt:after {
   }
 }
 
+.custom-form {
+  background-color: #f4f4f4 !important;
+}
+
+
+.css-2b097c-container {
+  background-color: #f4f4f4 !important;
+  &:focus {
+    outline: none;
+  }
+}

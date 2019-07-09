@@ -248,7 +248,7 @@ class Mapbox extends React.Component {
     return (
       <React.Fragment>
         <div id={'map'} style={{width: '100%', height: 400, position: 'relative !important'}}>
-          <button className="button" id="map-button">{this.props.language}</button>
+          <button className={`button ${this.props.map}`} id="map-button">{this.props.language}</button>
         </div>
       </React.Fragment>
     )

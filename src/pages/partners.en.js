@@ -32,39 +32,39 @@ const About = (props) => (
         <hr style={{opacity: ".3"}}/>
         <div className="columns">
           <div className="column">
-            <img src={Ellai} alt="ellai-logo" />
+            <a href="http://www.ellai.cn/" target="_blank" rel="noopener noreferrer"><img src={Ellai} alt="ellai-logo" /></a>
             <p>"Ellai and WeCare WC share the same vision while being experts in differing fields. Both companies are devoted to creating better restroom spaces and the deep strategic cooperation will accelerate the development and growth of both brands."</p>
           </div>
           <div className="column">
-            <img src={Dyson} alt="dyson-logo" />
+            <a href="https://www.dyson.com/en.html" target="_blank" rel="noopener noreferrer"><img src={Dyson} alt="dyson-logo" /></a>
             <p>"We are impressed by the professionalism and enthusiasm that WeCare WC brings to the industry. The design concept looks amazing and will be a completely new standard for sanitation in China."</p>
           </div>
           <div className="column">
-            <img src={Dupont} alt="dupont-logo" />
+            <a href="http://www.dupont.com/" target="_blank" rel="noopener noreferrer"><img src={Dupont} alt="dupont-logo" /></a>
             <p>"We feel very privileged to work with the WeCare WC team as they are experts in this field and we look forward to this exciting partnership for the greater good. The collaboration between Dupont and WeCare WC has been highly effective, and we are confident that the result will raise people’s expectations of how public sanitation should be defined."</p>
           </div>
         </div>
         <div className="columns">
           <div className="column">
-            <img src={Blueair} alt="blueair-logo" />
+            <a href="https://www.blueair.com/" target="_blank" rel="noopener noreferrer"><img src={Blueair} alt="blueair-logo" /></a>
             <p>"WeCare WC is a creative company that brings a completely new concept to public restrooms in China. We at Blueair are excited about our partnership and look forward to providing purified clean air to WeCare WC guests."</p>
           </div>
           <div className="column">
-            <img src={Philips} alt="philips-logo" />
+            <a href="https://www.philips.com/global" target="_blank" rel="noopener noreferrer"><img src={Philips} alt="philips-logo" /></a>
             <p>"WeCare WC's attention to detail and focus on innovative design has resulted in a very smooth and complimentary partnership. WeCare WC is setting a new standard for public facilities in China and Philips is proud to be providing superior and energy-efficient user experiences in WeCare WC restrooms."</p>
           </div>
           <div className="column">
-            <img src={Kohler} alt="kohler-logo" />
+            <a href="https://www.us.kohler.com/us/" target="_blank" rel="noopener noreferrer"><img src={Kohler} alt="kohler-logo" /></a>
             <p>"Kohler’s mission is to provide customers with high quality, artistic products and a gracious living experience. WeCare WC is the perfect partner to help us achieve this. They are making an incredibly big impact on China’s public facilities. As partners of WeCare WC, we provide unique experiences and quality, environmentally-conscious solutions to the public."</p>
           </div>
         </div>
         <div className="columns">
           <div className="column">
-            <img src={VB} alt="vb-logo" />
+            <a href="https://www.villeroy-boch.eu/en/" target="_blank" rel="noopener noreferrer"><img src={VB} alt="vb-logo" /></a>
             <p>"Our common mission, combining together the time-honored craftsmanship of Villeroy & Boch with WeCare WC’s innovative public sanitation solutions, is to create a new benchmark in public restrooms in China. After all, everyone deserves a clean space to relax and refresh regardless of where they are."</p>
           </div>
           <div className="column">
-            <img src={Marazzi} alt="marazzi-logo" />
+            <a href="https://www.marazzigroup.com/" target="_blank" rel="noopener noreferrer"><img src={Marazzi} alt="marazzi-logo" /></a>
             <p>"Combining MARAZZI’s creative design and high quality products with WeCare WC’s pioneering public toilet concept, this is the beginning of a long-term strategic partnership."</p>
           </div>
           <div className="column">
