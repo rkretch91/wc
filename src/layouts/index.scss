@@ -1168,16 +1168,11 @@ pre tt:after {
 .bm-cross-button {
   height: 30px;
   width: 30px;
-  position: fixed;
-  top: 0;
-  right: 0;
-  z-index: 150;
 }
 
 /* Color/shape of close button cross */
 .bm-cross {
   background: #bdc3c7;
-  z-index: 150;
 }
 
 /* General sidebar styles */
@@ -1187,10 +1182,6 @@ pre tt:after {
   padding: 2.5em 1.5em 0;
   font-size: 1.15em;
   height: 100%;
-  position: fixed;
-  top: 0;
-  right: 0;
-  z-index: 100;
 }
 
 /* Morph shape necessary with bubble or elastic */

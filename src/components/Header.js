@@ -5,7 +5,7 @@ import WecareLogo from '../images/wecarewc-logo-white.png'
 import classnames from "classnames";
 import MobileMenu from './Menu'
 
-import { slide as Menu } from 'react-burger-menu'
+import { push as Menu } from 'react-burger-menu'
 
 class Header extends React.Component {
   state = {
@@ -80,35 +80,40 @@ class Header extends React.Component {
     languageCheckMobile = () => {
       if (this.props.langs[0].selected) {
         return(
-          <Menu right width={ 180 }>
-            <a id="home" className="menu-item" href="/en">Home</a>
-            <a id="about" className="menu-item" href="/en/about">About Us</a>
-            <a id="contact" className="menu-item" href="/en/locations">Locations</a>
-            <a id="contact" className="menu-item" href="/en/partners">Partners</a>
-            <a id="contact" className="menu-item" href="/en/news">News</a>
-            <a id="contact" className="menu-item" href="/contact">Impact</a>
-            <hr/>
-            <a className="menu-item--small" href="">Get In Touch</a>
-          </Menu>
+          <div id="outer-container">
+            <Menu right width={ 180 } pageWrapId={ "page-wrap" } outerContainerId={ "outer-container" }>
+              <a id="home" className="menu-item" href="/en">Home</a>
+              <a id="about" className="menu-item" href="/en/about">About Us</a>
+              <a id="contact" className="menu-item" href="/en/locations">Locations</a>
+              <a id="contact" className="menu-item" href="/en/partners">Partners</a>
+              <a id="contact" className="menu-item" href="/en/news">News</a>
+              <a id="contact" className="menu-item" href="/contact">Impact</a>
+              <hr/>
+              <a className="menu-item--small" href="">Get In Touch</a>
+            </Menu>
+          </div>
           )
       } else {
         return(
-          <Menu right width={ 180 }>
-            <a id="home" className="menu-item" href="/">Home</a>
-            <a id="about" className="menu-item" href="/about">关于我们</a>
-            <a id="contact" className="menu-item" href="/locations">地址</a>
-            <a id="contact" className="menu-item" href="/partners">合作公司</a>
-            <a id="contact" className="menu-item" href="/news">新闻</a>
-            <a id="contact" className="menu-item" href="/contact">社会</a>
-            <hr/>
-            <a className="menu-item--small" href="">联系我们</a>
-          </Menu>
+          <div id="outer-container">
+            <Menu right width={ 180 } pageWrapId={ "page-wrap" } outerContainerId={ "outer-container" }>
+              <a id="home" className="menu-item" href="/">Home</a>
+              <a id="about" className="menu-item" href="/about">关于我们</a>
+              <a id="contact" className="menu-item" href="/locations">地址</a>
+              <a id="contact" className="menu-item" href="/partners">合作公司</a>
+              <a id="contact" className="menu-item" href="/news">新闻</a>
+              <a id="contact" className="menu-item" href="/contact">社会</a>
+              <hr/>
+              <a className="menu-item--small" href="">联系我们</a>
+            </Menu>
+          </div>
           )
       }
     }
 
   render() {
     return(
+      <div>
       <div
         style={{
           height: '125px',
@@ -127,8 +132,9 @@ class Header extends React.Component {
           </Link>
         </div>
         <div className="nav-menu is-hidden-touch">{this.languageCheck()}</div>
-        <div>{this.languageCheckMobile()}</div>
         <SelectLanguage langs={this.props.langs} />
+      </div>
+      <div>{this.languageCheckMobile()}</div>
       </div>
       )
     }
