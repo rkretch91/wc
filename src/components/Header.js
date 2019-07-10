@@ -3,7 +3,9 @@ import Link from 'gatsby-link'
 import SelectLanguage from './SelectLanguage'
 import WecareLogo from '../images/wecarewc-logo-white.png'
 import classnames from "classnames";
-import Hamburger from "../images/icons/noun_menu_1117664.svg"
+import MobileMenu from './Menu'
+
+import { slide as Menu } from 'react-burger-menu'
 
 class Header extends React.Component {
   state = {
@@ -78,25 +80,29 @@ class Header extends React.Component {
     languageCheckMobile = () => {
       if (this.props.langs[0].selected) {
         return(
-          <React.Fragment>
-            <Link to="/en/about/" className="dropdown-item">About Us</Link>
-            <a href="/en/locations/" className="dropdown-item">Locations</a>
-            <Link to="/en/partners/" className="dropdown-item">Partners</Link>
-            <Link to="/en/news/" className="dropdown-item">News</Link>
-            <a href="/en/about/" className="dropdown-item">Impact</a>
-            <a href="/en/about/" className="dropdown-item">Get In Touch</a>
-          </React.Fragment>
+          <Menu right width={ 180 }>
+            <a id="home" className="menu-item" href="/en">Home</a>
+            <a id="about" className="menu-item" href="/en/about">About Us</a>
+            <a id="contact" className="menu-item" href="/en/locations">Locations</a>
+            <a id="contact" className="menu-item" href="/en/partners">Partners</a>
+            <a id="contact" className="menu-item" href="/en/news">News</a>
+            <a id="contact" className="menu-item" href="/contact">Impact</a>
+            <hr/>
+            <a className="menu-item--small" href="">Get In Touch</a>
+          </Menu>
           )
       } else {
         return(
-          <React.Fragment>
-            <Link to="/about/" className="dropdown-item">关于我们</Link>
-            <a href="/locations/" className="dropdown-item">地址</a>
-            <Link to="/partners/" className="dropdown-item">合作公司</Link>
-            <Link to="/news/" className="dropdown-item">新闻</Link>
-            <a href="/about/" className="dropdown-item">社会</a>
-            <a href="/about/" className="dropdown-item">联系我们</a>
-          </React.Fragment>
+          <Menu right width={ 180 }>
+            <a id="home" className="menu-item" href="/">Home</a>
+            <a id="about" className="menu-item" href="/about">关于我们</a>
+            <a id="contact" className="menu-item" href="/locations">地址</a>
+            <a id="contact" className="menu-item" href="/partners">合作公司</a>
+            <a id="contact" className="menu-item" href="/news">新闻</a>
+            <a id="contact" className="menu-item" href="/contact">社会</a>
+            <hr/>
+            <a className="menu-item--small" href="">联系我们</a>
+          </Menu>
           )
       }
     }
@@ -121,20 +127,8 @@ class Header extends React.Component {
           </Link>
         </div>
         <div className="nav-menu is-hidden-touch">{this.languageCheck()}</div>
-
-        <div className={this.state.navbarIsActive}
-                        onClick={this.state.navbarIsActive === "navbar-item dropdown is-active is-hidden-desktop" ? this.navbarCloseDropdown : this.navbarOpenDropdown }
-                        onBlur={this.navbarCloseDropdown}>
-          <div className="dropdown-trigger">
-            <img className="hamburger" alt="hamburger-menu" src={Hamburger} aria-haspopup="true" aria-controls="dropdown-menu"/>
-          </div>
-          <div className="dropdown-menu dropdown-right" id="dropdown-menu" role="menu">
-            <div className="dropdown-content">
-              {this.languageCheckMobile()}
-            </div>
-          </div>
-        </div>
-          <SelectLanguage langs={this.props.langs} />
+        <div>{this.languageCheckMobile()}</div>
+        <SelectLanguage langs={this.props.langs} />
       </div>
       )
     }

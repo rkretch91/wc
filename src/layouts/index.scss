@@ -1118,3 +1118,93 @@ pre tt:after {
     outline: none;
   }
 }
+
+
+
+
+// burger menu
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+
+  /* Our sidebar item styling */
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: #677e8a;
+  transition: color 0.2s;
+  font-size: 16px;
+}
+
+/* Change color on hover */
+.bm-item:hover {
+  color: #677e8a;
+  outline: none;
+}
+
+/* The rest copied directly from react-burger-menu docs */
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: absolute;
+  width: 36px;
+  height: 30px;
+  right: 70px;
+  top: 55px;
+}
+
+@media only screen and (min-width: 1088px) {
+  .bm-burger-button {
+    display: none;
+  }
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: white;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #bdc3c7;
+    position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: #f4f4f4;
+  opacity: .98;
+  padding: 2.5em 1.5em 0;
+  font-size: 1.15em;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #b8b7ad;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
