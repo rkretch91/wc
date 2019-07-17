@@ -1,7 +1,7 @@
 ---
 title: "WeCare WC Takes Off in Pudong Airport"
 date: "2018-11-06"
-photo: https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-1.jpg
+photo: https://res.cloudinary.com/wecare-wc/image/upload/v1563379271/Shanghai%20Pudong%20International%20Airport/family-room-sink.jpg
 language: "EN"
 ---
 

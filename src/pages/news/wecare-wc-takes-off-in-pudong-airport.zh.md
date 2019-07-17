@@ -1,7 +1,7 @@
 ---
 title: "喜迎进博会，WeCare WC浦东国际机场项目完成！"
 date: "2018-11-16"
-photo: https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-1.jpg
+photo: https://res.cloudinary.com/wecare-wc/image/upload/v1563379271/Shanghai%20Pudong%20International%20Airport/family-room-sink.jpg
 language: "CN"
 ---
 
