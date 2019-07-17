@@ -3,9 +3,8 @@ import Link from 'gatsby-link'
 import SelectLanguage from './SelectLanguage'
 import WecareLogo from '../images/wecarewc-logo-white.png'
 import classnames from "classnames";
-import MobileMenu from './Menu'
 
-import { push as Menu } from 'react-burger-menu'
+import { slide as Menu } from 'react-burger-menu'
 
 class Header extends React.Component {
   state = {
@@ -80,8 +79,7 @@ class Header extends React.Component {
     languageCheckMobile = () => {
       if (this.props.langs[0].selected) {
         return(
-          <div id="outer-container">
-            <Menu right width={ 180 } pageWrapId={ "page-wrap" } outerContainerId={ "outer-container" }>
+            <Menu width={ '70%' }>
               <a id="home" className="menu-item" href="/en">Home</a>
               <a id="about" className="menu-item" href="/en/about">About Us</a>
               <a id="contact" className="menu-item" href="/en/locations">Locations</a>
@@ -91,12 +89,10 @@ class Header extends React.Component {
               <hr/>
               <a className="menu-item--small" href="">Get In Touch</a>
             </Menu>
-          </div>
           )
       } else {
         return(
-          <div id="outer-container">
-            <Menu right width={ 180 } pageWrapId={ "page-wrap" } outerContainerId={ "outer-container" }>
+            <Menu width={ '70%' }>
               <a id="home" className="menu-item" href="/">Home</a>
               <a id="about" className="menu-item" href="/about">关于我们</a>
               <a id="contact" className="menu-item" href="/locations">地址</a>
@@ -106,14 +102,13 @@ class Header extends React.Component {
               <hr/>
               <a className="menu-item--small" href="">联系我们</a>
             </Menu>
-          </div>
           )
       }
     }
 
   render() {
     return(
-      <div>
+      <React.Fragment>
       <div
         style={{
           height: '125px',
@@ -134,8 +129,9 @@ class Header extends React.Component {
         <div className="nav-menu is-hidden-touch">{this.languageCheck()}</div>
         <SelectLanguage langs={this.props.langs} />
       </div>
-      <div>{this.languageCheckMobile()}</div>
-      </div>
+      <div style={{
+          zIndex: '1000'}}>{this.languageCheckMobile()}</div>
+      </React.Fragment>
       )
     }
 }
