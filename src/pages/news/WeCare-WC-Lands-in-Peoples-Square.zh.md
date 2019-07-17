@@ -1,7 +1,7 @@
 ---
 title: "中国呢"
 date: "2018-10-28"
-photo: https://res.cloudinary.com/wecare-wc/image/upload/v1559140325/peoples%20square/accessible-room-1.jpg
+photo: https://res.cloudinary.com/wecare-wc/image/upload/v1563379317/peoples%20square/accessible-room.jpg
 language: "CN"
 ---
 

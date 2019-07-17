@@ -1,7 +1,7 @@
 ---
 title: "WeCare WC Goes Portable!"
 date: "2019-02-25"
-photo: https://res.cloudinary.com/wecare-wc/image/upload/v1559138015/wecarewc%20portable/wecarewc-portable-teaser-2.jpg
+photo: https://res.cloudinary.com/wecare-wc/image/upload/v1563379180/wecarewc%20portable/wecarewc-portable-teaser-1.jpg
 language: "EN"
 ---
 
