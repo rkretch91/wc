@@ -1,5 +1,6 @@
 import React from 'react';
 import Select from 'react-select';
+import { navigate } from "gatsby"
 
 const options = [
   { value: 'shanghai-hongqiao-international-airport', label: '上海虹桥国际机场 - Shanghai Hongqiao International Airport' },
@@ -13,7 +14,7 @@ class Form extends React.Component {
   };
   handleChange = selectedOption => {
     this.setState({ selectedOption });
-    console.log(`Option selected:`, selectedOption);
+    navigate(`/en/locations/${selectedOption.value}/`)
   };
 
   render() {

@@ -24,6 +24,7 @@
     "react-burger-menu": "^2.6.10",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.0",
+    "react-image-gallery": "^0.8.18",
     "react-intl": "^2.8.0",
     "react-router-dom": "^4.3.1",
     "react-select": "^3.0.4"
