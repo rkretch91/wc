@@ -1,5 +1,6 @@
 @import url("https://use.typekit.net/npp2uyw.css");
 @import '../../node_modules/bulma/bulma.sass';
+@import "node_modules/react-image-gallery/styles/scss/image-gallery.scss";
 
 html {
   font-family: sans-serif;
@@ -1207,4 +1208,29 @@ pre tt:after {
 
 .grey {
   background-color: #677e8a !important;
+}
+
+
+// location wrap
+
+.location-wrap {
+  width: 70%;
+  margin: 0 auto;
+  padding: 6rem 0;
+  h1 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 21px;
+    padding-bottom: 10px;
+  }
+  h2 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  p {
+    color: #526C78;
+    font-size: 13px;
+  }
 }
