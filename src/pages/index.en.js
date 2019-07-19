@@ -109,6 +109,7 @@ const IndexPage = (props) => (
           )
         }})}
         </div>
+        <Link to="/en/news/"><button className="button" id="grey">See More News</button></Link>
       </div>
     </div>
   </Layout>
