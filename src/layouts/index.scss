@@ -1214,7 +1214,7 @@ pre tt:after {
 // location wrap
 
 .location-wrap {
-  width: 70%;
+  width: 80%;
   margin: 0 auto;
   padding: 6rem 0;
   h1 {
@@ -1233,6 +1233,12 @@ pre tt:after {
   p {
     color: #526C78;
     font-size: 13px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .location-wrap {
+  width: 100%;
   }
 }
 
