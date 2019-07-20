@@ -49,7 +49,7 @@ const XTD = (props) => {
   <Layout location={props.location}>
     <div className="location-wrap has-text-centered">
       <h1>XTD Plaza</h1>
-      <ImageGallery items={images} lazyLoad={true} showPlayButton={false} />
+      <ImageGallery items={images} lazyLoad={true} showPlayButton={false} showFullscreenButton={false} />
     </div>
   </Layout>
   )
