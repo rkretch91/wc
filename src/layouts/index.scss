@@ -1216,7 +1216,7 @@ pre tt:after {
 .location-wrap {
   width: 80%;
   margin: 0 auto;
-  padding: 6rem 0;
+  padding-top: 4rem;
   h1 {
     color: #526C78;
     font-weight: bold;
@@ -1239,6 +1239,35 @@ pre tt:after {
 @media only screen and (max-width: 768px) {
   .location-wrap {
   width: 100%;
+  }
+}
+
+
+.location-wrap2 {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 1rem;
+  h1 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 30px;
+    padding-top: 50px;
+  }
+  h2 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 20px;
+  }
+  p {
+    color: #526C78;
+    font-size: 13px;
+  }
+  h3 {
+    color: #526C78;
+    padding-top: 10px;
+    font-weight: lighter;
+    font-size: 16px;
   }
 }
 
