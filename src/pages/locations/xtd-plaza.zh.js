@@ -1,13 +1,13 @@
 import React from 'react'
 import { graphql, StaticQuery, Link } from "gatsby"
-import Layout from "../../layouts/zh"
+import Layout from "../../layouts/en"
 import ImageGallery from 'react-image-gallery';
 import Mapbox from "../../components/SmallMap"
 
 import Female from '../../images/icons/restroom-type-08.svg'
 import Nursing from '../../images/icons/restroom-type-05.svg'
 
-import Placeholder from '../../images/logos/blueair.png'
+import Placeholder from '../../images/logos/icc.png'
 
 
 const XTD = (props) => {
@@ -54,25 +54,32 @@ const XTD = (props) => {
   return(
   <Layout location={props.location}>
     <div className="location-wrap has-text-centered">
-      <h1>XTD Plaza</h1>
+      <h1>新天地广场</h1>
       <ImageGallery items={images} lazyLoad={true} showPlayButton={false} showFullscreenButton={false} />
     </div>
     <div className="location-wrap2">
       <div className="columns">
         <div className="column">
-          <h2>About</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In egestas ut arcu eu finibus. Morbi dictum fermentum sapien at finibus. Quisque maximus, dui sit amet posuere accumsan, nisi ipsum gravida ante, vitae vestibulum lorem ipsum et ex. Suspendisse blandit, diam ac varius vestibulum, dolor est rhoncus nisl, semper posuere magna nisi vel nunc. Donec imperdiet a erat sed lacinia. Nam ultrices at diam vel placerat. Nulla quam turpis, posuere tincidunt hendrerit vitae, aliquam mollis diam. Curabitur varius dignissim erat eget tempor. Suspendisse potenti. Nulla id sapien tortor. Sed felis ex, porttitor in placerat id, commodo non felis. Ut augue sapien, semper eu nunc id, posuere tincidunt ante. Suspendisse facilisis turpis vitae consequat interdum. Integer tincidunt fermentum mi, nec fringilla ipsum efficitur eu. Nullam volutpat mi felis, vitae lacinia risus dictum et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+          <h2>关于</h2>
+          <p>WeCare WC首个女性尊享公共卫生间，是这个社会对女性权利尊重认可的象征。这一设计的灵感来自于母亲、女儿、祖母、CEO、医生、领导人和其他各行各业的女性，她们是让这个世界变得更加美好的动力与关键所在。</p>
+          <p>整个空间被分成卫生间区域与社交休息区域，整合了女性的需求，与众不同。 卫生间区域，每一个使用者都会享受到皇家般的对待。她们会进入一个从顶到地完全满足私密性的卫生间隔间，隔间内有挂墙吉博力马桶，墙面上还贴满了正能量的话语。使用者们可以在光滑无缝的杜邦可丽耐洗手台上梳洗打扮，所使用的龙头是丹麦品牌Vola和中国原创高端品牌宜来。</p>
+          <p>如厕完毕后，使用者就可以步入独一无二的社交休息体验区，满足自己的其他需要。妈妈们可以在母婴室中，在如家般舒适的环境中，照顾自己的宝宝。对于那些准备参加会议或者任何重要约会或派对的女生来说，更衣室可以满足更衣的需要，立刻光鲜亮丽。最后，我们在休息区专门设计了一个等待区，有着舒适的沙发，泡泡灯化妆镜和放大镜，供女生们补妆闲谈。</p>
           <div className="is-flex image is-96x96">
             <img src={Female} alt="female-room"/><img src={Nursing} alt="nursing-room"/>
           </div>
-          <h2>Location Partner</h2>
-          <img src={Placeholder} alt="logo" style={{maxWidth: '200px'}}/>
+          <div className="is-hidden-mobile">
+            <h2>位置合作伙伴</h2>
+            <img src={Placeholder} alt="logo" style={{maxWidth: '150px'}}/>
+          </div>
         </div>
         <div className="column">
-          <h2>Location</h2>
-          <Mapbox map="is-hidden-mobile is-hidden-tablet" locale="XTD Plaza"/>
+          <h2>位置</h2>
+          <Mapbox map="is-hidden-mobile is-hidden-tablet" locale="XTD Plaza" coords="121.474111, 31.223162"/>
           <div className="has-text-centered">
-            <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
+            <h3>上海市徐汇区淮海中路333号</h3>
+          </div>
+          <div className="is-hidden-tablet location-logo">
+            <img src={Placeholder} alt="logo" style={{maxWidth: '150px', paddingTop: "20px"}}/>
           </div>
         </div>
       </div>

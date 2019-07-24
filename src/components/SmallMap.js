@@ -16,7 +16,7 @@ class Mapbox extends React.Component {
   createMap() {
     let locale = this.props.locale
     const iconSize = 0.5
-    const coordinates = [121.4737, 31.2304]
+    const coordinates = this.props.coords.split(",")
     const map = new mapboxgl.Map({
       center: coordinates,
       container: 'map',
@@ -118,7 +118,7 @@ class Mapbox extends React.Component {
             title: 'Sinopec, Jinxiu Road',
             description: 'World-famous gas station in China',
             type: 'Gas Station',
-            address: ' No.11 Jinxiu Road (near the Inner ring elevated road), Pudong District, Shanghai',
+            address: 'No.11 Jinxiu Road (near the Inner ring elevated road), Pudong District, Shanghai',
             chinesetitle: '中国石化加油站（锦绣路）',
             chinesetype: '加油站',
             chineseaddress: '上海浦东新区锦绣路11号',
