@@ -7,7 +7,7 @@ import Mapbox from "../../components/SmallMap"
 import Female from '../../images/icons/restroom-type-08.svg'
 import Nursing from '../../images/icons/restroom-type-05.svg'
 
-import Placeholder from '../../images/logos/blueair.png'
+import Placeholder from '../../images/logos/icc.png'
 
 
 const XTD = (props) => {
@@ -61,18 +61,25 @@ const XTD = (props) => {
       <div className="columns">
         <div className="column">
           <h2>About</h2>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In egestas ut arcu eu finibus. Morbi dictum fermentum sapien at finibus. Quisque maximus, dui sit amet posuere accumsan, nisi ipsum gravida ante, vitae vestibulum lorem ipsum et ex. Suspendisse blandit, diam ac varius vestibulum, dolor est rhoncus nisl, semper posuere magna nisi vel nunc. Donec imperdiet a erat sed lacinia. Nam ultrices at diam vel placerat. Nulla quam turpis, posuere tincidunt hendrerit vitae, aliquam mollis diam. Curabitur varius dignissim erat eget tempor. Suspendisse potenti. Nulla id sapien tortor. Sed felis ex, porttitor in placerat id, commodo non felis. Ut augue sapien, semper eu nunc id, posuere tincidunt ante. Suspendisse facilisis turpis vitae consequat interdum. Integer tincidunt fermentum mi, nec fringilla ipsum efficitur eu. Nullam volutpat mi felis, vitae lacinia risus dictum et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
+          <p>This is WeCare WC’s first Premium Ladies Room; a true symbol of women empowerment, inspired by all of the mothers, daughters, grandmothers, CEOs, doctors, leaders, and other women that are pivotal in making the world a better place.</p>
+          <p>The room, divided into a restroom area and social lounge, embodies all of the features to make any lady’s day exceptional. On the restroom side, each woman is treated like royalty as she enters a floor to ceiling stall featuring wall-hung Geberit toilets and plenty of positive and encouraging quotes. Visitors can then wash up in style over a sleek Dupont Corian washing basin with water taps mastered by Danish brand Vola and premium Chinese brand ELLAI.</p>
+          <p>After freshening up, the one-of-a-kind experience extends to the social lounge, where visitors can tend to other needs or just get some much-deserved relaxation time in. Mothers have the option of entering the nursing room and taking care of their baby in utmost comfort. For women getting ready for meetings or for a special night out, the changing room is ready to make you look great. And last but not least, the lounge area is purposefully designed with a cozy waiting couch, make-up mirrors with bubble lights, and magnifying mirrors.</p>
           <div className="is-flex image is-96x96">
             <img src={Female} alt="female-room"/><img src={Nursing} alt="nursing-room"/>
           </div>
-          <h2>Location Partner</h2>
-          <img src={Placeholder} alt="logo" style={{maxWidth: '200px'}}/>
+          <div className="is-hidden-mobile">
+            <h2>Location Partner</h2>
+            <img src={Placeholder} alt="logo" style={{maxWidth: '150px'}}/>
+          </div>
         </div>
         <div className="column">
           <h2>Location</h2>
-          <Mapbox map="is-hidden-mobile is-hidden-tablet" locale="XTD Plaza"/>
+          <Mapbox map="is-hidden-mobile is-hidden-tablet" locale="XTD Plaza" coords="121.474111, 31.223162"/>
           <div className="has-text-centered">
-            <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
+            <h3>333 Huai hai Zhong Rd, Xuhui, Shanghai, China</h3>
+          </div>
+          <div className="is-hidden-tablet location-logo">
+            <img src={Placeholder} alt="logo" style={{maxWidth: '150px', paddingTop: "20px"}}/>
           </div>
         </div>
       </div>
