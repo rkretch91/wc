@@ -3,6 +3,11 @@ import Select from 'react-select';
 import { navigate } from "gatsby"
 
 const options = [
+  { value: 'cnpc-wuzhong-road', label: '中国石油加油站（吴中路）- CNPC, Wuzhong Road' },
+  { value: 'shanghai-international-commerce-center', label: '上海环贸广场 - ICC (Shanghai International Commerce Center)' },
+  { value: 'intime-hangzhou', label: '杭州银泰百货 - Intime Hangzhou' },
+  { value: 'k11-art-mall', label: 'K11 Art Mall' },
+  { value: 'lilacs-international-commercial-center', label: '丁香国际商业中心 - Lilacs International Commercial Center' },
   { value: 'shanghai-hongqiao-international-airport', label: '上海虹桥国际机场 - Shanghai Hongqiao International Airport' },
   { value: 'shanghai-pudong-international-airport', label: '上海浦东国际机场 - Shanghai Pudong International Airport' },
   { value: 'sinopec-jinxiu-road', label: '中国石化加油站（锦绣路）- Sinopec, Jinxiu Road' },
