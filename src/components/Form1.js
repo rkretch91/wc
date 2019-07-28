@@ -8,6 +8,7 @@ const options = [
   { value: 'intime-hangzhou', label: '杭州银泰百货 - Intime Hangzhou' },
   { value: 'k11-art-mall', label: 'K11 Art Mall' },
   { value: 'lilacs-international-commercial-center', label: '丁香国际商业中心 - Lilacs International Commercial Center' },
+  { value: 'peoples-square', label: '人民广场 - People\'s Square' },
   { value: 'shanghai-hongqiao-international-airport', label: '上海虹桥国际机场 - Shanghai Hongqiao International Airport' },
   { value: 'shanghai-pudong-international-airport', label: '上海浦东国际机场 - Shanghai Pudong International Airport' },
   { value: 'sinopec-jinxiu-road', label: '中国石化加油站（锦绣路）- Sinopec, Jinxiu Road' },

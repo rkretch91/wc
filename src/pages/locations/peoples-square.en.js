@@ -15,52 +15,36 @@ const PSquare = (props) => {
 
   const images = [
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559140325/peoples%20square/accessible-room-1.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559140325/peoples%20square/accessible-room-1.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/entrance-1.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/entrance-1.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559140331/peoples%20square/facade.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559140331/peoples%20square/facade.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-1.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-1.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/urinals.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559140324/peoples%20square/urinals.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-2.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-2.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/nursing-room-1.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559140324/peoples%20square/nursing-room-1.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-3.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-3.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/nursing-room-2.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559140324/peoples%20square/nursing-room-2.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-4.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-4.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/accessible-room-2.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559140324/peoples%20square/accessible-room-2.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-3.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-3.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/accessible-room-3.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559140324/peoples%20square/accessible-room-3.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/entrance-2.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/entrance-2.jpg',
-      },
-      {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-sink-2.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-sink-2.jpg',
-      },
-      {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-toilets-1',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-toilets-1.jpg',
-      },
-      {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-corian',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-corian.jpg',
-      },
-      {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-2.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-2.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559140324/peoples%20square/accessible-room-4.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559140324/peoples%20square/accessible-room-4.jpg',
       }
     ]
 
@@ -79,19 +63,12 @@ const PSquare = (props) => {
           <div className="is-flex image is-96x96">
             <img src={Female} alt="female-room"/><img src={Male} alt="male-room"/><img src={Nursing} alt="nursing-room"/>
           </div>
-          <div className="is-hidden-mobile">
-            <h2>Location Partner</h2>
-            <img src={Placeholder} alt="logo" style={{maxWidth: '150px'}}/>
-          </div>
         </div>
         <div className="column">
           <h2>Location</h2>
-          <Mapbox map="is-hidden-mobile is-hidden-tablet" locale="K11" coords="121.473636, 31.223389"/>
+          <Mapbox map="is-hidden-mobile is-hidden-tablet" locale="Peoples Square" coords="121.477188, 31.229672"/>
           <div className="has-text-centered">
             <h3>300 Huai Hai Zhong Lu, Xuhui District, Shanghai, China</h3>
-          </div>
-          <div className="is-hidden-tablet location-logo">
-            <img src={Placeholder} alt="logo" style={{maxWidth: '150px', paddingTop: "20px"}}/>
           </div>
         </div>
       </div>

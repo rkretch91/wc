@@ -197,6 +197,23 @@ class Mapbox extends React.Component {
           type: 'Feature',
           geometry: {
             type: 'Point',
+            coordinates: [121.477188, 31.229672]
+          },
+          properties: {
+            title: 'Peoples Square',
+            description: 'Public Restroom in the heart of the city',
+            type: 'Public Restroom',
+            address: 'No. 10 Wusheng Road, near People’s Square, Huangpu District',
+            chinesetitle: '上海人民广场景区',
+            chinesetype: '公共卫生间',
+            chineseaddress: '黄浦区人民广场，武胜路10号',
+            rooms: [Male, Female, Nursing]
+          }
+        },
+        {
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
             coordinates: [121.551695, 31.225520]
           },
           properties: {
