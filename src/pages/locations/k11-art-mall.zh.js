@@ -9,59 +9,63 @@ import Male from '../../images/icons/restroom-type-07.svg'
 import Family from '../../images/icons/restroom-type-02.svg'
 import Nursing from '../../images/icons/restroom-type-05.svg'
 
-import Placeholder from '../../images/logos/cnpc.png'
+import Placeholder from '../../images/logos/k11.png'
 
 
 const K11 = (props) => {
 
   const images = [
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/overview.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/overview.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/entrance-1.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/entrance-1.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/entrance.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/entrance.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-1.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-1.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/stall-door.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/stall-door.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-2.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-2.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/female-stalls.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/female-stalls.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-3.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-3.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/makeup-mirror.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/makeup-mirror.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-4.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-4.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/wecare-wc.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/wecare-wc.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-3.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-3.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/mens-stalls.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/mens-stalls.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/entrance-2.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/entrance-2.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/sink.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/sink.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-sink-2.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-sink-2.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/urinals.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/urinals.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-toilets-1',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-toilets-1.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/family-room-1.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/family-room-1.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-corian',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/accessible-room-corian.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/family-room-2.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/family-room-2.jpg',
       },
       {
-        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-2.jpg',
-        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1559139150/Shanghai%20Pudong%20International%20Airport/family-room-sink-2.jpg',
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/family-room-3.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/family-room-3.jpg',
+      },
+      {
+        original: 'https://res.cloudinary.com/wecare-wc/image/upload/v1564581257/k11/nursing-room.jpg',
+        thumbnail: 'https://res.cloudinary.com/wecare-wc/image/upload/c_thumb,w_200,g_face/v1564581257/k11/nursing-room.jpg',
       }
     ]
 
