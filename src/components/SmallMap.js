@@ -214,6 +214,23 @@ class Mapbox extends React.Component {
           type: 'Feature',
           geometry: {
             type: 'Point',
+            coordinates: [121.476011, 31.218197]
+          },
+          properties: {
+            title: 'UniElite Shopping Mall',
+            description: 'Shopping Mall in Shanghai',
+            type: 'Shopping Mall',
+            address: 'No. 838 South Huangpi Road, Xintiandi, Huangpu District',
+            chinesetitle: '上海人民广场景区',
+            chinesetype: '商场',
+            chineseaddress: '黄埔区新天地商圈，黄陂南路838号',
+            rooms: [Male, Female]
+          }
+        },
+        {
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
             coordinates: [121.551695, 31.225520]
           },
           properties: {

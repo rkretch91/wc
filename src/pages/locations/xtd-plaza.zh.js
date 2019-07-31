@@ -7,7 +7,7 @@ import Mapbox from "../../components/SmallMap"
 import Female from '../../images/icons/restroom-type-08.svg'
 import Nursing from '../../images/icons/restroom-type-05.svg'
 
-import Placeholder from '../../images/logos/icc.png'
+import Placeholder from '../../images/logos/xtd-48.png'
 
 
 const XTD = (props) => {
