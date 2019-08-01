@@ -1,4 +1,5 @@
 import React from 'react'
+import Link from 'gatsby-link'
 import mapboxgl from 'mapbox-gl'
 import 'mapbox-gl/dist/mapbox-gl.css'
 
@@ -265,7 +266,7 @@ class Mapbox extends React.Component {
     return (
       <React.Fragment>
         <div id={'map'} style={{width: '100%', height: 400, position: 'relative !important'}}>
-          <button className={`button ${this.props.map}`} id="map-button">{this.props.language}</button>
+          <Link to={this.props.links}><button className={`button ${this.props.map}`} id="map-button">{this.props.language}</button></Link>
         </div>
       </React.Fragment>
     )

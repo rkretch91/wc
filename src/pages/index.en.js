@@ -70,7 +70,7 @@ const IndexPage = (props) => (
         </div>
       </div>
     </div>
-    <Mapbox language="Learn more about our locations" map="" />
+    <Mapbox language="Learn more about our locations" map="" links="/en/locations" />
     <div className="partners-home has-text-centered">
       <h1>Our Partners</h1>
       <p>We have an ever expanding list of partners to help make our restrooms a reality. We would love to work with you too.</p>
@@ -86,8 +86,8 @@ const IndexPage = (props) => (
           <a href="https://www.marazzigroup.com/" target="_blank" rel="noopener noreferrer"><img src={Marazzi} alt="Marazzi-logo" /></a>
         </div>
       </div>
-      <Link to="#" style={{color: "#677e8a", fontSize: "13px", fontWeight: "bolder"}}>Learn More</Link><p>or</p>
-      <button className="button">Become a Partner</button>
+      <Link to="/en/partners/" style={{color: "#677e8a", fontSize: "13px", fontWeight: "bolder"}}>Learn More</Link><p>or</p>
+      <button className="button"><Link to="/en/contact/" style={{color: "white"}}>Become a Partner</Link></button>
     </div>
     <div className="blog-wrapper">
       <div className="blog has-text-centered">

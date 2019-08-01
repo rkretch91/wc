@@ -1,10 +1,12 @@
 import React from 'react'
+import Layout from "../layouts/zh"
 
-const NotFoundPage = () => (
-  <div>
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
-  </div>
+const TY = (props) => (
+  <Layout location={props.location}>
+    <div className="contact-wrap has-text-centered">
+      <h1>Thank you for your submission! You will hear from us soon.</h1>
+    </div>
+  </Layout>
 )
 
-export default NotFoundPage
+export default TY
