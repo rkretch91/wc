@@ -9,7 +9,7 @@ Imagine a city where futuristic, spotless, and ample public restrooms dot the si
 
 ![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136526/wecarewc%20portable/wecarewc-portable-sink.jpg)
 
-n many places, this may sound like a far away dream, but WeCare WC’s latest project is quickly turning this into a not-so-far-off reality. Introducing WeCare WC’s very first portable container model.
+In many places, this may sound like a far away dream, but WeCare WC’s latest project is quickly turning this into a not-so-far-off reality. Introducing WeCare WC’s very first portable container model.
 
 ![](https://res.cloudinary.com/wecare-wc/image/upload/v1559136510/wecarewc%20portable/190122_WeCare_xCube_131_iwmixe.jpg)
 

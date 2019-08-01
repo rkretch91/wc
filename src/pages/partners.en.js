@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from "../layouts/en"
+import Link from "gatsby-link"
 
 // About Icons
 import Partners from '../images/partners.jpg'
@@ -28,7 +29,7 @@ const About = (props) => (
         <h2>We are proud to be working with the highest quality brands in the <br></br>
         industry. Together, we bring you the most innovative, <br></br>
         environmentally-friendly, and hygienic products.</h2>
-        <button className="button" style={{marginBottom: "40px"}}>Become a Partner</button>
+        <Link to="/en/contact"><button className="button" style={{marginBottom: "40px"}}>Become a Partner</button></Link>
         <hr style={{opacity: ".3"}}/>
         <div className="columns">
           <div className="column">
@@ -84,7 +85,7 @@ const About = (props) => (
             <img src={Ellai2} alt="ellai-toilet" id="justthisonce" />
           </div>
         </div>
-        <button className="button" style={{marginBottom: "40px"}}>Become a Partner</button>
+        <Link to="/en/contact"><button className="button" style={{marginBottom: "40px"}}>Become a Partner</button></Link>
       </div>
     </div>
   </Layout>
