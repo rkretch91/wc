@@ -10,24 +10,27 @@ class Footer extends React.Component {
         <div className="footer columns is-mobile is-multiline">
             <div className="mailer-footer column is-two-fifths-desktop is-half-mobile">
               <h1>Mailing List</h1>
-              <div className="field">
-                <div className="control" style={{paddingBottom: '10px'}} >
-                  <input className="input" type="email" placeholder="e.g. ilovetoilets@gmail.com" />
+              <form name="Mailer Form" method="POST" data-netlify="true" action="/thank-you">
+                <input type="hidden" name="form-name" value="Mailer Form" />
+                <div className="field">
+                  <div className="control" style={{paddingBottom: '10px'}} >
+                    <input className="input" type="email" placeholder="e.g. ilovetoilets@gmail.com" name="email" />
+                  </div>
+                  <div className="control">
+                    <button className="button" id="grey">Submit</button>
+                  </div>
                 </div>
-                <div className="control">
-                  <button className="button" id="grey">Submit</button>
-                </div>
-              </div>
+              </form>
             </div>
             <div className="nav-menu-footer column is-one-fifth-desktop is-half-mobile">
               <div className="center-that-text">
                 <h1>Menu</h1>
-                <a href="/en/about/"><p>About Us</p></a>
-                <a href="/en/about/"><p>Location</p></a>
-                <a href="/en/about/"><p>Partners</p></a>
+                <Link to="/en/about/"><p>About Us</p></Link>
+                <Link to="/en/locations/"><p>Locations</p></Link>
+                <Link to="/en/partners/"><p>Partners</p></Link>
                 <Link to="/en/news/"><p>News</p></Link>
                 <a href="/en/about/"><p>Impact</p></a>
-                <a href="/en/about/"><p>Careers</p></a>
+                <Link to="/en/contact/"><p>Careers</p></Link>
               </div>
             </div>
             <div className="wechat-icon-footer column is-one-fifth-desktop is-half-mobile">
@@ -44,7 +47,7 @@ class Footer extends React.Component {
               <p><span id="bold">Email:</span> curious@wecarewc.com</p>
               <br/>
               <h2>Other Inquires</h2>
-              <button className="button is-primary">Get In Touch</button>
+              <Link to="contact"><button className="button is-primary">Get In Touch</button></Link>
             </div>
         </div>
         <div className="copyright has-text-centered">

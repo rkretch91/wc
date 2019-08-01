@@ -1311,9 +1311,9 @@ pre tt:after {
 // contact page
 
 .contact-wrap {
-  width: 70%;
+  width: 50%;
   margin: 0 auto;
-  padding: 10rem 0;
+  padding: 12rem 0 5rem 0;
   h1 {
     color: #526C78;
     font-weight: bold;
@@ -1332,5 +1332,28 @@ pre tt:after {
   img {
     height: 99px;
   }
+}
+
+@media only screen and (max-width: 768px) {
+  .contact-wrap {
+  width: 70%;
+  }
+}
+
+
+.input:focus {
+  border-color: #526C78 !important;
+}
+
+.option:focus {
+  border-color: #526C78 !important;
+}
+
+.textarea:focus {
+  border-color: #526C78 !important;
+}
+
+.select::after {
+  border-color: #526C78 !important;
 }
 

@@ -52,15 +52,13 @@ class Contact extends React.Component {
         </div>
         <div className="field">
           <div className="control">
-            <label className="checkbox">
-              <input type="checkbox" />
-               <span> </span>Put me on the mailing list for occasional WeCare WC News
-            </label>
+            <input type="checkbox" />
+            <label className="checkbox"><p><span> </span>Put me on the mailing list for occasional WeCare WC News</p></label>
           </div>
         </div>
         <div className="field is-grouped">
           <div className="control">
-            <button className="button is-link">Submit</button>
+            <button className="button is-link" id="grey">Submit</button>
           </div>
         </div>
       </form>

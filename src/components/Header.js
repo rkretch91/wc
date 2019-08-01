@@ -33,11 +33,11 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/en/about/">About Us</Link>
-            <a href="/en/locations/">Locations</a>
+            <Link to="/en/locations/">Locations</Link>
             <Link to="/en/partners/">Partners</Link>
             <Link to="/en/news/">News</Link>
             <a href="/en/about/">Impact</a>
-            <button className="button"><a href="/en/about/">Get In Touch</a></button>
+            <button className="button"><Link to="/en/contact/">Get In Touch</Link></button>
           </React.Fragment>
           )
       } else {
@@ -45,10 +45,10 @@ class Header extends React.Component {
           <React.Fragment>
             <Link to="/about/">关于我们</Link>
             <Link to="/locations/">地址</Link>
-            <a href="/partners/">合作公司</a>
+            <Link to="/partners/">合作公司</Link>
             <Link to="/news/">新闻</Link>
             <a href="/about/">社会</a>
-            <button className="button"><a href="/en/about/">联系我们</a></button>
+            <button className="button"><Link to="/contact/">联系我们</Link></button>
           </React.Fragment>
           )
       }
@@ -80,27 +80,27 @@ class Header extends React.Component {
       if (this.props.langs[0].selected) {
         return(
             <Menu width={ '70%' }>
-              <a id="home" className="menu-item" href="/en">Home</a>
-              <a id="about" className="menu-item" href="/en/about">About Us</a>
-              <a id="contact" className="menu-item" href="/en/locations">Locations</a>
-              <a id="contact" className="menu-item" href="/en/partners">Partners</a>
-              <a id="contact" className="menu-item" href="/en/news">News</a>
-              <a id="contact" className="menu-item" href="/contact">Impact</a>
+              <Link id="home" className="menu-item" to="/en">Home</Link>
+              <Link id="about" className="menu-item" to="/en/about">About Us</Link>
+              <Link id="location" className="menu-item" to="/en/locations">Locations</Link>
+              <Link id="partners" className="menu-item" to="/en/partners">Partners</Link>
+              <Link id="news" className="menu-item" to="/en/news">News</Link>
+              <a id="contact" className="menu-item" to="/en/news">Impact</a>
               <hr/>
-              <a className="menu-item--small" href="">Get In Touch</a>
+              <Link className="menu-item--small" to="/en/contact/">Get In Touch</Link>
             </Menu>
           )
       } else {
         return(
             <Menu width={ '70%' }>
-              <a id="home" className="menu-item" href="/">Home</a>
-              <a id="about" className="menu-item" href="/about">关于我们</a>
-              <a id="contact" className="menu-item" href="/locations">地址</a>
-              <a id="contact" className="menu-item" href="/partners">合作公司</a>
-              <a id="contact" className="menu-item" href="/news">新闻</a>
+              <Link id="home" className="menu-item" to="/">Home</Link>
+              <Link id="about" className="menu-item" to="/about">关于我们</Link>
+              <Link id="contact" className="menu-item" to="/locations">地址</Link>
+              <Link id="contact" className="menu-item" to="/partners">合作公司</Link>
+              <Link id="contact" className="menu-item" to="/news">新闻</Link>
               <a id="contact" className="menu-item" href="/contact">社会</a>
               <hr/>
-              <a className="menu-item--small" href="">联系我们</a>
+              <Link className="menu-item--small" to="/contact">联系我们</Link>
             </Menu>
           )
       }
