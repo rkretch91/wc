@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from "../layouts/en"
+import Link from 'gatsby-link'
 
 // About Icons
 import Stalls from '../images/wecarewc-xtd-stalls.jpg'
@@ -111,7 +112,7 @@ const About = (props) => (
           <p>Mom's Rooms</p>
         </div>
       </div>
-      <button className="button" id="about-button1">See Our Facilities</button>
+      <Link to="/en/locations"><button className="button" id="about-button1">See Our Facilities</button></Link>
     </div>
   </Layout>
 )
