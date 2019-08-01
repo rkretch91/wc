@@ -1308,3 +1308,29 @@ pre tt:after {
   width: 40%;
 }
 
+// contact page
+
+.contact-wrap {
+  width: 70%;
+  margin: 0 auto;
+  padding: 10rem 0;
+  h1 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  h2 {
+    color: #526C78;
+    font-weight: bold;
+    font-size: 20px;
+    padding-bottom: 10px;
+  }
+  p {
+    color: #526C78;
+    font-size: 13px;
+  }
+  img {
+    height: 99px;
+  }
+}
+
