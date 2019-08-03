@@ -1,7 +1,7 @@
 ---
 title: "A WeCare WC Dedicated to All The Mamas"
 date: "2019-07-25"
-photo: https://res.cloudinary.com/wecare-wc/image/upload/v1564558773/icc/room2b.jpg
+photo: https://res.cloudinary.com/wecare-wc/image/upload/e_brightness:20/v1564558773/icc/room2b.jpg
 language: "EN"
 ---
 
