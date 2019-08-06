@@ -64,7 +64,7 @@ const Lilacs = (props) => {
         <div className="column">
           <h2>关于</h2>
           <p>In Mid 2017, we launched Lilacs x WeCare WC. To date, this is one of our most innovative project as it encompasses many different high-need facilities hardly seen anywhere else on Earth, including a world-class Powder Room, two Family Rooms, an Accessible Room, and even an All-Gender Bathroom. Located on the ground level, visitors can truly relax from Shanghai's craziness for a few minutes in one of our tranquil restrooms.</p>
-          <div className="is-flex image is-96x96">
+          <div className="is-flex image is-64x64">
             <img src={Unisex} alt="nursing-room"/><img src={Family} alt="nursing-room"/><img src={Accessible} alt="nursing-room"/><img src={Powder} alt="nursing-room"/>
           </div>
           <div className="is-hidden-mobile">
