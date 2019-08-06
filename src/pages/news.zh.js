@@ -2,8 +2,6 @@ import React from 'react'
 import { graphql, StaticQuery, Link } from "gatsby"
 import Layout from "../layouts/zh"
 
-import Ribbon from '../images/ribbon-cut.jpg'
-
 const News = (props) => (
   <StaticQuery
     query={graphql`
@@ -31,7 +29,7 @@ const News = (props) => (
 }
   render={data => (
   <Layout location={props.location}>
-    <div className="blog-banner" id="small-banner" style={{background: `linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.3)), url(${Ribbon})`}}>
+    <div className="blog-banner" id="news-banner" style={{background: `linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.2)), url('https://res.cloudinary.com/wecare-wc/image/upload/v1565015970/k11/urinals.jpg')`}}>
       <h1>新闻</h1>
     </div>
     <div className="blog-wrapper">
