@@ -81,7 +81,7 @@ const K11 = (props) => {
           <h2>About</h2>
           <p>K11 Art Mall will always proudly be WeCare WC's first location. Right in the heart of Shanghai, K11 is ideal spot for our restroom as it brings together art and innovation to a world-class shopping mall.</p>
           <p>Located on Level B3, the WeCare WC x K11 facilities are an oasis away from the hustle and bustle of the mall and Shanghai. The Female and Male rooms boast floor to ceiling, graphical stalls and bright, motivational mirrors. Have a large family and dread the restroom experience? The Family room is your solution boasting a spacious floorplan with all the tools to come and leave as a family in one piece. New mother? The Nursing room will provide a tranquil space to breast feed and share a special moment with your little one.</p>
-          <div className="is-flex image is-96x96">
+          <div className="is-flex image is-64x64">
             <img src={Female} alt="female-room"/><img src={Male} alt="male-room"/><img src={Family} alt="family-room"/><img src={Nursing} alt="nursing-room"/>
           </div>
           <div className="is-hidden-mobile">
