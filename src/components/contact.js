@@ -20,7 +20,7 @@ class Contact extends React.Component {
 
     render() {
     return (
-      <form name="Contact Form" method="POST" data-netlify="true" action="/thank-you">
+      <form name="Contact Form" method="POST" data-netlify="true" action="/thank-you" className='contact-form'>
         <input type="hidden" name="form-name" value="Contact Form" />
         <div className="field">
           <div className="control">

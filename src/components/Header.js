@@ -66,7 +66,11 @@ class Header extends React.Component {
       const { prevScrollpos } = this.state;
       if (typeof window !== 'undefined') {
       const currentScrollPos = window.pageYOffset;
-      const visible = prevScrollpos > currentScrollPos;
+      console.log(currentScrollPos, "currentScrollPos")
+      console.log(prevScrollpos, "prevScrollpos")
+      const visible = prevScrollpos > currentScrollPos && prevScrollpos < 300;
+      console.log(visible, "visible")
+
       this.setState({
         prevScrollpos: currentScrollPos,
         visible

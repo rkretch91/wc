@@ -725,7 +725,7 @@ pre tt:after {
 /*banner*/
 
 .banner {
-  background-image: url('../images/wecarewc-peoples-square.jpg');
+  background-image: url('../images/pudong-family-room.jpg');
   height: 100vh;
   background-size: cover !important;
   text-align: center;
@@ -991,7 +991,7 @@ pre tt:after {
 /*blog*/
 
 .blog-banner {
-  height: 60vh;
+  height: 70vh;
   background-size: cover !important;
   text-align: center;
   display: flex;
@@ -1005,9 +1005,13 @@ pre tt:after {
   }
 }
 
-#small-banner {
-  height: 50vh;
+#news-banner {
+  height: 100vh;
 }
+
+// #small-banner {
+//   height: 50vh;
+// }
 
 .blog-post h1 {
   color: #526C78;
@@ -1080,10 +1084,10 @@ pre tt:after {
   height: 50vh;
 
   /* Create the parallax scrolling effect */
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+  // background-attachment: fixed;
+  // background-position: center;
+  // background-repeat: no-repeat;
+  // background-size: cover;
 }
 
 #about-button1 {
@@ -1363,3 +1367,81 @@ pre tt:after {
   border-color: #526C78 !important;
 }
 
+.contact-form {
+  z-index: 100;
+}
+
+
+// Illustration
+@keyframes woman {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(15deg);
+  }
+}
+
+#woman-illustration {
+  position: absolute;
+  max-width: 25%;
+  top: 175px;
+  left: -100px;
+  animation: woman 1s ease-in 0s 1;
+  transform: rotate(15deg);
+  opacity: .8;
+}
+
+@media only screen and (max-width: 500px) {
+  #woman-illustration {
+    max-width: 40%;
+    left: -75px;
+  }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 501px) {
+  #woman-illustration {
+    max-width: 35%;
+    left: -100px;
+  }
+}
+
+@keyframes man {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(-15deg);
+  }
+}
+
+#man-illustration {
+  position: absolute;
+  max-width: 25%;
+  top: 350px;
+  right: -100px;
+  animation: man 1s ease-in 0s 1;
+  transform: rotate(-15deg);
+  opacity: .8;
+}
+
+
+@media only screen and (max-width: 500px) {
+  #man-illustration {
+    max-width: 40%;
+    right: -75px;
+  }
+}
+
+
+@media only screen and (max-width: 768px) and (min-width: 501px) {
+  #man-illustration {
+    max-width: 35%;
+    right: -100px;
+  }
+}
+
+
+#darker {
+  background: #E8E8E8;
+}
