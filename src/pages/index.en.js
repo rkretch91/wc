@@ -51,12 +51,12 @@ const IndexPage = (props) => (
         <div className="column has-text-centered">
           <img src={Who} alt="who-is-wecare-wc" />
           <span><h5>who we are</h5></span>
-          <span><p>Pioneers and experts transforming the public facility experience globally.</p></span>
+          <span><p>Pioneers and experts transforming the public restroom and facility experience globally.</p></span>
         </div>
         <div className="column has-text-centered">
           <img src={What} style={{width: '40px'}} alt="what-is-wecare-wc" />
           <span><h5>what we do</h5></span>
-          <span><p>Create hygienic and innovatively designed public facilities and restrooms.</p></span>
+          <span><p>Create hygienic and innovatively designed public restrooms and facilities.</p></span>
         </div>
         <div className="column has-text-centered">
           <img src={Where} alt="where-is-wecare-wc" />
@@ -73,7 +73,7 @@ const IndexPage = (props) => (
     <Mapbox language="Learn more about our locations" map="" links="/en/locations" />
     <div className="partners-home has-text-centered">
       <h1>Our Partners</h1>
-      <p>We have an ever expanding list of partners to help make our restrooms a reality. We would love to work with you too.</p>
+      <p>We have an ever-expanding list of partners to help make our restrooms a reality. We would love to work with you too.</p>
       <div className="partners-logos columns">
         <div className="column">
           <a href="http://www.ellai.cn/" target="_blank" rel="noopener noreferrer"><img src={Ellai} alt="Ellai-logo" /></a>
@@ -91,7 +91,7 @@ const IndexPage = (props) => (
     </div>
     <div className="blog-wrapper">
       <div className="blog has-text-centered">
-        <h1>新闻</h1>
+        <h1>News</h1>
         <div className="columns is-centered">
         {data.allMarkdownRemark.edges.slice(0, 6).map(({ node }) => {
           console.log(node.frontmatter.title)
