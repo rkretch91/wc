@@ -1,5 +1,4 @@
 import React from 'react'
-import { graphql, StaticQuery, Link } from "gatsby"
 import Layout from "../../layouts/zh"
 import ImageGallery from 'react-image-gallery';
 import Mapbox from "../../components/SmallMap"

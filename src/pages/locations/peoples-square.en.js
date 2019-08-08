@@ -1,5 +1,4 @@
 import React from 'react'
-import { graphql, StaticQuery, Link } from "gatsby"
 import Layout from "../../layouts/en"
 import ImageGallery from 'react-image-gallery';
 import Mapbox from "../../components/SmallMap"
@@ -7,9 +6,6 @@ import Mapbox from "../../components/SmallMap"
 import Male from '../../images/icons/restroom-type-07.svg'
 import Female from '../../images/icons/restroom-type-08.svg'
 import Nursing from '../../images/icons/restroom-type-05.svg'
-
-import Placeholder from '../../images/logos/cnpc.png'
-
 
 const PSquare = (props) => {
 
