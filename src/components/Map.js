@@ -25,10 +25,7 @@ class Mapbox extends React.Component {
     map.scrollZoom.disable()
 
     map.on('load', () => {
-      map.loadImage('/pin.png', (error, image) => {
-        if (error) {
-          throw error
-        }
+      map.loadImage((error, image) => {
         map.addLayer({
           id: 'points',
           layout: {

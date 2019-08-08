@@ -1,7 +1,7 @@
 ---
 title: "公共卫生间之“女王”"
 date: "2019-05-10"
-photo: https://res.cloudinary.com/wecare-wc/image/upload/v1563378006/XTD%20Plaza/XTD-Plaza-Entrance-2.jpg
+photo: https://res.cloudinary.com/wecare-wc/image/upload/q_auto/v1563378006/XTD%20Plaza/XTD-Plaza-Entrance-2.jpg
 language: "CN"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "一份来自WeCare WC和上海环贸广场的关怀"
 date: "2019-07-25"
-photo: https://res.cloudinary.com/wecare-wc/image/upload/e_brightness:20/v1564558773/icc/room2b.jpg
+photo: https://res.cloudinary.com/wecare-wc/image/upload/q_auto/e_brightness:20/v1564558773/icc/room2b.jpg
 language: "CN"
 ---
 
