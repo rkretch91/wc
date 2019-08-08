@@ -236,7 +236,6 @@ class Mapbox extends React.Component {
           marker.properties.rooms.forEach((room) => {
             let image = `<img src='${room}'/>`
             images += image
-            console.log(images)
           })
           return images
         }
