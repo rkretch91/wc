@@ -23,6 +23,10 @@ import Icon14 from '../images/icons/restroom-type-06.svg'
 import Icon15 from '../images/icons/restroom-type-07.svg'
 import Icon16 from '../images/icons/restroom-type-08.svg'
 
+import Corian from '../images/partners/1.jpg'
+import Dyson2 from '../images/partners/2.jpg'
+import Ellai2 from '../images/partners/3.jpg'
+
 const About = (props) => (
   <Layout location={props.location}>
     <div className="blog-banner" style={{background: `linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.3)), url(${Stalls})`}}>
@@ -74,9 +78,17 @@ const About = (props) => (
         <div className="column">
         </div>
       </div>
+    <div className="columns">
+      <div className="column">
+        <img src={Corian} alt="corian-counter" id="justthisonce" />
+      </div>
+      <div className="column">
+        <img src={Dyson2} alt="dyson-airblade" id="justthisonce" />
+      </div>
+      <div className="column">
+        <img src={Ellai2} alt="ellai-toilet" id="justthisonce" />
+      </div>
     </div>
-    <div className="parallax"/>
-    <div className="about-wrap has-text-centered">
       <h2>We design and implement restrooms and facilities for any type of need.</h2>
       <div className="columns">
         <div className="column">
