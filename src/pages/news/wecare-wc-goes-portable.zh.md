@@ -1,7 +1,7 @@
 ---
 title: "WeCare WC移动卫生间解决方案"
 date: "2019-02-25"
-photo: https://res.cloudinary.com/wecare-wc/image/upload/v1563379180/wecarewc%20portable/wecarewc-portable-teaser-1.jpg
+photo: https://res.cloudinary.com/wecare-wc/image/upload/q_auto/v1563379180/wecarewc%20portable/wecarewc-portable-teaser-1.jpg
 language: "CN"
 ---
 

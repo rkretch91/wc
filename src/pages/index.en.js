@@ -86,7 +86,7 @@ const IndexPage = (props) => (
           <a href="https://www.marazzigroup.com/" target="_blank" rel="noopener noreferrer"><img src={Marazzi} alt="Marazzi-logo" /></a>
         </div>
       </div>
-      <Link to="/en/partners/" style={{color: "#677e8a", fontSize: "13px", fontWeight: "bolder"}}>Learn More</Link><p>or</p>
+      <Link to="/en/partners/" style={{color: "#677e8a", fontSize: "13px", fontWeight: "bolder"}}>Learn More About Our Partners</Link><p>or</p>
       <button className="button"><Link to="/en/contact/" style={{color: "white"}}>Become a Partner</Link></button>
     </div>
     <div className="blog-wrapper">
