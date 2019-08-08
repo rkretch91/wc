@@ -36,7 +36,7 @@ class Header extends React.Component {
             <Link to="/en/locations/">Locations</Link>
             <Link to="/en/partners/">Partners</Link>
             <Link to="/en/news/">News</Link>
-            <a href="/en/about/">Impact</a>
+            <Link to="/en/impact/">Impact</Link>
             <button className="button"><Link to="/en/contact/">Get In Touch</Link></button>
           </React.Fragment>
           )
@@ -47,7 +47,7 @@ class Header extends React.Component {
             <Link to="/locations/">地址</Link>
             <Link to="/partners/">合作公司</Link>
             <Link to="/news/">新闻</Link>
-            <a href="/about/">社会</a>
+            <Link to="/impact/">社会</Link>
             <button className="button"><Link to="/contact/">联系我们</Link></button>
           </React.Fragment>
           )
@@ -58,24 +58,28 @@ class Header extends React.Component {
       window.addEventListener("scroll", this.handleScroll);
     }
 
-    componentWillUnmount() {
+  componentWillUnmount() {
       window.removeEventListener("scroll", this.handleScroll);
     }
 
-    handleScroll = () => {
+  handleScroll = () => {
       const { prevScrollpos } = this.state;
       if (typeof window !== 'undefined') {
       const currentScrollPos = window.pageYOffset;
-      console.log(currentScrollPos, "currentScrollPos")
-      console.log(prevScrollpos, "prevScrollpos")
       const visible = prevScrollpos > currentScrollPos && prevScrollpos < 300;
-      console.log(visible, "visible")
 
+      if (currentScrollPos === 0) {
+      this.setState({
+        prevScrollpos: currentScrollPos,
+        visible: true
+      });
+    } else {
       this.setState({
         prevScrollpos: currentScrollPos,
         visible
       });
       }
+    }
 
     };
 
@@ -89,7 +93,7 @@ class Header extends React.Component {
               <Link id="location" className="menu-item" to="/en/locations">Locations</Link>
               <Link id="partners" className="menu-item" to="/en/partners">Partners</Link>
               <Link id="news" className="menu-item" to="/en/news">News</Link>
-              <a id="contact" className="menu-item" to="/en/news">Impact</a>
+              <Link id="contact" className="menu-item" to="/en/impact">Impact</Link>
               <hr/>
               <Link className="menu-item--small" to="/en/contact/">Get In Touch</Link>
             </Menu>
@@ -102,7 +106,7 @@ class Header extends React.Component {
               <Link id="contact" className="menu-item" to="/locations">地址</Link>
               <Link id="contact" className="menu-item" to="/partners">合作公司</Link>
               <Link id="contact" className="menu-item" to="/news">新闻</Link>
-              <a id="contact" className="menu-item" href="/contact">社会</a>
+              <Link id="contact" className="menu-item" to="/impact">社会</Link>
               <hr/>
               <Link className="menu-item--small" to="/contact">联系我们</Link>
             </Menu>

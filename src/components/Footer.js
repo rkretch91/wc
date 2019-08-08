@@ -29,7 +29,7 @@ class Footer extends React.Component {
                 <Link to="/en/locations/"><p>Locations</p></Link>
                 <Link to="/en/partners/"><p>Partners</p></Link>
                 <Link to="/en/news/"><p>News</p></Link>
-                <a href="/en/about/"><p>Impact</p></a>
+                <Link to="/en/impact/"><p>Impact</p></Link>
                 <Link to="/en/contact/"><p>Careers</p></Link>
               </div>
             </div>
