@@ -33,7 +33,7 @@ const About = (props) => (
       <h1>About Us</h1>
     </div>
     <div className="about-wrap has-text-centered">
-      <h1>We are a professional design house +<br></br>
+      <h1>We are a professional design house and<br></br>
       retail OOH ads and media technology company<br></br>
       <span style={{color: '#F70303'}}>changing the status quo of public restrooms and facilities.</span></h1>
       <br></br>
