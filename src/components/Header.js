@@ -44,10 +44,10 @@ class Header extends React.Component {
         return(
           <React.Fragment>
             <Link to="/about/">关于我们</Link>
-            <Link to="/locations/">地址</Link>
-            <Link to="/partners/">合作公司</Link>
-            <Link to="/news/">新闻</Link>
-            <Link to="/impact/">社会</Link>
+            <Link to="/locations/">我们在哪</Link>
+            <Link to="/partners/">合作伙伴</Link>
+            <Link to="/news/">最新消息</Link>
+            <Link to="/impact/">社会责任</Link>
             <button className="button"><Link to="/contact/">联系我们</Link></button>
           </React.Fragment>
           )
@@ -103,10 +103,10 @@ class Header extends React.Component {
             <Menu width={ '70%' }>
               <Link id="home" className="menu-item" to="/">Home</Link>
               <Link id="about" className="menu-item" to="/about">关于我们</Link>
-              <Link id="contact" className="menu-item" to="/locations">地址</Link>
-              <Link id="contact" className="menu-item" to="/partners">合作公司</Link>
-              <Link id="contact" className="menu-item" to="/news">新闻</Link>
-              <Link id="contact" className="menu-item" to="/impact">社会</Link>
+              <Link id="contact" className="menu-item" to="/locations">我们在哪</Link>
+              <Link id="contact" className="menu-item" to="/partners">合作伙伴</Link>
+              <Link id="contact" className="menu-item" to="/news">最新消息</Link>
+              <Link id="contact" className="menu-item" to="/impact">社会责任</Link>
               <hr/>
               <Link className="menu-item--small" to="/contact">联系我们</Link>
             </Menu>

@@ -1,5 +1,5 @@
 ---
-title: "中国呢"
+title: "WeCare WC 人民广场公共卫生间落成"
 date: "2018-10-28"
 photo: https://res.cloudinary.com/wecare-wc/image/upload/v1563379317/peoples%20square/accessible-room.jpg
 language: "CN"
