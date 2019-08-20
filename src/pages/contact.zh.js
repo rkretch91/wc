@@ -11,8 +11,8 @@ import Illustration4 from '../images/illustration-02.svg'
 const Contact = (props) => (
   <Layout location={props.location} id="darker">
     <div className="contact-wrap has-text-centered">
-      <h1>We Want to Hear From You!</h1>
-      <p>Do you want to partner up? Hear about jobs at WeCare WC? Provide us with some feedback? Or anything else? Send us a message below and we will get right back to you.</p>
+      <h1>我们期待您的消息！</h1>
+      <p>你想与我们合作吗？听说WeCare WC在招聘？给我们一些反馈？或者其他什么！在下面给我们发一条信息，我们会尽快回复您。</p>
       <ContactForm/>
     </div>
     <img src={Illustration1} alt='womens-room-icon' id="woman-illustration"/>

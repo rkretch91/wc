@@ -30,34 +30,34 @@ import Ellai2 from '../images/partners/3.jpg'
 const About = (props) => (
   <Layout location={props.location}>
     <div className="blog-banner" style={{background: `linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.3)), url(${Stalls})`}}>
-      <h1>About Us</h1>
+      <h1>关于我们</h1>
     </div>
     <div className="about-wrap has-text-centered">
-      <h1>We are a professional design house +<br></br>
-      retail OOH ads and media technology company<br></br>
-      <span style={{color: '#F70303'}}>changing the status quo of public restrooms and facilities.</span></h1>
+      <h1>我们是一家专业的设计工作室 +<br></br>
+      零售户外广告与媒体科技公司，<br></br>
+      <span style={{color: '#F70303'}}>旨在改变公共卫生间和配套设施的现状。</span></h1>
       <br></br>
-      <h2>How It Works:</h2>
+      <h2>运作模式:</h2>
       <div className="columns">
         <div className="column">
           <img src={Icon8} alt="we-design" />
-          <p>We design.</p>
+          <p>空间设计</p>
         </div>
         <div className="column">
           <img src={Icon4} alt="we-supply-core-materials" />
-          <p>We supply core materials.</p>
+          <p>主材供应</p>
         </div>
         <div className="column">
           <img src={Icon3} alt="we-supervise-construction" />
-          <p>We supervise construction.</p>
+          <p>施工监督</p>
         </div>
         <div className="column">
           <img src={Icon1} alt="we-repair"/>
-          <p>We repair and maintain.</p>
+          <p>维修保洁</p>
         </div>
         <div className="column">
           <img src={Icon2} alt="we-generate-revenue" />
-          <p>We generate revenue with OOH ads.</p>
+          <p>广告收入</p>
         </div>
       </div>
       <div className="columns">
@@ -65,15 +65,15 @@ const About = (props) => (
         </div>
         <div className="column">
           <img src={Icon5} alt="we-dont-construct" />
-          <p>We don't do construction ourselves.</p>
+          <p>不提供施工</p>
         </div>
         <div className="column">
           <img src={Icon6} alt="we-dont-clean-daily" />
-          <p>We don't do daily cleanings (but can provide monthly/semi-monthly service).</p>
+          <p>不提供日常清洁（但是可以提供月度/半月度深度清洁服务）</p>
         </div>
         <div className="column">
           <img src={Icon7} alt="we-dont-ask-ll" />
-          <p>We don't ask landlords to invest in equipment for retail ads or media space.</p>
+          <p>不需要业主对零售广告或媒介进行投资</p>
         </div>
         <div className="column">
         </div>
@@ -89,42 +89,42 @@ const About = (props) => (
         <img src={Ellai2} alt="ellai-toilet" id="justthisonce" />
       </div>
     </div>
-      <h2>We design and implement restrooms and facilities for any type of need.</h2>
+      <h2>我们设计建造各式各样的卫生间及相关设施以满足不同的需求。</h2>
       <div className="columns">
         <div className="column">
           <img src={Icon15} alt="female-restroom" />
-          <p>Female Restrooms</p>
+          <p>女卫生间</p>
         </div>
         <div className="column">
           <img src={Icon16} alt="male-restroom" />
-          <p>Male Restrooms</p>
+          <p>男卫生间</p>
         </div>
         <div className="column">
           <img src={Icon9} alt="all-gender-restroom" />
-          <p>All-Gender Restrooms</p>
+          <p>无性别卫生间</p>
         </div>
         <div className="column">
           <img src={Icon10} alt="family-room" />
-          <p>Family Rooms</p>
+          <p>家庭卫生间</p>
         </div>
         <div className="column">
           <img src={Icon11} alt="accessible-room" />
-          <p>Accessible Rooms</p>
+          <p>无障碍卫生间</p>
         </div>
         <div className="column">
           <img src={Icon12} alt="powder-room" />
-          <p>Powder Rooms</p>
+          <p>化妆间</p>
         </div>
         <div className="column">
           <img src={Icon13} alt="nursing-room" />
-          <p>Nursing Rooms</p>
+          <p>母婴室</p>
         </div>
         <div className="column">
           <img src={Icon14} alt="moms-room" />
-          <p>Mom's Rooms</p>
+          <p>妈妈休息室</p>
         </div>
       </div>
-      <Link to="/locations"><button className="button" id="about-button1">See Our Facilities</button></Link>
+      <Link to="/locations"><button className="button" id="about-button1">查看我们的设施</button></Link>
     </div>
   </Layout>
 )

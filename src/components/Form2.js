@@ -31,7 +31,7 @@ class Form extends React.Component {
     return (
       <Select
         value={selectedOption}
-        placeholder={'Select a location'}
+        placeholder={'选择一个地点'}
         onChange={this.handleChange}
         options={options}
         clearable={false}

@@ -30,7 +30,7 @@ const News = (props) => (
   render={data => (
   <Layout location={props.location}>
     <div className="blog-banner" id="news-banner" style={{background: `linear-gradient(rgba(0,0,0,0.1),rgba(255,255,255,0.2)), url('https://res.cloudinary.com/wecare-wc/image/upload/v1565015970/k11/urinals.jpg')`}}>
-      <h1>新闻</h1>
+      <h1>最新消息</h1>
     </div>
     <div className="blog-wrapper">
       <div className="blog has-text-centered">
