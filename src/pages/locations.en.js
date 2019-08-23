@@ -4,7 +4,7 @@ import Layout from "../layouts/en"
 import Mapbox from "../components/Map"
 import Form1 from "../components/Form1"
 
-import Stalls from '../images/wecarewc-peoples-square.jpg'
+import Stalls from '../images/icc-restroom.jpeg'
 
 
 const Locations = (props) => (
