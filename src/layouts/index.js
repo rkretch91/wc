@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Header from '../components/Header'
 import Footer from '../components/Footer'
+import Footer2 from '../components/Footer2'
 import Helmet from 'react-helmet'
 import { getCurrentLangKey, getLangs, getUrlForLang } from 'ptz-i18n';
 import { StaticQuery, graphql } from "gatsby"
@@ -52,7 +53,7 @@ const Layout = ({ children, location, i18nMessages }) => {
               >
                 {children}
               </div>
-              <Footer/>
+              <div>{(langKey === "en") ? <Footer/> : <Footer2/>}</div>
             </div>
           </IntlProvider>
         )
