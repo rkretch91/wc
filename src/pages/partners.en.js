@@ -22,7 +22,7 @@ import Ellai2 from '../images/partners/ellai.jpg'
 const About = (props) => (
   <Layout location={props.location}>
     <div style={{backgroundColor: 'white'}}>
-      <div className="blog-banner" style={{boxShadow: "none", background: `linear-gradient(rgba(0,0,0,0.0),rgba(255,255,255,0.0)), url(${Partners})`, filter: 'blur(4px)'}}>
+      <div className="blog-banner" style={{boxShadow: "none", background: `linear-gradient(rgba(0,0,0,0.5),rgba(255,255,255,0.2)), url(${Partners})`}}>
       </div>
       <h1 style={{position: 'absolute', top: '30vh', left: '0', right: '0', marginLeft: 'auto', marginRight: 'auto', color: 'white'}} className="has-text-centered">Partners</h1>
       <div className="about-wrap has-text-centered">

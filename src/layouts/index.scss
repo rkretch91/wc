@@ -728,6 +728,7 @@ pre tt:after {
   background-image: url('../images/pudong-family-room.jpg');
   height: 100vh;
   background-size: cover !important;
+  background-position: bottom;
   text-align: center;
   display: flex;
   align-items: center;
@@ -997,6 +998,7 @@ pre tt:after {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-position: bottom;
   max-width: 100%;
   box-shadow: .5px .5px 6px 0px rgba(0,0,0,0.44) !important;
   h1 {
