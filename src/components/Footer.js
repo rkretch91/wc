@@ -40,7 +40,7 @@ class Footer extends React.Component {
             </div>
             <div className="address-phone-footer column is-one-fifth-desktop is-half-mobile">
               <h2>Address</h2>
-              <p>Wework Nanjing West Road<br/>819 Nanjing West Road<br/>(near Taixing Road)<br/>3rd Floor<br/>200040 Shanghai P.R. China</p>
+              <p>819 Nanjing West Road<br/>(near Taixing Road)<br/>3rd Floor<br/>200040 Shanghai P.R. China</p>
               <br/>
               <h2>Customer Service</h2>
               <p><span className="bold">Phone:</span> +86(0)21-51853537</p>

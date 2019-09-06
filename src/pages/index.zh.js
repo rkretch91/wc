@@ -95,7 +95,6 @@ const IndexPage = (props) => (
         <h1>新闻</h1>
         <div className="columns is-centered">
         {data.allMarkdownRemark.edges.slice(0, 6).map(({ node }) => {
-          console.log(node.frontmatter.title)
           if (node.frontmatter.language === "CN") {
           return(
           <div className="column has-text-left spacing" key={node.id}>
