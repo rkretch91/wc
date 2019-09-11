@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql, StaticQuery, Link } from "gatsby"
 import Layout from "../layouts/zh"
 import Banner from "../components/Banner"
-import Mapbox from "../components/Map"
+import Gallery from "../components/Testimonial2"
 
 import Who from '../images/who-icon.png'
 import What from '../images/what-icon.png'
@@ -17,6 +17,10 @@ import Kohler from '../images/logos/kohler.png'
 import Marazzi from '../images/logos/marazzi.png'
 import Philips from '../images/logos/philips.png'
 import VB from '../images/logos/v&b.png'
+
+import Corian from '../images/partners/1.jpg'
+import Dyson2 from '../images/partners/2.jpg'
+import Ellai2 from '../images/partners/4.jpg'
 
 const IndexPage = (props) => (
   <StaticQuery
@@ -71,24 +75,24 @@ const IndexPage = (props) => (
         </div>
       </div>
     </div>
-    <Mapbox language="发现更多我们的地点" map="" links="/locations/" />
+    <div className="home-wrap">
+      <div className="columns">
+        <div className="column">
+          <img src={Corian} alt="corian-counter" id="justthisonce" />
+        </div>
+        <div className="column">
+          <img src={Dyson2} alt="dyson-airblade" id="justthisonce" />
+        </div>
+        <div className="column">
+          <img src={Ellai2} alt="ellai-toilet" id="justthisonce" />
+        </div>
+      </div>
+    </div>
     <div className="partners-home has-text-centered">
       <h1>合作伙伴</h1>
       <p>我们有一个不断扩大的合作伙伴队伍一起携手，将卫生间愿景变成现实。我们也期待与您合作。</p>
-      <div className="partners-logos columns">
-        <div className="column">
-          <a href="http://www.ellai.cn/" target="_blank" rel="noopener noreferrer"><img src={Ellai} alt="Ellai-logo" /></a>
-          <a href="https://www.dyson.com/en.html" target="_blank" rel="noopener noreferrer"><img src={Dyson} alt="Dyson-logo" /></a>
-          <a href="http://www.dupont.com/" target="_blank" rel="noopener noreferrer"><img src={Dupont} alt="Dupont-logo" /></a>
-          <a href="https://www.philips.com/global" target="_blank" rel="noopener noreferrer"><img src={Philips} alt="Philips-logo" /></a>
-          <a href="https://www.us.kohler.com/us/" target="_blank" rel="noopener noreferrer"><img src={Kohler} alt="Kohler-logo" /></a>
-          <a href="https://www.villeroy-boch.eu/en/" target="_blank" rel="noopener noreferrer"><img src={VB} alt="VB-logo"/></a>
-          <a href="https://www.blueair.com/" target="_blank" rel="noopener noreferrer"><img src={Blueair} alt="Blueair-logo" /></a>
-          <a href="https://www.marazzigroup.com/" target="_blank" rel="noopener noreferrer"><img src={Marazzi} alt="Marazzi-logo" /></a>
-        </div>
-      </div>
-      <Link to="/partners" style={{color: "#677e8a", fontSize: "13px", fontWeight: "bolder"}}>了解更多关于我们的合作伙伴</Link><p>或者</p>
-      <button className="button"><Link to="/contact/" style={{color: "white"}}>成为我们的合作伙伴</Link></button>
+      <Gallery/>
+      <button className="button"><Link to="/en/contact/" style={{color: "white"}}>成为我们的合作伙伴</Link></button>
     </div>
     <div className="blog-wrapper">
       <div className="blog has-text-centered">

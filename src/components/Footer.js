@@ -43,8 +43,8 @@ class Footer extends React.Component {
               <p>819 Nanjing West Road<br/>(near Taixing Road)<br/>3rd Floor<br/>200040 Shanghai P.R. China</p>
               <br/>
               <h2>Customer Service</h2>
-              <p><span className="bold">Phone:</span> +86(0)21-51853537</p>
-              <p><span className="bold">Email:</span> curious@wecarewc.com</p>
+              <p><span className="bold">Phone:<br></br></span> +86(0)21-51853537</p>
+              <p><span className="bold">Email:<br></br></span> curious@wecarewc.com</p>
               <br/>
               <h2>Other Inquires</h2>
               <Link to="contact"><button className="button is-primary">Get In Touch</button></Link>
