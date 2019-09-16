@@ -42,10 +42,12 @@ const News = (props) => (
             <Link
               to={node.fields.slug}
             >
-              <div className="blog-img" style={{ backgroundImage: `url('${node.frontmatter.photo}')`}}/>
-              <span><h5>{node.frontmatter.title}{" "}</h5></span>
-              <span><p>{node.excerpt}</p></span>
-              <span className="has-text-right"><p>{node.frontmatter.date}</p></span>
+              <div className="blog-card">
+                <div className="blog-img" style={{ backgroundImage: `url('${node.frontmatter.photo}')`}}/>
+                <span><h5>{node.frontmatter.title}{" "}</h5></span>
+                <span><p>{node.excerpt}</p></span>
+                <span className="has-text-right"><p>{node.frontmatter.date}</p></span>
+              </div>
             </Link>
           </div>
           )

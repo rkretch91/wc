@@ -28,7 +28,7 @@ class Gallery extends React.Component {
 
   render() {
     return (
-      <div>
+      <div style={{marginBottom: "30px"}}>
         <AliceCarousel
           buttonsDisabled={true}
           items={this.state.galleryItems}
