@@ -38,7 +38,7 @@ const IndexPage = (props) => (
             fields {
             slug
             }
-            excerpt(pruneLength: 100)
+            excerpt(pruneLength: 140)
             timeToRead
             html
 
@@ -90,7 +90,7 @@ const IndexPage = (props) => (
     </div>
     <div className="partners-home has-text-centered">
       <h1>合作伙伴</h1>
-      <p>我们有一个不断扩大的合作伙伴队伍一起携手，将卫生间愿景变成现实。我们也期待与您合作。</p>
+      <p style={{marginBottom: '30px'}}>我们有一个不断扩大的合作伙伴队伍一起携手，将卫生间愿景变成现实。我们也期待与您合作。</p>
       <Gallery/>
       <button className="button"><Link to="/en/contact/" style={{color: "white"}}>成为我们的合作伙伴</Link></button>
     </div>
@@ -105,9 +105,11 @@ const IndexPage = (props) => (
             <Link
               to={node.fields.slug}
             >
-              <div className="blog-img" style={{ backgroundImage: `url('${node.frontmatter.photo}')`}}/>
-              <span><h5>{node.frontmatter.title}{" "}</h5></span>
-              <span><p>{node.excerpt}</p></span>
+              <div className="blog-card">
+                <div className="blog-img" style={{ backgroundImage: `url('${node.frontmatter.photo}')`}}/>
+                <span><h5>{node.frontmatter.title}{" "}</h5></span>
+                <p>{node.excerpt}</p>
+              </div>
             </Link>
           </div>
           )
