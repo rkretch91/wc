@@ -5,7 +5,7 @@
   "author": "angeloocana.com",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
-    "browserslist": "^4.6.3",
+    "browserslist": "^4.16.5",
     "bulma": "^0.7.4",
     "caniuse-lite": "^1.0.30000979",
     "chroma-js": "^2.0.4",
