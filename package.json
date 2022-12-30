@@ -10,7 +10,7 @@
     "caniuse-lite": "^1.0.30000979",
     "chroma-js": "^2.0.4",
     "classnames": "^2.2.6",
-    "gatsby": "^2.13.3",
+    "gatsby": "^2.32.13",
     "gatsby-link": "^2.2.0",
     "gatsby-plugin-google-analytics": "^2.1.7",
     "gatsby-plugin-i18n": "^1.0.1",
